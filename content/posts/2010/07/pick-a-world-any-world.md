@@ -1,0 +1,24 @@
+---
+title: "Pick a world... any world..."
+date: 2010-07-06T00:32:37
+draft: false
+slug: "pick-a-world-any-world"
+url: "/2010/07/06/pick-a-world-any-world/"
+categories:
+  - "dangerousgifts"
+  - "ethics"
+  - "fire"
+  - "freeculture"
+tags: []
+---
+
+![abandon_despair](/images/2010/06/abandon_despair-225x300.jpg "abandon_despair")Last week I attended the second half of the [US Social Forum](http://www.ussf2010.org/) - not exactly a conference, but more of a convergence or a process, where 20,000 people gathered in Detroit to build coalitions, alliances, and movements. The [World Social Forum](http://www.forumsocialmundial.org.br/main.php?id_menu=4_2&cd_language=2) began as a response to the [World Economic Forum](http://www.weforum.org/) - Why should the power elite be the only ones planning humanity's future?!?
+The USSF web site and the People's Media Center (made possible by some righteous [radical techies](http://ict.ussf2010.org/), the [Design Action Collective](http://designaction.org/), [riseup.net](http://riseup.net/), and [May First/People Link](http://mayfirst.org/)) should give you a flavor of what the event was all about. But, be aware that the streaming video and social media barely scratches the surface of the experience.
+The forum is organized around 2-hour long workshops, and over 100, 4-hour long People's Movement Assembly's.  The sessions were in depth and quite intensive. The format is designed to encourage small group interactions and for people to connect and get to know each other.
+The assemblies were geared around crafting resolutions and actions - I attended parts of the transformative justice and healing PMA, and it was really well facilitated. During the closing ceremony the assemblies [synthesized their resolutions](http://pma2010.org/), scheduled actions, and asked for commitments of solidarity around their issues.  I don't think that this forum represents the Left's answer to the [Tea Party](http://www.youtube.com/watch?v=KVzyGQPgVN8), but I did gain a much better appreciation for the scope of issues comprising The Agenda(s). And, considering that anyone passionate about an issue was welcome to participate, the assemblies offered an authentic glimpse into everyone's priorities. It felt like a determined effort to take things into account, and put them in order.
+Here are some of the resolutions that emerged from the Progressive Techie Congress [Principles](http://pma2010.org/node/167) and the [Transformative Justice and Healing](http://pma2010.org/node/182) assembly.
+**Collective Liberation and Radical Mental Health**
+The main draw for me to the conference were the [Icarus Project](http://theicarusproject.net) workshops and the convergence of Icaristas, in person. We took over and transformed a house in a Detroit suburb, and mad dreaming and plotting ensued. The place was quickly transformed into a safe space for people to brilliantly  navigate the madness of the forums, and it was quite amazing to spend quality time, face to face, with friends and allies. I gravitated to the heath tracks, taking up issue of self-care, mutual aid, and wellness.  I also caught some great music, ate some amazing homemade food (and [not bombs](http://www.foodnotbombs.net/)), visited some incredible [collective living spaces](http://en.wikipedia.org/wiki/Trumbullplex), and was pretty inspired by everyone who cared and showed up.
+This [Icarus workshop](http://organize.ussf2010.org/ws/collective-liberation-and-radical-mental-health) I attended (there was [another](http://organize.ussf2010.org/ws/our-radical-mental-health-activists) that I missed, plus a screening of [Crooked Beauty](http://www.crookedbeauty.com/)) was eagerly anticipated and well attended - the participants were open and receptive to the core messages, and there was a palpable desire to embrace these issues locally. The session leaders shared their personal stories and modeled peer-support as we broke into groups ([photos](http://www.flickr.com/photos/annierobinson/sets/72157624378864598/), highlight reel to be posted shortly). People shared details of their individual and organizational neuro-diversity and how dysfunctional feedback loops undermine many organizing efforts. The relationship between personal and collective liberation emerged from the workshop and will travel far beyond Detroit's (shrinking) city limits.
+Detroit is pretty beat up - we stayed two blocks away from a refinery that belched flames into the night sky - but there are some wonderful people and projects that were really cool to experience. It's also the only city I have ever been to that has a [monument to organized labor](http://www.flickr.com/photos/tribe/686993975/).
+***If I can't dance, I don't want to be part of your revolution*** - [Emma Goldman](http://www.flickr.com/photos/bealebo/4653502018/), Radical Feminist

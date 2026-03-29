@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1337&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Interdisciplinary Kissing Problem · Alchemical Musings</title>
+<meta name="description" content="Last week I participated in the architecture school&rsquo;s visualization seminar and was treated to a mind-blowing presentation by Tony Jebara, a Columbia …">
+<meta name="author" content="Jonah Bossewitch">
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400;1,500&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="/css/main.css">
+
+</head>
+<body class="single">
+  <header class="site-header">
+  <div class="site-header__inner">
+    <div class="site-identity">
+      <a href="/" class="site-logo-link" aria-label="Home">
+        <img src="/images/jonahsStaff.jpg" alt="Alchemical Staff — site logo" class="site-logo">
+      </a>
+      <div class="site-identity__text">
+        <a href="/" class="site-title">Alchemical Musings</a>
+        <p class="site-motto"><em>Aurum nostrum non est aurum vulgi</em></p>
+      </div>
+    </div>
+    <nav class="site-nav" aria-label="Main navigation">
+      <a href="/">Writing</a>
+      <a href="/tags/">Topics</a>
+      <a href="/about/">About</a>
+    </nav>
+  </div>
+</header>
+
+  <main id="content">
+    
+<article class="post">
+  <header class="post__header">
+    <h1 class="post__title">The Interdisciplinary Kissing Problem</h1>
+    <div class="post__meta">
+      <time datetime="2009-09-29">September 29, 2009</time>
+      
+      <span class="post__cats">
+         · <a href="/categories/epistemology/">epistemology</a> · <a href="/categories/fire/">fire</a> · <a href="/categories/freeculture/">freeculture</a>
+      </span>
+      
+    </div>
+  </header>
+
+  <div class="post__content">
+    <p><a href="http://www.flickr.com/photos/automania/97936640/"><img src="/images/2009/09/97936640_a111c6ffbe-300x207.jpg" alt="webs" title="webs"></a>Last week I participated in the architecture school&rsquo;s visualization seminar and  was treated to a mind-blowing presentation by <a href="http://www1.cs.columbia.edu/~jebara/index.html">Tony Jebara</a>, a Columbia Computer Scientist. Jebara is a young associate professor who researches machine learning, graphs, and visualizations, and is also the chief scientist at <a href="http://www.citysense.com/">CitySense.com</a>. His lab <em>“develops novel algorithms that use data to model complex real-world phenomena and to make accurate predictions about them.”</em> They also work on improving the readability of massive volumes of multi-dimensional data, and are currently focusing on making sense of networks of people and places (take a wild guess <a href="http://www1.cs.columbia.edu/~jebara/funding.html">who else</a> is interested in their work).
+CitySense is an application that runs on mobile devices and from their location data&hellip;</p>
+<blockquote>
+<p>&hellip;builds a network of real places (like the World Wide Web) and a network of real people (like FaceBook) in order to apply online techniques like smart search, recommendation, collaborative filtering, marketing, user clustering and prediction. Today, Sense Networks tracks almost 10,000,000 mobile phones and location devices through partnerships with carriers, device manufacturers, application developers, taxi fleets, and its own subscribers.</p>
+</blockquote>
+<p>The system attempts to discern friendships as well as an establishment&rsquo;s clientele based on calculations of user&rsquo;s physical proximity to each other, combined with a growing semantic understanding of places (e.g. all the Starbucks in the city probably have more in common with each other (in some sense) than they do with their geographical neighbours). According to Jebara, the system is already able to infer the types of people who frequent certain nightclubs—students, hipsters, professionals, bankers, tourists—based purely on an analysis of these overlapping networks of millions of human and non-human actors. The cell phone carriers have also used this kind of analysis to reduce “churn”—if one person leaves the network, the carriers respond rapidly by offering promotions the defector&rsquo;s close network to seal the leak before the damage spreads.</p>
+<p>Incidentally, the matching algorithms that Jebara&rsquo;s lab uses are the same family of algorithms that &ldquo;power&rdquo; google ad words, so at least for the time being, despite the captivating <a href="http://www1.cs.columbia.edu/~jebara/rings.jpg">sacred geometry</a>, I am sticking with human recommendations ;-)</p>
+<p>I left the talk with many questions and reflections:</p>
+<ul>
+<li>I understand that calculating similarity is the special sauce in any recommendation implementation, but I am somewhat troubled by the conflation of proximity with similarity. Consider the Upper East Side Nanny or the parole officer and the parolee (although hollywood continues to try to convince us of the <a href="http://www.imdb.com/title/tt0268126/">identity relation</a> between detectives and criminals) - is there something essential being reduced or discarded when we reduce similarity to proximity?Is there any room in this model for the &ldquo;kind&rdquo; of relationship that motivates the physical proximity? Perhaps something similar to <a href="http://alchemicalmusings.org/2007/11/13/crowded-wisdom/">Yahoo/Berkeley TagMaps</a>? Their work requires explicit human input, and is already anticipating feedback effects and users &ldquo;gaming&rdquo; the system. Perhaps the network effects CitySense models will disregard much of this &ldquo;noise,&rdquo; but, at what social/cultural/political expense?</li>
+<li>Similarly, I don&rsquo;t really understand how this algorithm justifies the &ldquo;distance&rdquo; calculation. The multi-dimensional spaces they are flattening are incommensurate. Unlike the dimensions of space-time, the spaces described are composed of values, possibly expressing orders of worth in different units that cannot be transformed between each other. What is the Pythagorean theorem really measuring here?</li>
+<li>How can we do a better job representing more than a 2D scalar representation to users? Provide them with more dials and knobs so they can customize and tune what their view? How can we craft engaging environments that encourage interactive storytelling and help users <a href="http://www.cjr.org/feature/so_cool.php">carve narratives out of databases</a>?</li>
+</ul>
+<p>I think it is really important to understand these assumptions and possibly play with them. Would it <a href="http://jonahboss.fastmail.fm/presentations/mit6/html/mit6_beyond_panopticon.html">make a difference</a> if users had access to their own raw data, and understood the digital footprints they were leaving?  It seems quite  important that users understand the inner workings of these systems so they can take full advantage of them, and also not be <a href="http://digitallabor.org">exploited by them</a>.
+As Computer Science takes on more of the characteristics of Architecture and Urban Planning, we need to turn to questions of desire, intent, and purpose.
+What impacts do we hope that CitySense will have on social life? Not in a naive deterministic sense, but in terms of catalyzing, facilitating, and favoring certain social interactions over others. What kinds of hypotheses about the kinds of impacts a system like this might have on an urban space? Amazingly, these hypotheses might be testable. How might this system be tuned to increase the odds of these outcomes, once we articulate the mission/purpose of the design?
+Finally, what about the promise a tool like this might have for improving the public good? At <a href="http://ccnmtl.columbia.edu">work</a> we are partnering with the Earth Institute, the School of Public Health, and others on third world development projects that might benefit greatly from the application of these visualizations (<a href="http://www.rapidsms.org/about/projects/rapidresponse/">RapidSMS</a>, a project tracking malnutrition in Africa comes to mind).
+How can we work on balancing the <a href="http://alchemicalmusings.org/2007/02/26/the-organizational-digital-divide/">organizational digital divide</a>, and get these kinds of tools - the server side, not the client side - beyond the hands of corporations and letter agencies and into the hands of social scientists, architects, journalists, and educators?
+Can we <a href="http://alchemicalmusings.org/2009/04/15/mobile-student-labor/">mobilize the student labor</a> to benefit the public good?</p>
+
+  </div>
+
+  
+</article>
+
+<nav class="post-nav">
+  
+  <a href="http://localhost:1337/2009/08/25/interview-christopher-mackie-on-knights-hyperlocal-gambit/" class="post-nav__prev">← Interview: Christopher Mackie on Knight&#39;s Hyperlocal Gambit</a>
+  
+  
+  <a href="http://localhost:1337/2009/10/15/wonderful-wonderful-copenhagen/" class="post-nav__next">Wonderful, Wonderful Copenhagen? →</a>
+  
+</nav>
+
+  </main>
+  <footer class="site-footer">
+  <div class="site-footer__inner">
+    <p class="site-footer__motto"><em>Aurum nostrum non est aurum vulgi</em></p>
+    <p class="site-footer__copy">© 2026 Jonah Bossewitch</p>
+  </div>
+</footer>
+
+</body>
+</html>

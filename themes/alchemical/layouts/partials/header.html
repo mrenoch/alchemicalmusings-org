@@ -1,0 +1,18 @@
+<header class="site-header">
+  <div class="site-header__inner">
+    <div class="site-identity">
+      <a href="{{ "/" | relURL }}" class="site-logo-link" aria-label="Home">
+        <img src="{{ "images/jonahsStaff.jpg" | relURL }}" alt="Alchemical Staff — site logo" class="site-logo">
+      </a>
+      <div class="site-identity__text">
+        <a href="{{ "/" | relURL }}" class="site-title">{{ .Site.Title }}</a>
+        <p class="site-motto"><em>{{ .Site.Params.motto }}</em></p>
+      </div>
+    </div>
+    <nav class="site-nav" aria-label="Main navigation">
+      <a href="{{ "/" | relURL }}">Writing</a>
+      <a href="{{ "/tags/" | relURL }}">Topics</a>
+      <a href="{{ "/about/" | relURL }}">About</a>
+    </nav>
+  </div>
+</header>

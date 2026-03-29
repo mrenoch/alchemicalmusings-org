@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1337&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Me Generation · Alchemical Musings</title>
+<meta name="description" content="isomorphic surprises: stickies, tasty, and the importance of user contributed content I have been thinking alot about tagging lately, especially how a complete …">
+<meta name="author" content="Jonah Bossewitch">
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400;1,500&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="/css/main.css">
+
+</head>
+<body class="single">
+  <header class="site-header">
+  <div class="site-header__inner">
+    <div class="site-identity">
+      <a href="/" class="site-logo-link" aria-label="Home">
+        <img src="/images/jonahsStaff.jpg" alt="Alchemical Staff — site logo" class="site-logo">
+      </a>
+      <div class="site-identity__text">
+        <a href="/" class="site-title">Alchemical Musings</a>
+        <p class="site-motto"><em>Aurum nostrum non est aurum vulgi</em></p>
+      </div>
+    </div>
+    <nav class="site-nav" aria-label="Main navigation">
+      <a href="/">Writing</a>
+      <a href="/tags/">Topics</a>
+      <a href="/about/">About</a>
+    </nav>
+  </div>
+</header>
+
+  <main id="content">
+    
+<article class="post">
+  <header class="post__header">
+    <h1 class="post__title">The Me Generation</h1>
+    <div class="post__meta">
+      <time datetime="2006-03-04">March 4, 2006</time>
+      
+      <span class="post__cats">
+         · <a href="/categories/plone/">plone</a>
+      </span>
+      
+    </div>
+  </header>
+
+  <div class="post__content">
+    <p><strong>isomorphic surprises: stickies, tasty, and the importance of user contributed content</strong>
+I have been thinking alot about tagging lately, especially how a <a href="http://tagschema.com/blogs/tagschema/2005/06/slicing-and-dicing-data-20-part-2.html">complete tagging system</a> - comprised of user-item-tag triplets, is isomorphic to <a href="http://www.xml.com/pub/a/2001/01/24/rdf.html?page=1">rdf</a>&rsquo;s subject-predicate-object triplets. It is amusing to think about how egocentric <a href="http://www.oreillynet.com/pub/a/oreilly/tim/news/2005/09/30/what-is-web-20.html">Web 2.0</a> is - The subject is always <em>me</em>. Web 2.0 might be made of people, but not just any people - Just the most important one in the world.
+Today I had a fun time trying to explain to people on irc the power and importance of user contributed content annotations within plone. Crucially, user content annotations are per-user, per-object, and in many cases a single user might want to annotate a particular object with more than one annotation.
+Interesting annotations can come in many flavors. There are free form notes, fine grained annotations (anchored to particular phrases - think msword trackback - or geometrical coordinates on the target - nice for image annotations), keyword annotations (aka - tags), etc ect. There many problems that can be solved with custom per user content annotations, including quiz and poll results, per student answer submission, and lately we have been working on allowing users to clip audio and video by annotating start and end times on media objects.
+It is important not to confuse per-user tagging with DC:Subject - the dc metadata is shared across all users (like categories in the wikipedia) and in that sense, is global. While we are on the topic of tags, it is useful to talk about the vocabulary that drives the tagging. Vocabularies can be fixed or free, individual or collaborative, and personal or shared. All of these variations are interesting in different cntexts, and have to do with whether or not I see your tags, or if we each are developing our own ontologies.
+In educational technology annotations are a big part of the problems we are trying to solve, but there are tons of use cases in the world at large. Additionally, a high performance, robust tagging engine can power personal content organization, like gmail&rsquo;s labels.
+Which brings me to the products we have been developing at <a href="http://ccnmtl.colubmia.edu">CCNMTL</a>. We have been using PloneStickies, a general purpose content annotation framework, in production for over a year now. Built using AT References, it allows us to create per-user AT objects connected to the target object. AT Schema Annotations won&rsquo;t do the trick here since, like DC:Subject, these annotations are instance-wide. Z3 annotations might work, but by building AT derived stickies, we pick up search, workflow, permissions, and the richness of AT. This allows us to quickly and easily develop custom stickies, like the StickyClip.
+<a href="http://plone.org/products/stickies">PloneStickies</a> has <a href="http://plone.org/products/stickies/roadmap/psc_improvements_listing">a ways to go</a>, but the basics work great. It is not yet super useful out of the box, since the portlet it ships with only allows users to attach a single free form StickyNote to the target object. But it is great to develop applications with. It ships with with some super snazzy css stickies, complete with colored/resizable/title-barred/drop-shadowed/roll-upable/transparent-when-dragging notes, which can preserve their own x-y position and state across sessions and never fall off your screen. It now supports attaching multiple stickies to a target, but does not yet provide a mechanism for the target object to place the stickies itself.
+At first we thought we could implement a Plone tagging solution using this framework - just create a StickyTags made out of keyword fields, and voilà - plonr. Trouble was, since tagging is such a symmetrical model, its tough to build an efficient zodb implementation (for me, at least) that can handle all the querrying we wanted to do.
+Enter the <a href="http://tasty.python-hosting.org/">tasty</a> <a href="http://thraxil.com/users/anders/posts/2006/03/08/tasty-lightning/">microapp</a> and the <a href="http://svn.plone.org/view/collective/PloneTasty/trunk/">PloneTasty</a> proxy (about 90% done). Tasty is a stateful (sqlobject) turbogears component that exposes a <a href="http://tasty.python-hosting.com/wiki/TastyRestInterface">REST api</a>, ships with its own snazzy ajax tagging client, and can be used across <a href="http://tasty.python-hosting.com/wiki/ClientImplementations">frameworks, languages, and platforms</a>. We are even <a href="http://alchemicalmusings.blogspot.com/2006/03/saints-in-church-of-writely.html">hoping</a> it can help make the world a better place.
+So StickyTags (which doesn&rsquo;t exist) and PloneTasty are two implementations of the same concept, with StickyTags being the AT/zodb implementation and PloneTasty/tasty the new microapp design (mashup architecture?) we have been working on and are pretty psyched about.
+And if you act now, you get the <a href="http://www.knifethrowing.info/catania.html">knife set</a> and the <a href="http://www.abc.net.au/science/k2/lint/default.htm">lint remover</a> too, for just 3 easy installments.</p>
+
+  </div>
+
+  
+</article>
+
+<nav class="post-nav">
+  
+  <a href="http://localhost:1337/2006/03/02/faster-better-cheaper/" class="post-nav__prev">← Faster, Better, Cheaper</a>
+  
+  
+  <a href="http://localhost:1337/2006/03/12/saints-in-the-church-of-writely/" class="post-nav__next">Saints in the Church of Writely? →</a>
+  
+</nav>
+
+  </main>
+  <footer class="site-footer">
+  <div class="site-footer__inner">
+    <p class="site-footer__motto"><em>Aurum nostrum non est aurum vulgi</em></p>
+    <p class="site-footer__copy">© 2026 Jonah Bossewitch</p>
+  </div>
+</footer>
+
+</body>
+</html>

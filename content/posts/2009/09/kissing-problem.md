@@ -1,0 +1,33 @@
+---
+title: "The Interdisciplinary Kissing Problem"
+date: 2009-09-29T01:06:30
+draft: false
+slug: "kissing-problem"
+url: "/2009/09/29/kissing-problem/"
+categories:
+  - "epistemology"
+  - "fire"
+  - "freeculture"
+tags: []
+---
+
+[![webs](/images/2009/09/97936640_a111c6ffbe-300x207.jpg "webs")](http://www.flickr.com/photos/automania/97936640/)Last week I participated in the architecture school's visualization seminar and  was treated to a mind-blowing presentation by [Tony Jebara](http://www1.cs.columbia.edu/~jebara/index.html), a Columbia Computer Scientist. Jebara is a young associate professor who researches machine learning, graphs, and visualizations, and is also the chief scientist at [CitySense.com](http://www.citysense.com/). His lab *“develops novel algorithms that use data to model complex real-world phenomena and to make accurate predictions about them.”* They also work on improving the readability of massive volumes of multi-dimensional data, and are currently focusing on making sense of networks of people and places (take a wild guess [who else](http://www1.cs.columbia.edu/~jebara/funding.html) is interested in their work).
+CitySense is an application that runs on mobile devices and from their location data...
+> ...builds a network of real places (like the World Wide Web) and a network of real people (like FaceBook) in order to apply online techniques like smart search, recommendation, collaborative filtering, marketing, user clustering and prediction. Today, Sense Networks tracks almost 10,000,000 mobile phones and location devices through partnerships with carriers, device manufacturers, application developers, taxi fleets, and its own subscribers.
+
+The system attempts to discern friendships as well as an establishment's clientele based on calculations of user's physical proximity to each other, combined with a growing semantic understanding of places (e.g. all the Starbucks in the city probably have more in common with each other (in some sense) than they do with their geographical neighbours). According to Jebara, the system is already able to infer the types of people who frequent certain nightclubs—students, hipsters, professionals, bankers, tourists—based purely on an analysis of these overlapping networks of millions of human and non-human actors. The cell phone carriers have also used this kind of analysis to reduce “churn”—if one person leaves the network, the carriers respond rapidly by offering promotions the defector's close network to seal the leak before the damage spreads.
+
+Incidentally, the matching algorithms that Jebara's lab uses are the same family of algorithms that "power" google ad words, so at least for the time being, despite the captivating [sacred geometry](http://www1.cs.columbia.edu/~jebara/rings.jpg), I am sticking with human recommendations ;-)
+
+I left the talk with many questions and reflections:
+
+- I understand that calculating similarity is the special sauce in any recommendation implementation, but I am somewhat troubled by the conflation of proximity with similarity. Consider the Upper East Side Nanny or the parole officer and the parolee (although hollywood continues to try to convince us of the [identity relation](http://www.imdb.com/title/tt0268126/) between detectives and criminals) - is there something essential being reduced or discarded when we reduce similarity to proximity?Is there any room in this model for the "kind" of relationship that motivates the physical proximity? Perhaps something similar to [Yahoo/Berkeley TagMaps](http://alchemicalmusings.org/2007/11/13/crowded-wisdom/)? Their work requires explicit human input, and is already anticipating feedback effects and users "gaming" the system. Perhaps the network effects CitySense models will disregard much of this "noise," but, at what social/cultural/political expense?
+- Similarly, I don't really understand how this algorithm justifies the "distance" calculation. The multi-dimensional spaces they are flattening are incommensurate. Unlike the dimensions of space-time, the spaces described are composed of values, possibly expressing orders of worth in different units that cannot be transformed between each other. What is the Pythagorean theorem really measuring here?
+- How can we do a better job representing more than a 2D scalar representation to users? Provide them with more dials and knobs so they can customize and tune what their view? How can we craft engaging environments that encourage interactive storytelling and help users [carve narratives out of databases](http://www.cjr.org/feature/so_cool.php)?
+
+I think it is really important to understand these assumptions and possibly play with them. Would it [make a difference](http://jonahboss.fastmail.fm/presentations/mit6/html/mit6_beyond_panopticon.html) if users had access to their own raw data, and understood the digital footprints they were leaving?  It seems quite  important that users understand the inner workings of these systems so they can take full advantage of them, and also not be [exploited by them](http://digitallabor.org).
+As Computer Science takes on more of the characteristics of Architecture and Urban Planning, we need to turn to questions of desire, intent, and purpose.
+What impacts do we hope that CitySense will have on social life? Not in a naive deterministic sense, but in terms of catalyzing, facilitating, and favoring certain social interactions over others. What kinds of hypotheses about the kinds of impacts a system like this might have on an urban space? Amazingly, these hypotheses might be testable. How might this system be tuned to increase the odds of these outcomes, once we articulate the mission/purpose of the design?
+Finally, what about the promise a tool like this might have for improving the public good? At [work](http://ccnmtl.columbia.edu) we are partnering with the Earth Institute, the School of Public Health, and others on third world development projects that might benefit greatly from the application of these visualizations ([RapidSMS](http://www.rapidsms.org/about/projects/rapidresponse/), a project tracking malnutrition in Africa comes to mind).
+How can we work on balancing the [organizational digital divide](http://alchemicalmusings.org/2007/02/26/the-organizational-digital-divide/), and get these kinds of tools - the server side, not the client side - beyond the hands of corporations and letter agencies and into the hands of social scientists, architects, journalists, and educators?
+Can we [mobilize the student labor](http://alchemicalmusings.org/2009/04/15/mobile-student-labor/) to benefit the public good?

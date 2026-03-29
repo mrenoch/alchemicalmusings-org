@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1337&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Audio experiments and the rise of Scuttlebutt · Alchemical Musings</title>
+<meta name="description" content="by Jonah Bossewitch and Rob Garfield While chipping away at my dissertation this summer I found myself faced with the daunting task of transcribing about a …">
+<meta name="author" content="Jonah Bossewitch">
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400;1,500&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="/css/main.css">
+
+</head>
+<body class="single">
+  <header class="site-header">
+  <div class="site-header__inner">
+    <div class="site-identity">
+      <a href="/" class="site-logo-link" aria-label="Home">
+        <img src="/images/jonahsStaff.jpg" alt="Alchemical Staff — site logo" class="site-logo">
+      </a>
+      <div class="site-identity__text">
+        <a href="/" class="site-title">Alchemical Musings</a>
+        <p class="site-motto"><em>Aurum nostrum non est aurum vulgi</em></p>
+      </div>
+    </div>
+    <nav class="site-nav" aria-label="Main navigation">
+      <a href="/">Writing</a>
+      <a href="/tags/">Topics</a>
+      <a href="/about/">About</a>
+    </nav>
+  </div>
+</header>
+
+  <main id="content">
+    
+<article class="post">
+  <header class="post__header">
+    <h1 class="post__title">Audio experiments and the rise of Scuttlebutt</h1>
+    <div class="post__meta">
+      <time datetime="2014-11-09">November 9, 2014</time>
+      
+      <span class="post__cats">
+         · <a href="/categories/aesthetics/">aesthetics</a> · <a href="/categories/air/">air</a>
+      </span>
+      
+    </div>
+  </header>
+
+  <div class="post__content">
+    <h4 id="by-jonah-bossewitch-and-rob-garfield"><em>by Jonah Bossewitch and Rob Garfield</em></h4>
+<p><img src="/images/2014/11/ouroboros_Michael_Maier_Atalanta_Fugiens_Emblem_14-300x180.jpg" alt="ouroboros_Michael_Maier_Atalanta_Fugiens_Emblem_14">While chipping away at my dissertation this summer I found myself faced with the daunting task of transcribing about a dozen hours of video. I desperately wanted to believe that, in 2014, transcription was a machine&rsquo;s task, so I took a minor detour through the state of the (consumer) art in voice recognition.  One of my computers runs OSX which includes <a href="http://mac.appstorm.net/reviews/os-x-reviews/everything-you-need-to-know-about-dictation-in-os-x-mavericks/">Dictation</a> (since Mavericks), the same voice recognition software that powers <a href="http://www.jordanmechner.com/archive/#2011-10-siri">Siri</a>. Following these <a href="http://www.leveluplunch.com/blog/2013/12/30/convert-recorded-audio-text-using-osx-dictation-audacity-soundflower/">instructions</a> I used the <a href="http://rogueamoeba.com/freebies/soundflower/">Soundflower</a> kernel extensions to send the audio output from <a href="http://audacity.sourceforge.net/">Audacity</a> into Dictation&rsquo;s input.
+Dictation did such an awful job understanding my video that I actually found it easier to transcribe the videos manually rather than edit Dictation&rsquo;s vomit. I found some decent software called <a href="http://www.nch.com.au/scribe/">ExpressScribe</a> to assist in the manual transcription.  ExpressScribe makes it easy to control the playback speed, and can be configured to play a segment, automatically pause, and then rewind the video to moments before it paused.  The pro version can be rigged up to foot petal controls, but I was able to do my transcription using the crippleware.
+This summer I visited my friend Rob&rsquo;s country house, affectionately dubbed <em>Snowbound</em>  and located on the transcendental <a href="https://www.google.com/maps/place/Baptist+Pond,+Springfield,+NH+03284/@43.4513591,-72.0810211,590m/data=!3m1!1e3!4m2!3m1!1s0x89e1fa4350bf1385:0x5ea3e0c04bb6ef74">Baptist Pond, NH</a>. Rob was gracious enough to invite me up for a writing retreat, though we managed to fit in some canoeing, hiking, cooking and drinking. We also gave birth to one of the most creative <a href="http://www.ebaumsworld.com/video/watch/24101/">constructive procrastinations</a> of my dissertation*—<em>Scuttlebutt.
+After all that time playing with transcription tools we began to wonder if OSX could understand itself.  For years, OSX has been able to turn text to speech, and even ships with dozens of voices, with names like Vicky and Alex.  What would happen if we fed OSX&rsquo;s text-to-speech into it&rsquo;s own Dictation software?
+<img src="/images/2014/11/Dealing-with-Workplace-Gossip6-300x200.jpg" alt="Dealing-with-Workplace-Gossip6">Originally we thought Scuttlebutt might analogize and highlight the way that we humans misunderstand, mishear and misremember, in particular, the lightning quick messages that we receive on a daily basis through personal interaction, social media and email</em>—*often deeply changing the message, generalizing it, and recontextualizing it.  Although voice recognition software begs us to “train” it, we thought we might have <em>better</em> results interacting with its infant state.
+We needed a reliable benchmark and settled on the <a href="https://www.biblegateway.com/passage/?search=Genesis+1&amp;version=KJV">first chapter of Genesis</a>. We were curious if the voice recognition software would improve, with successive iterations of feeding it it&rsquo;s own output back to itself using text-to-voice. There was one way to find out.</p>
+<blockquote>
+<p>In the beginning God created the heaven and the rest anything is left without things we think are funny face of the deep and just give it to Scott moved upon the face of the waters&hellip;</p>
+</blockquote>
+<p>The results were surreal and absurd. Successive iterations degenerated, and we realized that Dictation was trying to adapt and learn, and would never reach a stable state. In fact, the system wasn&rsquo;t behaving deterministically*—*we were seeing different interpretations when reading the exact same text. As you can see from our <a href="https://www.dropbox.com/sh/jv9h00ryablpkqu/AACefLTmce-nfJQvR9vKZq8ea?dl=0">lab notes</a>, zaniness ensued.
+One of the things we found most beautiful about the initial Scuttlebutt experiments was watching the mechanisms <em>think</em> in real time, going back in the text to reevaluate previous approximations in the face of new material, yet rarely, if ever, arriving at a more humanly coherent whole.  With Soundflower enabled, the text-to-voice was inaudible and my laptop appeared possessed as the words flowed spectrally into the text editor. At times Scuttlebutt would pause, as if pondering, and burst forth with an entire paragraph. Other times it corrected itself, backtracking as if reconsidering it&rsquo;s previous composition. What we saw was an <em>unthinking</em> machine actually <em>thinking</em> in a way so foreign to us that we could only find it charming and amusing.  The analogy to human misprision began to erode and the phantasm of an alien intelligence emerged to take its place.
+Did Scuttlebutt <em>care</em> about Genesis?  Did it care about cogency, grammar, narrative, character?  Was it looking for a climax?  Was it acting like an alien parrot trying to please us with its ability to mirror the sounds it heard and fool us into thinking it had at least an unsteady foothold in human (English) linguistic competence?  Would it have passed a Turing test altered to determine whether an alien mind was conscious?  Will the first recognizably sentient AI be running on free/open source software (a question we&rsquo;ve pondered previously in: <a href="http://alchemicalmusings.org/2010/11/27/playing-doctor/">Playing doctor</a>)?
+What next for Scuttlebutt? A tweeting preacher-bot?  Transrealist poet?  Mechanical Burroughsian cut-ups?</p>
+
+  </div>
+
+  
+</article>
+
+<nav class="post-nav">
+  
+  <a href="http://localhost:1337/2014/09/28/the-sheriff-and-the-pretty-woman/" class="post-nav__prev">← The sheriff and the pretty woman</a>
+  
+  
+  <a href="http://localhost:1337/2015/02/15/i-heart-compliance/" class="post-nav__next">I &lt;3 compliance! →</a>
+  
+</nav>
+
+  </main>
+  <footer class="site-footer">
+  <div class="site-footer__inner">
+    <p class="site-footer__motto"><em>Aurum nostrum non est aurum vulgi</em></p>
+    <p class="site-footer__copy">© 2026 Jonah Bossewitch</p>
+  </div>
+</footer>
+
+</body>
+</html>

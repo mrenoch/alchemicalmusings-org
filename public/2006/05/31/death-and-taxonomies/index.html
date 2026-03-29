@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1337&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Death and Taxonomies · Alchemical Musings</title>
+<meta name="description" content="Originally published on theploneblog.org A forray into drupal 4.7&rsquo;s taxonomy system and what Plone can learn from it. I have been moonlighting on a Drupal …">
+<meta name="author" content="Jonah Bossewitch">
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400;1,500&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="/css/main.css">
+
+</head>
+<body class="single">
+  <header class="site-header">
+  <div class="site-header__inner">
+    <div class="site-identity">
+      <a href="/" class="site-logo-link" aria-label="Home">
+        <img src="/images/jonahsStaff.jpg" alt="Alchemical Staff — site logo" class="site-logo">
+      </a>
+      <div class="site-identity__text">
+        <a href="/" class="site-title">Alchemical Musings</a>
+        <p class="site-motto"><em>Aurum nostrum non est aurum vulgi</em></p>
+      </div>
+    </div>
+    <nav class="site-nav" aria-label="Main navigation">
+      <a href="/">Writing</a>
+      <a href="/tags/">Topics</a>
+      <a href="/about/">About</a>
+    </nav>
+  </div>
+</header>
+
+  <main id="content">
+    
+<article class="post">
+  <header class="post__header">
+    <h1 class="post__title">Death and Taxonomies</h1>
+    <div class="post__meta">
+      <time datetime="2006-05-31">May 31, 2006</time>
+      
+      <span class="post__cats">
+         · <a href="/categories/plone/">plone</a>
+      </span>
+      
+    </div>
+  </header>
+
+  <div class="post__content">
+    <p><em>Originally published on theploneblog.org</em>
+<strong>A forray into drupal 4.7&rsquo;s taxonomy system and what Plone can learn from it.</strong>
+I have been moonlighting on a Drupal project and paying close attention to their taxonomy system. Drupal&rsquo;s taxonomy/category/tagging system was completely revamped for their 4.6-&gt;4.7 release - a release close to a full year in the making, analogous to the Plone 2.0-&gt;2.1 &ldquo;minor&rdquo; point release.
+The site I have been working on, <a href="http://www.theicarusproject.net">theicarusproject.net</a>
+has a very rich collection of content, and one of the primary motivations for the migration is to get a better handle on the classification system - noboday can find anything on the current site. They were committed to Drupal long before I arrived, so I dug in with the hope of learning something from the contrast.
+PHP bashing aside, there are alot of interesting things happening in Drupal land. I hope to follow up this post with a few more cross-pollinating nuggets, but for now I will focus on their taxonomy system.
+Taxonomies in Drupal are considered the heart of the system, and the essential modules ship with the core and cannot be disabled. Most URLs in Drupal are effectively queries, much like our smart folders (actually, for anything aside from anti-chronological display order you need to install the <a href="http://drupal.org/project/views">Views module</a>) but the display results are all instances of content with matching vocabulary terms. The absence of folders and containment initially confuses many administrators, and renders breadcrumbs largely useless, but does allow for the creation of sophisticated information architectures.
+Taxonomies are managed top-down, not bottom-up, and have a separate administrative interface for their creation and management. Once the taxonomy vocabularies are created, specific terms can be added to these vocabularies without having to create content associated with those terms (in contrast to a bottom-up category system, like the mediawiki).
+Category Management - Vocabulary Listings:
+<img src="/images/2006/05/vocabulary_listing-300x167.jpg" alt="vocabulary_listing" title="vocabulary_listing">
+Druapl supports multiple vocabularies, which can each be associated with one or more content types. Vocabularies can be flat, one level deep, or N-levels deep (hierarchical). They can be fixed or free form (meaning content authors can make up new categories upon content creation). The core tagging system does not support the creation of tags per-user, per-object - only per-object.
+Category Management - Add a Vocab:
+<img src="/images/2006/05/add_vocabulary-300x242.jpg" alt="add_vocabulary" title="add_vocabulary">
+Category Management - Add/Edit a Term:
+<img src="/images/2006/05/edit_term-300x242.jpg" alt="edit_term" title="edit_term">
+The Drupal taxonomy system is very powerful, but its power is very open ended and does not necessarily lead users towards a uniform experience. The confusion around categories and taxonomies is best exemplified by the <a href="http://category.greenash.net.au/">category module</a> meant to consolidate and simplify taxonomy and navigation, but there is no consensus on its incorporation into the core.
+A large number of modules are built around taxonomies. Core Drupal supports roles, but no groups (<a href="http://drupal.org/project/og">organic groups</a> is a popular access delegatoin solution, but it is incompatible with other access restriction modules - so you have to choose one), and does not have a notion of containment (ie folders). So, for example, one way to restrict editing access is by enabling the <a href="http://drupal.org/project/taxonomy_access">taxonomy access</a> module. Another useful module is the <a href="http://drupal.org/project/taxonomy_browser">taxonomy browser</a> which allows for advanced search against unions/intersections of vocab terms.
+Category Browser:
+<img src="/images/2006/05/category_browser-300x246.jpg" alt="category_browser" title="category_browser">
+Once vocabularies are created, and terms added, content can be associated with these terms:
+<img src="/images/2006/05/content_creation-300x246.jpg" alt="content_creation" title="content_creation">
+Working on this site really drove home the value in separating the navigation axis (section) from the thematic axis (keywords), and separating these dimensions was easy to accomplish with the taxonomy/category tools built into drupal. In particular, once the scheme was developed, managing vocabulary lists (even hierarchical ones) is intuitive, albeit slightly clunky. I further chose to introduce a free-form tagging dimension for member contributed posts which may or may not fit into the fixed taxonomy. This is similar to myspace and facebook allowing for free-form hobbies and interests, and banking on a large enough user base that there will be overlap and potentially interesting intersections.
+<img src="/images/2006/05/section_vocab-300x242.jpg" alt="section_vocab" title="section_vocab">
+<img src="/images/2006/05/keywords_listing-300x246.jpg" alt="keywords_listing" title="keywords_listing">
+The system still does not allow for the intuitive modeling of a many-to-many relationship, which I continue to think is the litmus test which will mark of a truly powerful taxonomy UI. There is still quite a bit of programmer know how involved in setting up this system so that it operates the way that content administrators expect, and arguably there are too many degrees of freedom introduced by such a general purpose modeling capability (if you think about it, a tagging system can essentially allow web administrators to model relationships which used to require programming custom applications against an rdbms).
+Nonetheless, Drupal&rsquo;s taxonomy/category/vocabulary system definitely captures a few use cases more elegantly than Plone&rsquo;s current core does. But perhaps the real lesson is the importance of not mixing navigation space and content space, which can be kept separate in Plone, but is all too easy to conflate (in Drupal too!).
+Note: most things I describe in this case study could have been accomplished within core Plone - I think the most interesting things here are the administrative UI for multiple vocabulary management, the different types of vocabularies, and how central they are in the construction of a Drupal site.</p>
+
+  </div>
+
+  
+</article>
+
+<nav class="post-nav">
+  
+  <a href="http://localhost:1337/2006/04/16/turtle-totems/" class="post-nav__prev">← Turtle Totems</a>
+  
+  
+  <a href="http://localhost:1337/2006/07/13/new-york-state-of-plone/" class="post-nav__next">New York State of Plone →</a>
+  
+</nav>
+
+  </main>
+  <footer class="site-footer">
+  <div class="site-footer__inner">
+    <p class="site-footer__motto"><em>Aurum nostrum non est aurum vulgi</em></p>
+    <p class="site-footer__copy">© 2026 Jonah Bossewitch</p>
+  </div>
+</footer>
+
+</body>
+</html>
