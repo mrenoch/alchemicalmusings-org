@@ -1,0 +1,8 @@
+name = "alchemical"
+license = "MIT"
+licenselink = ""
+description = "A minimal serif theme for Alchemical Musings"
+homepage = "https://alchemicalmusings.org/"
+tags = ["blog", "minimal", "serif"]
+features = ["blog"]
+min_version = "0.120.0"

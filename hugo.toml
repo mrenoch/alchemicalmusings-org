@@ -1,0 +1,23 @@
+baseURL = "https://alchemicalmusings.org/"
+languageCode = "en-us"
+title = "Alchemical Musings"
+theme = "alchemical"
+
+[params]
+  description = "Aurum nostrum non est aurum vulgi"
+  author = "Jonah Bossewitch"
+  motto = "Aurum nostrum non est aurum vulgi"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[pagination]
+  pagerSize = 20
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    style = "monokai"
