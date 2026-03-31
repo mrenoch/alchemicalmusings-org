@@ -1,7 +1,7 @@
 ---
 title: "Alchemy 2.0"
 slug: "alchemy-20"
-menu: main
+
 ---
 
 > I conjure up symbols from the æther, assemble them into an informational hierarchy, where they, in turn, control and manipulate metallurgic elements in the external world. *What am I?*

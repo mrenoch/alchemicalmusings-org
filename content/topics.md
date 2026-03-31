@@ -1,7 +1,7 @@
 ---
 title: "Topics"
 slug: "topics"
-menu: main
+draft: true
 ---
 
 

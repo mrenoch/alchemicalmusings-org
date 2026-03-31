@@ -1,7 +1,7 @@
 ---
 title: "Tweets"
 slug: "tweets"
-menu: main
+draft: true
 ---
 
 [aktt\_tweets account="mrenoch"]

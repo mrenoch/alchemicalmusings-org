@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 slug: "publications"
-menu: main
+
 ---
 
 **Peer reviewed:**

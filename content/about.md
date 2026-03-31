@@ -1,7 +1,7 @@
 ---
 title: "About"
 slug: "about"
-menu: main
+
 ---
 
 **![](http://ccnmtl.columbia.edu/web/assets/headshots/Bossewitch.jpg)Jonah Bossewitch, PhD**is an educator, technologist and author who grew up in New York City. He currently works at [Flux Tailor](https://fluxtailor.com/) as a fractional CTO and has recently become a suburban dad.  He lives with his parter and their young son in New Haven, CT.

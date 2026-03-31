@@ -1,0 +1,14 @@
+<footer class="footer">
+	<div class="container footer__container flex">
+		{{ partial "footer_links.html" . }}
+		<div class="footer__copyright">
+			<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">
+				<img alt="Creative Commons License" style="border-width:0;vertical-align:middle;margin-right:6px;"
+					src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" />
+			</a>
+			{{ now.Format "2006" }} {{ .Site.Params.copyright | default .Site.Title }}.
+			Licensed under <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.
+			<span class="footer__copyright-credits">{{ T "footer_credits" | safeHTML }}</span>
+		</div>
+	</div>
+</footer>

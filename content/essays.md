@@ -1,7 +1,7 @@
 ---
 title: "Essays"
 slug: "essays"
-menu: main
+
 ---
 
 Peices, Papers, essays beyond the blog format, some written for courses, others for fun.

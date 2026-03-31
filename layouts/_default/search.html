@@ -1,0 +1,181 @@
+{{ define "main" }}
+<div class="post post--single">
+  <header class="post__header">
+    <h1 class="post__title">Search</h1>
+  </header>
+  <div class="post__content content clearfix">
+
+    <div id="search-wrap" style="position:relative;margin-bottom:1.5rem;">
+      <input
+        id="search-input"
+        type="search"
+        placeholder="Search posts…"
+        aria-label="Search"
+        autocomplete="off"
+        autofocus
+        style="width:100%;padding:0.6rem 0.85rem;font-size:1.05rem;font-family:inherit;
+               border:1px solid #b5bfaa;border-radius:3px;background:#fafaf5;color:#474e44;
+               box-sizing:border-box;">
+      <ul id="autocomplete-list" style="
+        display:none;position:absolute;top:100%;left:0;right:0;z-index:300;
+        margin:0;padding:0;list-style:none;background:#fff;
+        border:1px solid #b5bfaa;border-top:none;border-radius:0 0 3px 3px;
+        box-shadow:0 4px 10px rgba(0,0,0,0.1);max-height:320px;overflow-y:auto;">
+      </ul>
+    </div>
+
+    <div id="search-status" style="color:#899c81;font-size:0.9rem;margin-bottom:0.75rem;"></div>
+    <div id="search-results"></div>
+
+  </div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.9/lunr.min.js"></script>
+<script>
+(function() {
+  var statusEl  = document.getElementById('search-status');
+  var acList    = document.getElementById('autocomplete-list');
+  var container = document.getElementById('search-results');
+  var input     = document.getElementById('search-input');
+
+  if (typeof lunr === 'undefined') {
+    statusEl.textContent = 'Search library failed to load. Please check your connection.';
+    return;
+  }
+
+  var indexData = null;
+  var lunrIndex = null;
+  var indexLoading = false;
+
+  function fetchIndex(cb) {
+    if (lunrIndex) { cb(); return; }
+    if (indexLoading) { return; }   /* debounce concurrent fetches */
+    indexLoading = true;
+    statusEl.textContent = 'Loading search index…';
+    fetch('/index.json')
+      .then(function(r) {
+        if (!r.ok) throw new Error('HTTP ' + r.status);
+        return r.json();
+      })
+      .then(function(data) {
+        indexData = data;
+        lunrIndex = lunr(function() {
+          this.ref('uri');
+          this.field('title',      { boost: 10 });
+          this.field('categories', { boost: 5  });
+          this.field('summary',    { boost: 3  });
+          this.field('content');
+          data.forEach(function(doc) {
+            this.add({
+              uri:        doc.uri,
+              title:      doc.title      || '',
+              categories: (doc.categories || []).join(' '),
+              summary:    doc.summary    || '',
+              content:    doc.content    || ''
+            });
+          }, this);
+        });
+        statusEl.textContent = '';
+        indexLoading = false;
+        cb();
+      })
+      .catch(function(err) {
+        statusEl.textContent = 'Could not load search index: ' + err.message;
+        indexLoading = false;
+      });
+  }
+
+  function runSearch(query) {
+    if (!query || !lunrIndex) return [];
+    try {
+      var r = lunrIndex.search(query + '*');
+      if (!r.length) r = lunrIndex.search(query);
+      return r;
+    } catch(e) {
+      try { return lunrIndex.search(query); } catch(e2) { return []; }
+    }
+  }
+
+  /* ── Autocomplete dropdown ─────────────────────────────────── */
+  function showAutocomplete(query) {
+    acList.innerHTML = '';
+    if (!query || query.length < 2 || !lunrIndex) { acList.style.display = 'none'; return; }
+    var results = runSearch(query).slice(0, 6);
+    if (!results.length) { acList.style.display = 'none'; return; }
+    results.forEach(function(r) {
+      var doc = indexData.find(function(d) { return d.uri === r.ref; });
+      if (!doc) return;
+      var li = document.createElement('li');
+      li.style.cssText = 'border-bottom:1px solid #eef0e8;';
+      var a = document.createElement('a');
+      a.href = doc.uri;
+      a.style.cssText = 'display:block;padding:8px 14px;color:#474e44;text-decoration:none;font-size:0.95rem;';
+      a.innerHTML = '<strong style="color:#a37d48;">' + escHtml(doc.title) + '</strong>';
+      if (doc.date) a.innerHTML += ' <small style="color:#899c81;font-size:0.8em;">— ' + escHtml(doc.date) + '</small>';
+      a.addEventListener('mouseenter', function() { this.style.background = '#f4f5ed'; });
+      a.addEventListener('mouseleave', function() { this.style.background = ''; });
+      li.appendChild(a);
+      acList.appendChild(li);
+    });
+    acList.style.display = 'block';
+  }
+
+  /* ── Full results list ─────────────────────────────────────── */
+  function renderResults(query) {
+    acList.style.display = 'none';
+    if (!query || query.length < 2) { container.innerHTML = ''; return; }
+    var results = runSearch(query);
+    if (!results.length) {
+      container.innerHTML = '<p style="color:#899c81;">No results for <em>' + escHtml(query) + '</em>.</p>';
+      return;
+    }
+    var html = '<ol style="list-style:none;padding:0;margin:0;">';
+    results.forEach(function(r) {
+      var doc = indexData.find(function(d) { return d.uri === r.ref; });
+      if (!doc) return;
+      html += '<li style="margin-bottom:1.25rem;border-bottom:1px solid #dde5cc;padding-bottom:1rem;">';
+      html += '<h2 style="margin:0 0 0.2rem;font-size:1.1rem;">';
+      html += '<a href="' + escHtml(doc.uri) + '" style="color:#a37d48;">' + escHtml(doc.title) + '</a></h2>';
+      if (doc.date) html += '<small style="color:#899c81;">' + escHtml(doc.date) + '</small>';
+      if (doc.summary) html += '<p style="margin:0.4rem 0 0;font-size:0.95rem;color:#474e44;">' + escHtml(doc.summary) + '</p>';
+      html += '</li>';
+    });
+    html += '</ol>';
+    html += '<p style="color:#899c81;font-size:0.85rem;margin-top:1rem;">'
+          + results.length + ' result' + (results.length !== 1 ? 's' : '')
+          + ' for <em>' + escHtml(query) + '</em></p>';
+    container.innerHTML = html;
+  }
+
+  function escHtml(s) {
+    return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  }
+
+  /* ── Event wiring ──────────────────────────────────────────── */
+  var acTimer, fullTimer;
+
+  input.addEventListener('input', function() {
+    var q = this.value.trim();
+    clearTimeout(acTimer); clearTimeout(fullTimer);
+    acTimer   = setTimeout(function() { fetchIndex(function() { showAutocomplete(q); }); }, 120);
+    fullTimer = setTimeout(function() { fetchIndex(function() { renderResults(q);     }); }, 350);
+  });
+
+  input.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape') acList.style.display = 'none';
+    if (e.key === 'Enter')  { clearTimeout(acTimer); clearTimeout(fullTimer); acList.style.display = 'none'; fetchIndex(function() { renderResults(input.value.trim()); }); }
+  });
+
+  document.addEventListener('click', function(e) {
+    if (!document.getElementById('search-wrap').contains(e.target)) acList.style.display = 'none';
+  });
+
+  /* ── Auto-run if ?q= in URL ────────────────────────────────── */
+  var q = new URLSearchParams(window.location.search).get('q');
+  if (q) {
+    input.value = q;
+    fetchIndex(function() { renderResults(q); });
+  }
+})();
+</script>
+{{ end }}

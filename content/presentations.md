@@ -1,7 +1,7 @@
 ---
 title: "Presentations"
 slug: "presentations"
-menu: main
+
 ---
 
 [![](/images/2008/06/2046328744_2a244ce4b7_o.jpg "Slides")](http://www.flickr.com/photos/squeakymarmot/2046328744/sizes/o/)
