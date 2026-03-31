@@ -2,150 +2,150 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Alchemical Musings</title>
-    <link>http://localhost:1337/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Alchemical Musings</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Aug 2021 19:08:25 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1337/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Jul 2019 12:42:35 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Uncategorized</title>
-      <link>http://localhost:1337/categories/uncategorized/</link>
-      <pubDate>Wed, 18 Aug 2021 19:08:25 +0000</pubDate>
-      <guid>http://localhost:1337/categories/uncategorized/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Dangerousgifts</title>
-      <link>http://localhost:1337/categories/dangerousgifts/</link>
-      <pubDate>Sun, 07 Jul 2019 19:06:19 +0000</pubDate>
-      <guid>http://localhost:1337/categories/dangerousgifts/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Epistemology</title>
-      <link>http://localhost:1337/categories/epistemology/</link>
-      <pubDate>Sun, 07 Jul 2019 19:06:19 +0000</pubDate>
-      <guid>http://localhost:1337/categories/epistemology/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ethics</title>
-      <link>http://localhost:1337/categories/ethics/</link>
-      <pubDate>Sun, 07 Jul 2019 19:06:19 +0000</pubDate>
-      <guid>http://localhost:1337/categories/ethics/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Water</title>
-      <link>http://localhost:1337/categories/water/</link>
-      <pubDate>Sun, 07 Jul 2019 19:06:19 +0000</pubDate>
-      <guid>http://localhost:1337/categories/water/</guid>
+      <link>http://localhost:1313/categories/uncategorized/</link>
+      <pubDate>Tue, 09 Jul 2019 12:42:35 +0000</pubDate>
+      <guid>http://localhost:1313/categories/uncategorized/</guid>
       <description></description>
     </item>
     <item>
       <title>Earth</title>
-      <link>http://localhost:1337/categories/earth/</link>
+      <link>http://localhost:1313/categories/earth/</link>
       <pubDate>Sun, 03 Mar 2019 22:38:23 +0000</pubDate>
-      <guid>http://localhost:1337/categories/earth/</guid>
+      <guid>http://localhost:1313/categories/earth/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ethics</title>
+      <link>http://localhost:1313/categories/ethics/</link>
+      <pubDate>Sun, 03 Mar 2019 22:38:23 +0000</pubDate>
+      <guid>http://localhost:1313/categories/ethics/</guid>
       <description></description>
     </item>
     <item>
       <title>Aesthetics</title>
-      <link>http://localhost:1337/categories/aesthetics/</link>
+      <link>http://localhost:1313/categories/aesthetics/</link>
       <pubDate>Mon, 31 Dec 2018 00:24:20 +0000</pubDate>
-      <guid>http://localhost:1337/categories/aesthetics/</guid>
+      <guid>http://localhost:1313/categories/aesthetics/</guid>
       <description></description>
     </item>
     <item>
       <title>Air</title>
-      <link>http://localhost:1337/categories/air/</link>
+      <link>http://localhost:1313/categories/air/</link>
       <pubDate>Mon, 31 Dec 2018 00:24:20 +0000</pubDate>
-      <guid>http://localhost:1337/categories/air/</guid>
+      <guid>http://localhost:1313/categories/air/</guid>
       <description></description>
     </item>
     <item>
       <title>Fire</title>
-      <link>http://localhost:1337/categories/fire/</link>
+      <link>http://localhost:1313/categories/fire/</link>
       <pubDate>Mon, 31 Dec 2018 00:24:20 +0000</pubDate>
-      <guid>http://localhost:1337/categories/fire/</guid>
+      <guid>http://localhost:1313/categories/fire/</guid>
       <description></description>
     </item>
     <item>
       <title>Endofforgetting</title>
-      <link>http://localhost:1337/categories/endofforgetting/</link>
+      <link>http://localhost:1313/categories/endofforgetting/</link>
       <pubDate>Thu, 31 Aug 2017 18:40:25 +0000</pubDate>
-      <guid>http://localhost:1337/categories/endofforgetting/</guid>
+      <guid>http://localhost:1313/categories/endofforgetting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Epistemology</title>
+      <link>http://localhost:1313/categories/epistemology/</link>
+      <pubDate>Thu, 31 Aug 2017 18:40:25 +0000</pubDate>
+      <guid>http://localhost:1313/categories/epistemology/</guid>
       <description></description>
     </item>
     <item>
       <title>Metaphysics</title>
-      <link>http://localhost:1337/categories/metaphysics/</link>
+      <link>http://localhost:1313/categories/metaphysics/</link>
       <pubDate>Thu, 31 Aug 2017 18:40:25 +0000</pubDate>
-      <guid>http://localhost:1337/categories/metaphysics/</guid>
+      <guid>http://localhost:1313/categories/metaphysics/</guid>
       <description></description>
     </item>
     <item>
       <title>Education</title>
-      <link>http://localhost:1337/categories/education/</link>
+      <link>http://localhost:1313/categories/education/</link>
       <pubDate>Sun, 05 Mar 2017 17:27:59 +0000</pubDate>
-      <guid>http://localhost:1337/categories/education/</guid>
+      <guid>http://localhost:1313/categories/education/</guid>
       <description></description>
     </item>
     <item>
       <title>Freeculture</title>
-      <link>http://localhost:1337/categories/freeculture/</link>
+      <link>http://localhost:1313/categories/freeculture/</link>
       <pubDate>Sun, 15 Feb 2015 23:28:46 +0000</pubDate>
-      <guid>http://localhost:1337/categories/freeculture/</guid>
+      <guid>http://localhost:1313/categories/freeculture/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dangerousgifts</title>
+      <link>http://localhost:1313/categories/dangerousgifts/</link>
+      <pubDate>Thu, 12 Dec 2013 01:47:39 +0000</pubDate>
+      <guid>http://localhost:1313/categories/dangerousgifts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Water</title>
+      <link>http://localhost:1313/categories/water/</link>
+      <pubDate>Sun, 29 Sep 2013 16:28:06 +0000</pubDate>
+      <guid>http://localhost:1313/categories/water/</guid>
       <description></description>
     </item>
     <item>
       <title>Fourthestate</title>
-      <link>http://localhost:1337/categories/fourthestate/</link>
+      <link>http://localhost:1313/categories/fourthestate/</link>
       <pubDate>Tue, 16 Jul 2013 01:21:56 +0000</pubDate>
-      <guid>http://localhost:1337/categories/fourthestate/</guid>
+      <guid>http://localhost:1313/categories/fourthestate/</guid>
       <description></description>
     </item>
     <item>
       <title>Playasbeing</title>
-      <link>http://localhost:1337/categories/playasbeing/</link>
+      <link>http://localhost:1313/categories/playasbeing/</link>
       <pubDate>Tue, 16 Jul 2013 01:21:56 +0000</pubDate>
-      <guid>http://localhost:1337/categories/playasbeing/</guid>
+      <guid>http://localhost:1313/categories/playasbeing/</guid>
       <description></description>
     </item>
     <item>
       <title>Nptech</title>
-      <link>http://localhost:1337/categories/nptech/</link>
+      <link>http://localhost:1313/categories/nptech/</link>
       <pubDate>Sun, 06 Jan 2013 03:01:07 +0000</pubDate>
-      <guid>http://localhost:1337/categories/nptech/</guid>
+      <guid>http://localhost:1313/categories/nptech/</guid>
       <description></description>
     </item>
     <item>
       <title>Cchaiti</title>
-      <link>http://localhost:1337/categories/cchaiti/</link>
+      <link>http://localhost:1313/categories/cchaiti/</link>
       <pubDate>Sat, 16 Jan 2010 23:51:36 +0000</pubDate>
-      <guid>http://localhost:1337/categories/cchaiti/</guid>
+      <guid>http://localhost:1313/categories/cchaiti/</guid>
       <description></description>
     </item>
     <item>
       <title>Nmc2008</title>
-      <link>http://localhost:1337/categories/nmc2008/</link>
+      <link>http://localhost:1313/categories/nmc2008/</link>
       <pubDate>Thu, 19 Jun 2008 00:24:31 +0000</pubDate>
-      <guid>http://localhost:1337/categories/nmc2008/</guid>
+      <guid>http://localhost:1313/categories/nmc2008/</guid>
       <description></description>
     </item>
     <item>
       <title>Plone</title>
-      <link>http://localhost:1337/categories/plone/</link>
+      <link>http://localhost:1313/categories/plone/</link>
       <pubDate>Sun, 17 Feb 2008 22:16:52 +0000</pubDate>
-      <guid>http://localhost:1337/categories/plone/</guid>
+      <guid>http://localhost:1313/categories/plone/</guid>
       <description></description>
     </item>
     <item>
       <title>Olpc</title>
-      <link>http://localhost:1337/categories/olpc/</link>
+      <link>http://localhost:1313/categories/olpc/</link>
       <pubDate>Fri, 20 Apr 2007 12:41:02 +0000</pubDate>
-      <guid>http://localhost:1337/categories/olpc/</guid>
+      <guid>http://localhost:1313/categories/olpc/</guid>
       <description></description>
     </item>
   </channel>

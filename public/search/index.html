@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Search - Alchemical Musings</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+		<meta property="og:url" content="http://localhost:1313/search/">
+  <meta property="og:site_name" content="Alchemical Musings">
+  <meta property="og:title" content="Search">
+  <meta property="og:description" content="Aurum nostrum non est aurum vulgi">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400;1,500&display=swap">
+
+	<link rel="stylesheet" href="/css/style.css">
+	<link rel="stylesheet" href="/css/custom.css">
+
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo logo--mixed">
+		<a class="logo__link" href="/" title="Alchemical Musings" rel="home">
+			<div class="logo__item logo__imagebox">
+					<img class="logo__img" src="/images/jonahs_staff.png">
+				</div><div class="logo__item logo__text">
+					<div class="logo__title">Alchemical Musings</div>
+					<div class="logo__tagline">Aurum nostrum non est aurum vulgi</div>
+				</div>
+		</a>
+	</div>
+		
+<nav class="menu">
+	<button class="menu__btn" aria-haspopup="true" aria-expanded="false" tabindex="0">
+		<span class="menu__btn-title" tabindex="-1">Menu</span>
+	</button>
+	<ul class="menu__list">
+		<li class="menu__item">
+			<a class="menu__link" href="/">
+				<span class="menu__text">Home</span>
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/about/">
+				<span class="menu__text">About</span>
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/contact/">
+				<span class="menu__text">Contact</span>
+			</a>
+		</li>
+		<li class="menu__item menu__item--has-children">
+			<a class="menu__link" href="#">
+				<span class="menu__text">Pages</span><span class="menu__arrow">&#9660;</span>
+			</a>
+			<ul class="menu__dropdown">
+				<li class="menu__dropdown-item">
+					<a class="menu__dropdown-link" href="/alchemy-20/">Alchemy 2.0</a>
+				</li>
+				<li class="menu__dropdown-item">
+					<a class="menu__dropdown-link" href="/dangerous-gifts/">Dangerous Gifts</a>
+				</li>
+				<li class="menu__dropdown-item">
+					<a class="menu__dropdown-link" href="/digital-communications-in-theory-and-practice/">Digital Communications</a>
+				</li>
+				<li class="menu__dropdown-item">
+					<a class="menu__dropdown-link" href="/essays/">Essays</a>
+				</li>
+				<li class="menu__dropdown-item">
+					<a class="menu__dropdown-link" href="/presentations/">Presentations</a>
+				</li>
+				<li class="menu__dropdown-item">
+					<a class="menu__dropdown-link" href="/publications/">Publications</a>
+				</li>
+				<li class="menu__dropdown-item">
+					<a class="menu__dropdown-link" href="/the-end-of-forgetting/">The End of Forgetting</a>
+				</li>
+			</ul>
+		</li>
+	</ul>
+</nav>
+
+
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<div class="post post--single">
+  <header class="post__header">
+    <h1 class="post__title">Search</h1>
+  </header>
+  <div class="post__content content clearfix">
+
+    <div id="search-wrap" style="position:relative;margin-bottom:1.5rem;">
+      <input
+        id="search-input"
+        type="search"
+        placeholder="Search posts…"
+        aria-label="Search"
+        autocomplete="off"
+        autofocus
+        style="width:100%;padding:0.6rem 0.85rem;font-size:1.05rem;font-family:inherit;
+               border:1px solid #b5bfaa;border-radius:3px;background:#fafaf5;color:#474e44;
+               box-sizing:border-box;">
+      <ul id="autocomplete-list" style="
+        display:none;position:absolute;top:100%;left:0;right:0;z-index:300;
+        margin:0;padding:0;list-style:none;background:#fff;
+        border:1px solid #b5bfaa;border-top:none;border-radius:0 0 3px 3px;
+        box-shadow:0 4px 10px rgba(0,0,0,0.1);max-height:320px;overflow-y:auto;">
+      </ul>
+    </div>
+
+    <div id="search-status" style="color:#899c81;font-size:0.9rem;margin-bottom:0.75rem;"></div>
+    <div id="search-results"></div>
+
+  </div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.9/lunr.min.js"></script>
+<script>
+(function() {
+  var statusEl  = document.getElementById('search-status');
+  var acList    = document.getElementById('autocomplete-list');
+  var container = document.getElementById('search-results');
+  var input     = document.getElementById('search-input');
+
+  if (typeof lunr === 'undefined') {
+    statusEl.textContent = 'Search library failed to load. Please check your connection.';
+    return;
+  }
+
+  var indexData = null;
+  var lunrIndex = null;
+  var indexLoading = false;
+
+  function fetchIndex(cb) {
+    if (lunrIndex) { cb(); return; }
+    if (indexLoading) { return; }    
+    indexLoading = true;
+    statusEl.textContent = 'Loading search index…';
+    fetch('/index.json')
+      .then(function(r) {
+        if (!r.ok) throw new Error('HTTP ' + r.status);
+        return r.json();
+      })
+      .then(function(data) {
+        indexData = data;
+        lunrIndex = lunr(function() {
+          this.ref('uri');
+          this.field('title',      { boost: 10 });
+          this.field('categories', { boost: 5  });
+          this.field('summary',    { boost: 3  });
+          this.field('content');
+          data.forEach(function(doc) {
+            this.add({
+              uri:        doc.uri,
+              title:      doc.title      || '',
+              categories: (doc.categories || []).join(' '),
+              summary:    doc.summary    || '',
+              content:    doc.content    || ''
+            });
+          }, this);
+        });
+        statusEl.textContent = '';
+        indexLoading = false;
+        cb();
+      })
+      .catch(function(err) {
+        statusEl.textContent = 'Could not load search index: ' + err.message;
+        indexLoading = false;
+      });
+  }
+
+  function runSearch(query) {
+    if (!query || !lunrIndex) return [];
+    try {
+      var r = lunrIndex.search(query + '*');
+      if (!r.length) r = lunrIndex.search(query);
+      return r;
+    } catch(e) {
+      try { return lunrIndex.search(query); } catch(e2) { return []; }
+    }
+  }
+
+   
+  function showAutocomplete(query) {
+    acList.innerHTML = '';
+    if (!query || query.length < 2 || !lunrIndex) { acList.style.display = 'none'; return; }
+    var results = runSearch(query).slice(0, 6);
+    if (!results.length) { acList.style.display = 'none'; return; }
+    results.forEach(function(r) {
+      var doc = indexData.find(function(d) { return d.uri === r.ref; });
+      if (!doc) return;
+      var li = document.createElement('li');
+      li.style.cssText = 'border-bottom:1px solid #eef0e8;';
+      var a = document.createElement('a');
+      a.href = doc.uri;
+      a.style.cssText = 'display:block;padding:8px 14px;color:#474e44;text-decoration:none;font-size:0.95rem;';
+      a.innerHTML = '<strong style="color:#a37d48;">' + escHtml(doc.title) + '</strong>';
+      if (doc.date) a.innerHTML += ' <small style="color:#899c81;font-size:0.8em;">— ' + escHtml(doc.date) + '</small>';
+      a.addEventListener('mouseenter', function() { this.style.background = '#f4f5ed'; });
+      a.addEventListener('mouseleave', function() { this.style.background = ''; });
+      li.appendChild(a);
+      acList.appendChild(li);
+    });
+    acList.style.display = 'block';
+  }
+
+   
+  function renderResults(query) {
+    acList.style.display = 'none';
+    if (!query || query.length < 2) { container.innerHTML = ''; return; }
+    var results = runSearch(query);
+    if (!results.length) {
+      container.innerHTML = '<p style="color:#899c81;">No results for <em>' + escHtml(query) + '</em>.</p>';
+      return;
+    }
+    var html = '<ol style="list-style:none;padding:0;margin:0;">';
+    results.forEach(function(r) {
+      var doc = indexData.find(function(d) { return d.uri === r.ref; });
+      if (!doc) return;
+      html += '<li style="margin-bottom:1.25rem;border-bottom:1px solid #dde5cc;padding-bottom:1rem;">';
+      html += '<h2 style="margin:0 0 0.2rem;font-size:1.1rem;">';
+      html += '<a href="' + escHtml(doc.uri) + '" style="color:#a37d48;">' + escHtml(doc.title) + '</a></h2>';
+      if (doc.date) html += '<small style="color:#899c81;">' + escHtml(doc.date) + '</small>';
+      if (doc.summary) html += '<p style="margin:0.4rem 0 0;font-size:0.95rem;color:#474e44;">' + escHtml(doc.summary) + '</p>';
+      html += '</li>';
+    });
+    html += '</ol>';
+    html += '<p style="color:#899c81;font-size:0.85rem;margin-top:1rem;">'
+          + results.length + ' result' + (results.length !== 1 ? 's' : '')
+          + ' for <em>' + escHtml(query) + '</em></p>';
+    container.innerHTML = html;
+  }
+
+  function escHtml(s) {
+    return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  }
+
+   
+  var acTimer, fullTimer;
+
+  input.addEventListener('input', function() {
+    var q = this.value.trim();
+    clearTimeout(acTimer); clearTimeout(fullTimer);
+    acTimer   = setTimeout(function() { fetchIndex(function() { showAutocomplete(q); }); }, 120);
+    fullTimer = setTimeout(function() { fetchIndex(function() { renderResults(q);     }); }, 350);
+  });
+
+  input.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape') acList.style.display = 'none';
+    if (e.key === 'Enter')  { clearTimeout(acTimer); clearTimeout(fullTimer); acList.style.display = 'none'; fetchIndex(function() { renderResults(input.value.trim()); }); }
+  });
+
+  document.addEventListener('click', function(e) {
+    if (!document.getElementById('search-wrap').contains(e.target)) acList.style.display = 'none';
+  });
+
+   
+  var q = new URLSearchParams(window.location.search).get('q');
+  if (q) {
+    input.value = q;
+    fetchIndex(function() { renderResults(q); });
+  }
+})();
+</script>
+
+			</div>
+			<aside class="sidebar"><div class="widget-search widget">
+  <form class="widget-search__form" role="search" method="get" action="/search/">
+    <input
+      class="widget-search__field"
+      type="search"
+      placeholder="Search…"
+      name="q"
+      aria-label="Search…">
+    <input class="widget-search__submit" type="submit" value="Search">
+  </form>
+</div>
+
+<div class="widget-recent widget">
+	<h4 class="widget__title">Recent Posts</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/2019/07/09/finally-weve-been-too-patient/">Finally! We&#39;ve Been Too Patient</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2019/03/03/coding-mental/">Coding Mental</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2018/12/31/silencing-internal-combustion/">Silencing the infernal internal combustion engine</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2017/12/03/the-rise-of-surveillance-psychiatry-and-the-mad-underground/">The Rise of Surveillance Psychiatry and the Mad Underground</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2017/08/31/interviews-with-the-speakerbots/">Interviews with the Speakerbots</a></li>
+		</ul>
+	</div>
+</div>
+<div class="widget-categories widget">
+	<h4 class="widget__title">Categories</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/aesthetics/">Aesthetics</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">25</span>
+				</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/air/">Air</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">30</span>
+				</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/cchaiti/">Cchaiti</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">1</span>
+				</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/dangerousgifts/">Dangerousgifts</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">20</span>
+				</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/earth/">Earth</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">57</span>
+				</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/education/">Education</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">5</span>
+				</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/endofforgetting/">Endofforgetting</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">3</span>
+				</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/epistemology/">Epistemology</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">48</span>
+				</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/ethics/">Ethics</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">71</span>
+				</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/fire/">Fire</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">56</span>
+				</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/fourthestate/">Fourthestate</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">7</span>
+				</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/freeculture/">Freeculture</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">28</span>
+				</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/metaphysics/">Metaphysics</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">30</span>
+				</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/nmc2008/">Nmc2008</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">1</span>
+				</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/nptech/">Nptech</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">9</span>
+				</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/olpc/">Olpc</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">1</span>
+				</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/playasbeing/">Playasbeing</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">7</span>
+				</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/plone/">Plone</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">12</span>
+				</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/uncategorized/">Uncategorized</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">14</span>
+				</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/water/">Water</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">27</span>
+				</li>
+		</ul>
+	</div>
+</div>
+</aside>
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">
+				<img alt="Creative Commons License" style="border-width:0;vertical-align:middle;margin-right:6px;"
+					src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" />
+			</a>
+			2026 Alchemical Musings.
+			Licensed under <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.
+			<span class="footer__copyright-credits">Generated with <a href="https://gohugo.io/" rel="nofollow noopener" target="_blank">Hugo</a> and <a href="https://github.com/Vimux/Mainroad/" rel="nofollow noopener" target="_blank">Mainroad</a> theme.</span>
+		</div>
+	</div>
+</footer>
+
+	</div>
+<script async defer src="/js/menu.js"></script>
+</body>
+</html>

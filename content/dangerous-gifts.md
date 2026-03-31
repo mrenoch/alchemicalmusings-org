@@ -1,7 +1,7 @@
 ---
 title: "Dangerous Gifts"
 slug: "dangerous-gifts"
-menu: main
+
 ---
 
 A compilation of some of my work on the politics of madness: **Publications** 

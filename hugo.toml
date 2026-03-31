@@ -1,19 +1,51 @@
 baseURL = "https://alchemicalmusings.org/"
 languageCode = "en-us"
 title = "Alchemical Musings"
-theme = "alchemical"
+theme = "mainroad"
+# mainroad: MienDev fork, commit f7a975a (see themes/README.md)
 
-[params]
+paginate = 20
+
+[Author]
+  name = "Jonah Bossewitch"
+  bio = "Aurum nostrum non est aurum vulgi"
+  avatar = ""
+
+[Params]
   description = "Aurum nostrum non est aurum vulgi"
-  author = "Jonah Bossewitch"
-  motto = "Aurum nostrum non est aurum vulgi"
+  opengraph = true
+  twitter_cards = false
+  readmore = true
+  authorbox = false
+  pager = true
+  post_meta = ["date", "categories"]
+  mainSections = ["posts"]
+  googleFontsLink = "https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400;1,500&display=swap"
+  customCSS = ["/css/custom.css"]
+
+[Params.logo]
+  image = "images/jonahs_staff.png"
+  title = "Alchemical Musings"
+  subtitle = "Aurum nostrum non est aurum vulgi"
+
+[Params.sidebar]
+  home = "right"
+  list = "right"
+  single = "right"
+  widgets = ["search", "recent", "categories"]
+
+[Params.widgets]
+  recent_num = 5
+  tags_counter = false
+  categories_counter = true
+
+# JSON output for lunr search index
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
 
 [taxonomies]
   tag = "tags"
   category = "categories"
-
-[pagination]
-  pagerSize = 20
 
 [markup]
   [markup.goldmark]
@@ -21,3 +53,68 @@ theme = "alchemical"
       unsafe = true
   [markup.highlight]
     style = "monokai"
+
+# ── Navigation ────────────────────────────────────────────────────────────────
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 2
+
+[[menu.main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 3
+
+[[menu.main]]
+  name = "Pages"
+  identifier = "pages"
+  url = "#"
+  weight = 4
+
+[[menu.main]]
+  name = "Alchemy 2.0"
+  parent = "pages"
+  url = "/alchemy-20/"
+  weight = 1
+
+[[menu.main]]
+  name = "Dangerous Gifts"
+  parent = "pages"
+  url = "/dangerous-gifts/"
+  weight = 2
+
+[[menu.main]]
+  name = "Digital Communications"
+  parent = "pages"
+  url = "/digital-communications-in-theory-and-practice/"
+  weight = 3
+
+[[menu.main]]
+  name = "Essays"
+  parent = "pages"
+  url = "/essays/"
+  weight = 4
+
+[[menu.main]]
+  name = "Presentations"
+  parent = "pages"
+  url = "/presentations/"
+  weight = 5
+
+[[menu.main]]
+  name = "Publications"
+  parent = "pages"
+  url = "/publications/"
+  weight = 6
+
+[[menu.main]]
+  name = "The End of Forgetting"
+  parent = "pages"
+  url = "/the-end-of-forgetting/"
+  weight = 7

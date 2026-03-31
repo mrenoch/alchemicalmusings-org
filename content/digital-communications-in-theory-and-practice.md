@@ -1,7 +1,7 @@
 ---
 title: "Digital Communications in Theory and Practice"
 slug: "digital-communications-in-theory-and-practice"
-menu: main
+
 ---
 
 ## **Welcome to Digital Communications in Theory and Practice.**

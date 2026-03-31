@@ -2,626 +2,585 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1337/</loc>
-    <lastmod>2021-08-18T19:08:25+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1337/categories/</loc>
-    <lastmod>2021-08-18T19:08:25+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1337/2021/08/18/picture-yourself-on-a-boat-on-a-river/</loc>
-    <lastmod>2021-08-18T19:08:25+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1337/posts/</loc>
-    <lastmod>2021-08-18T19:08:25+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1337/categories/uncategorized/</loc>
-    <lastmod>2021-08-18T19:08:25+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1337/2021/08/18/neither-rain-nor-time/</loc>
-    <lastmod>2021-08-18T19:05:08+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1337/2019/07/09/finally-weve-been-too-patient/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2019-07-09T12:42:35+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/categories/dangerousgifts/</loc>
-    <lastmod>2019-07-07T19:06:19+00:00</lastmod>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2019-07-09T12:42:35+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/categories/epistemology/</loc>
-    <lastmod>2019-07-07T19:06:19+00:00</lastmod>
+    <loc>http://localhost:1313/2019/07/09/finally-weve-been-too-patient/</loc>
+    <lastmod>2019-07-09T12:42:35+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/categories/ethics/</loc>
-    <lastmod>2019-07-07T19:06:19+00:00</lastmod>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2019-07-09T12:42:35+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2019/07/07/inactive-rescues-the-active-risks-of-risk-detection/</loc>
-    <lastmod>2019-07-07T19:06:19+00:00</lastmod>
+    <loc>http://localhost:1313/categories/uncategorized/</loc>
+    <lastmod>2019-07-09T12:42:35+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/categories/water/</loc>
-    <lastmod>2019-07-07T19:06:19+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1337/2019/03/03/coding-mental/</loc>
+    <loc>http://localhost:1313/2019/03/03/coding-mental/</loc>
     <lastmod>2019-03-03T22:38:23+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/categories/earth/</loc>
+    <loc>http://localhost:1313/categories/earth/</loc>
     <lastmod>2019-03-03T22:38:23+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/categories/aesthetics/</loc>
+    <loc>http://localhost:1313/categories/ethics/</loc>
+    <lastmod>2019-03-03T22:38:23+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/aesthetics/</loc>
     <lastmod>2018-12-31T00:24:20+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/categories/air/</loc>
+    <loc>http://localhost:1313/categories/air/</loc>
     <lastmod>2018-12-31T00:24:20+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/categories/fire/</loc>
+    <loc>http://localhost:1313/categories/fire/</loc>
     <lastmod>2018-12-31T00:24:20+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2018/12/31/silencing-internal-combustion/</loc>
+    <loc>http://localhost:1313/2018/12/31/silencing-internal-combustion/</loc>
     <lastmod>2018-12-31T00:24:20+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2017/12/03/the-rise-of-surveillance-psychiatry-and-the-mad-underground/</loc>
+    <loc>http://localhost:1313/2017/12/03/the-rise-of-surveillance-psychiatry-and-the-mad-underground/</loc>
     <lastmod>2017-12-03T19:56:20+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/categories/endofforgetting/</loc>
+    <loc>http://localhost:1313/categories/endofforgetting/</loc>
     <lastmod>2017-08-31T18:40:25+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2017/08/31/interviews-with-the-speakerbots/</loc>
+    <loc>http://localhost:1313/categories/epistemology/</loc>
     <lastmod>2017-08-31T18:40:25+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/categories/metaphysics/</loc>
+    <loc>http://localhost:1313/2017/08/31/interviews-with-the-speakerbots/</loc>
     <lastmod>2017-08-31T18:40:25+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/categories/education/</loc>
+    <loc>http://localhost:1313/categories/metaphysics/</loc>
+    <lastmod>2017-08-31T18:40:25+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/education/</loc>
     <lastmod>2017-03-05T17:27:59+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2017/03/05/the-case-of-the-missing-barnes-paintings/</loc>
+    <loc>http://localhost:1313/2017/03/05/the-case-of-the-missing-barnes-paintings/</loc>
     <lastmod>2017-03-05T17:27:59+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2015/08/08/keeping-calm/</loc>
+    <loc>http://localhost:1313/2015/08/08/keeping-calm/</loc>
     <lastmod>2015-08-08T15:59:30+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2015/03/16/hands-up-dont-shoot-i-come-in-peace-llap/</loc>
-    <lastmod>2015-03-16T00:30:57+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1337/categories/freeculture/</loc>
+    <loc>http://localhost:1313/categories/freeculture/</loc>
     <lastmod>2015-02-15T23:28:46+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2015/02/15/i-heart-compliance/</loc>
+    <loc>http://localhost:1313/2015/02/15/i-heart-compliance/</loc>
     <lastmod>2015-02-15T23:28:46+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2014/11/09/audio-experiments-and-the-rise-of-scuttlebutt/</loc>
+    <loc>http://localhost:1313/2014/11/09/audio-experiments-and-the-rise-of-scuttlebutt/</loc>
     <lastmod>2014-11-09T18:51:10+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2014/09/28/the-sheriff-and-the-pretty-woman/</loc>
+    <loc>http://localhost:1313/2014/09/28/the-sheriff-and-the-pretty-woman/</loc>
     <lastmod>2014-09-28T16:33:30+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2014/02/02/peddling-platforms/</loc>
+    <loc>http://localhost:1313/2014/02/02/peddling-platforms/</loc>
     <lastmod>2014-02-02T00:57:38+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2014/01/29/too-sexy-for-my-phone/</loc>
+    <loc>http://localhost:1313/2014/01/29/too-sexy-for-my-phone/</loc>
     <lastmod>2014-01-29T22:12:18+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2013/12/12/hippocratic-hypocrisy/</loc>
+    <loc>http://localhost:1313/categories/dangerousgifts/</loc>
     <lastmod>2013-12-12T01:47:39+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2013/09/29/makers-burners-and-pedagogy-transformers/</loc>
+    <loc>http://localhost:1313/2013/12/12/hippocratic-hypocrisy/</loc>
+    <lastmod>2013-12-12T01:47:39+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2013/09/29/makers-burners-and-pedagogy-transformers/</loc>
     <lastmod>2013-09-29T16:28:06+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2013/07/16/dear-frank/</loc>
+    <loc>http://localhost:1313/categories/water/</loc>
+    <lastmod>2013-09-29T16:28:06+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2013/07/16/dear-frank/</loc>
     <lastmod>2013-07-16T01:21:56+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/categories/fourthestate/</loc>
+    <loc>http://localhost:1313/categories/fourthestate/</loc>
     <lastmod>2013-07-16T01:21:56+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/categories/playasbeing/</loc>
+    <loc>http://localhost:1313/categories/playasbeing/</loc>
     <lastmod>2013-07-16T01:21:56+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2013/06/16/yottabytes-wormcams-and-whistleblowers/</loc>
+    <loc>http://localhost:1313/2013/06/16/yottabytes-wormcams-and-whistleblowers/</loc>
     <lastmod>2013-06-16T22:45:38+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2013/06/03/dsm5-vs-nimh/</loc>
+    <loc>http://localhost:1313/2013/06/03/dsm5-vs-nimh/</loc>
     <lastmod>2013-06-03T00:25:32+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2013/04/28/digital-communications-in-theory-and-practice/</loc>
+    <loc>http://localhost:1313/2013/04/28/digital-communications-in-theory-and-practice/</loc>
     <lastmod>2013-04-28T23:28:38+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/tags/mediacon13/</loc>
+    <loc>http://localhost:1313/tags/mediacon13/</loc>
     <lastmod>2013-04-22T22:40:14+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2013-04-22T22:40:14+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2013/04/22/the-jokers-detonators/</loc>
+    <loc>http://localhost:1313/2013/04/22/the-jokers-detonators/</loc>
     <lastmod>2013-04-22T22:40:14+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2013/02/16/ultra-paradox/</loc>
+    <loc>http://localhost:1313/2013/02/16/ultra-paradox/</loc>
     <lastmod>2013-02-16T21:18:12+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2013/01/14/rip-aaron/</loc>
+    <loc>http://localhost:1313/2013/01/14/rip-aaron/</loc>
     <lastmod>2013-01-14T01:03:38+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2013/01/07/rainbows-have-nothing-to-hide/</loc>
+    <loc>http://localhost:1313/2013/01/07/rainbows-have-nothing-to-hide/</loc>
     <lastmod>2013-01-07T01:47:14+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/categories/nptech/</loc>
+    <loc>http://localhost:1313/categories/nptech/</loc>
     <lastmod>2013-01-06T03:01:07+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2013/01/06/quetzalcoatl-and-back-again/</loc>
+    <loc>http://localhost:1313/2013/01/06/quetzalcoatl-and-back-again/</loc>
     <lastmod>2013-01-06T03:01:07+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2013/01/06/debugging-the-middle-east/</loc>
-    <lastmod>2013-01-06T00:28:11+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1337/2013/01/06/the-jokers-detonators/</loc>
-    <lastmod>2013-01-06T00:27:09+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1337/2012/10/09/scaling-inefficiencies/</loc>
+    <loc>http://localhost:1313/2012/10/09/scaling-inefficiencies/</loc>
     <lastmod>2012-10-09T13:22:55+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2012/09/04/hide-your-kids/</loc>
+    <loc>http://localhost:1313/2012/09/04/hide-your-kids/</loc>
     <lastmod>2012-09-04T00:37:17+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2012/08/08/pyramid-schemes/</loc>
+    <loc>http://localhost:1313/2012/08/08/pyramid-schemes/</loc>
     <lastmod>2012-08-08T21:24:15+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2012/05/24/forthcoming-the-end-of-forgetting/</loc>
+    <loc>http://localhost:1313/2012/05/24/forthcoming-the-end-of-forgetting/</loc>
     <lastmod>2012-05-24T22:28:24+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2012/05/21/occupyapa/</loc>
+    <loc>http://localhost:1313/2012/05/21/occupyapa/</loc>
     <lastmod>2012-05-21T00:01:59+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2012/04/29/towards-the-educational-liberation-of-palestine/</loc>
+    <loc>http://localhost:1313/2012/04/29/towards-the-educational-liberation-of-palestine/</loc>
     <lastmod>2012-04-29T23:30:25+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2012/04/29/jonah-and-the-cetacea/</loc>
+    <loc>http://localhost:1313/2012/04/29/jonah-and-the-cetacea/</loc>
     <lastmod>2012-04-29T18:10:12+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2012/04/02/dispatches-from-cairo-the-raw-data/</loc>
+    <loc>http://localhost:1313/2012/04/02/dispatches-from-cairo-the-raw-data/</loc>
     <lastmod>2012-04-02T00:01:35+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2012/02/19/last-call/</loc>
+    <loc>http://localhost:1313/2012/02/19/last-call/</loc>
     <lastmod>2012-02-19T01:44:04+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2012/02/01/promissory-notes/</loc>
+    <loc>http://localhost:1313/2012/02/01/promissory-notes/</loc>
     <lastmod>2012-02-01T01:34:39+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2012/01/15/yelling-it-like-it-is/</loc>
+    <loc>http://localhost:1313/2012/01/15/yelling-it-like-it-is/</loc>
     <lastmod>2012-01-15T20:00:42+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2012/01/02/mindful-occupation-part-ii/</loc>
+    <loc>http://localhost:1313/2012/01/02/mindful-occupation-part-ii/</loc>
     <lastmod>2012-01-02T20:29:26+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2011/12/08/mindful-occupation-part-i/</loc>
+    <loc>http://localhost:1313/2011/12/08/mindful-occupation-part-i/</loc>
     <lastmod>2011-12-08T00:59:32+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2011/12/08/occupying-distro/</loc>
-    <lastmod>2011-12-08T00:32:23+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1337/2011/12/04/the-peoples-drones/</loc>
+    <loc>http://localhost:1313/2011/12/04/the-peoples-drones/</loc>
     <lastmod>2011-12-04T21:29:49+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2011/09/07/when-networks-eat-themselves/</loc>
+    <loc>http://localhost:1313/2011/09/07/when-networks-eat-themselves/</loc>
     <lastmod>2011-09-07T23:46:56+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2011/08/09/if-i-forget-you-o-palestine/</loc>
+    <loc>http://localhost:1313/2011/08/09/if-i-forget-you-o-palestine/</loc>
     <lastmod>2011-08-09T23:58:29+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2011/07/09/crossing-the-line/</loc>
+    <loc>http://localhost:1313/2011/07/09/crossing-the-line/</loc>
     <lastmod>2011-07-09T12:01:37+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2011/06/12/mobilty-shifts-teaching-learning-video/</loc>
+    <loc>http://localhost:1313/2011/06/12/mobilty-shifts-teaching-learning-video/</loc>
     <lastmod>2011-06-12T23:41:06+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2011/03/13/pick-a-corpus-any-corpus/</loc>
+    <loc>http://localhost:1313/2011/03/13/pick-a-corpus-any-corpus/</loc>
     <lastmod>2011-03-13T01:53:59+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2011/01/10/that-way-madness-lies/</loc>
+    <loc>http://localhost:1313/2011/01/10/that-way-madness-lies/</loc>
     <lastmod>2011-01-10T01:11:27+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2010/12/08/memory-leaks/</loc>
+    <loc>http://localhost:1313/2010/12/08/memory-leaks/</loc>
     <lastmod>2010-12-08T01:37:23+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2010/11/27/playing-doctor/</loc>
+    <loc>http://localhost:1313/2010/11/27/playing-doctor/</loc>
     <lastmod>2010-11-27T18:32:29+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2010/10/15/water-pressure/</loc>
+    <loc>http://localhost:1313/2010/10/15/water-pressure/</loc>
     <lastmod>2010-10-15T00:08:27+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2010/09/29/collaborative-futures-2nd-ed/</loc>
+    <loc>http://localhost:1313/2010/09/29/collaborative-futures-2nd-ed/</loc>
     <lastmod>2010-09-29T23:34:37+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2010/09/05/now-playing-nothing-but-the-whole-truth/</loc>
+    <loc>http://localhost:1313/2010/09/05/now-playing-nothing-but-the-whole-truth/</loc>
     <lastmod>2010-09-05T22:56:16+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2010/07/25/parabolic-intentions/</loc>
+    <loc>http://localhost:1313/2010/07/25/parabolic-intentions/</loc>
     <lastmod>2010-07-25T23:01:42+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2010/07/06/pick-a-world-any-world/</loc>
+    <loc>http://localhost:1313/2010/07/06/pick-a-world-any-world/</loc>
     <lastmod>2010-07-06T00:32:37+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2010/05/11/the-case-of-the-missing-see-saws/</loc>
+    <loc>http://localhost:1313/2010/05/11/the-case-of-the-missing-see-saws/</loc>
     <lastmod>2010-05-11T00:09:26+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/categories/cchaiti/</loc>
+    <loc>http://localhost:1313/categories/cchaiti/</loc>
     <lastmod>2010-01-16T23:51:36+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2010/01/16/humane-communications-over-human-networks/</loc>
+    <loc>http://localhost:1313/2010/01/16/humane-communications-over-human-networks/</loc>
     <lastmod>2010-01-16T23:51:36+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2009/12/22/when-lessig-was-in-disneyland/</loc>
+    <loc>http://localhost:1313/2009/12/22/when-lessig-was-in-disneyland/</loc>
     <lastmod>2009-12-22T01:01:29+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2009/10/27/selling-shovels-to-news-diggers/</loc>
+    <loc>http://localhost:1313/2009/10/27/selling-shovels-to-news-diggers/</loc>
     <lastmod>2009-10-27T00:35:28+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2009/10/25/reconstruction-time-again/</loc>
+    <loc>http://localhost:1313/2009/10/25/reconstruction-time-again/</loc>
     <lastmod>2009-10-25T02:19:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2009/10/15/wonderful-wonderful-copenhagen/</loc>
+    <loc>http://localhost:1313/2009/10/15/wonderful-wonderful-copenhagen/</loc>
     <lastmod>2009-10-15T20:39:27+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2009/09/29/kissing-problem/</loc>
+    <loc>http://localhost:1313/2009/09/29/kissing-problem/</loc>
     <lastmod>2009-09-29T01:06:30+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2009/08/25/interview-christopher-mackie-on-knights-hyperlocal-gambit/</loc>
+    <loc>http://localhost:1313/2009/08/25/interview-christopher-mackie-on-knights-hyperlocal-gambit/</loc>
     <lastmod>2009-08-25T11:10:20+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2009/08/23/mad-men-women-and-children/</loc>
+    <loc>http://localhost:1313/2009/08/23/mad-men-women-and-children/</loc>
     <lastmod>2009-08-23T21:53:45+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2009/08/19/freedom-of-the-hyperlocal-press/</loc>
+    <loc>http://localhost:1313/2009/08/19/freedom-of-the-hyperlocal-press/</loc>
     <lastmod>2009-08-19T00:54:34+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2009/07/29/shekhinah-power/</loc>
+    <loc>http://localhost:1313/2009/07/29/shekhinah-power/</loc>
     <lastmod>2009-07-29T20:42:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2009/07/26/the-remover-of-obstacles/</loc>
+    <loc>http://localhost:1313/2009/07/26/the-remover-of-obstacles/</loc>
     <lastmod>2009-07-26T23:56:43+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2009/06/24/ov-high/</loc>
+    <loc>http://localhost:1313/2009/06/24/ov-high/</loc>
     <lastmod>2009-06-24T00:09:54+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2009/06/23/faiths-transmission/</loc>
+    <loc>http://localhost:1313/2009/06/23/faiths-transmission/</loc>
     <lastmod>2009-06-23T23:17:14+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2009/05/09/connecting-the-dots/</loc>
+    <loc>http://localhost:1313/2009/05/09/connecting-the-dots/</loc>
     <lastmod>2009-05-09T11:49:50+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2009/04/20/intentional-energy/</loc>
+    <loc>http://localhost:1313/2009/04/20/intentional-energy/</loc>
     <lastmod>2009-04-20T22:03:49+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2009/04/15/mobile-student-labor/</loc>
+    <loc>http://localhost:1313/2009/04/15/mobile-student-labor/</loc>
     <lastmod>2009-04-15T00:03:16+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2009/04/14/semantic-connections/</loc>
+    <loc>http://localhost:1313/2009/04/14/semantic-connections/</loc>
     <lastmod>2009-04-14T22:07:26+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2009/03/30/pathological_soothsayers/</loc>
+    <loc>http://localhost:1313/2009/03/30/pathological_soothsayers/</loc>
     <lastmod>2009-03-30T23:30:42+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2009/03/02/disorganized-thinking/</loc>
+    <loc>http://localhost:1313/2009/03/02/disorganized-thinking/</loc>
     <lastmod>2009-03-02T23:04:07+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2009/02/26/herding-anarchists/</loc>
+    <loc>http://localhost:1313/2009/02/26/herding-anarchists/</loc>
     <lastmod>2009-02-26T01:15:59+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2009/01/19/the-tweets-of-war/</loc>
+    <loc>http://localhost:1313/2009/01/19/the-tweets-of-war/</loc>
     <lastmod>2009-01-19T21:58:11+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2008/12/23/two-more-flakes/</loc>
+    <loc>http://localhost:1313/2008/12/23/two-more-flakes/</loc>
     <lastmod>2008-12-23T23:01:42+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2008/12/17/hot-off-the-collaborative-digital-press/</loc>
+    <loc>http://localhost:1313/2008/12/17/hot-off-the-collaborative-digital-press/</loc>
     <lastmod>2008-12-17T10:50:39+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2008/11/11/the-year-of-the-hybrid/</loc>
+    <loc>http://localhost:1313/2008/11/11/the-year-of-the-hybrid/</loc>
     <lastmod>2008-11-11T01:50:58+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2008/11/04/giving-chickens-microphones/</loc>
+    <loc>http://localhost:1313/2008/11/04/giving-chickens-microphones/</loc>
     <lastmod>2008-11-04T00:09:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2008/10/23/domestically-spooked/</loc>
+    <loc>http://localhost:1313/2008/10/23/domestically-spooked/</loc>
     <lastmod>2008-10-23T00:04:33+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2008/10/13/prophetic-fulfillment/</loc>
+    <loc>http://localhost:1313/2008/10/13/prophetic-fulfillment/</loc>
     <lastmod>2008-10-13T23:22:53+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2008/09/21/free-energy-redux/</loc>
+    <loc>http://localhost:1313/2008/09/21/free-energy-redux/</loc>
     <lastmod>2008-09-21T23:53:18+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2008/09/11/open-letter-to-the-fda/</loc>
+    <loc>http://localhost:1313/2008/09/11/open-letter-to-the-fda/</loc>
     <lastmod>2008-09-11T23:18:11+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2008/08/30/lost-in-controversy/</loc>
+    <loc>http://localhost:1313/2008/08/30/lost-in-controversy/</loc>
     <lastmod>2008-08-30T17:19:49+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2008/08/30/bruno-vs-the-cavemen/</loc>
+    <loc>http://localhost:1313/2008/08/30/bruno-vs-the-cavemen/</loc>
     <lastmod>2008-08-30T16:35:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2008/08/04/location-location-location-and-timing/</loc>
+    <loc>http://localhost:1313/2008/08/04/location-location-location-and-timing/</loc>
     <lastmod>2008-08-04T20:30:29+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2008/08/03/passing-virtual-cars/</loc>
+    <loc>http://localhost:1313/2008/08/03/passing-virtual-cars/</loc>
     <lastmod>2008-08-03T22:06:07+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2008/07/21/speaking-in-tongues/</loc>
+    <loc>http://localhost:1313/2008/07/21/speaking-in-tongues/</loc>
     <lastmod>2008-07-21T19:03:37+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/tags/chris-anderson/</loc>
+    <loc>http://localhost:1313/tags/chris-anderson/</loc>
     <lastmod>2008-06-30T00:50:46+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/tags/kevin-kelly/</loc>
+    <loc>http://localhost:1313/tags/kevin-kelly/</loc>
     <lastmod>2008-06-30T00:50:46+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2008/06/30/the-end-of-digirati-philosophizing/</loc>
+    <loc>http://localhost:1313/2008/06/30/the-end-of-digirati-philosophizing/</loc>
     <lastmod>2008-06-30T00:50:46+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/tags/wired/</loc>
+    <loc>http://localhost:1313/tags/wired/</loc>
     <lastmod>2008-06-30T00:50:46+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/categories/nmc2008/</loc>
+    <loc>http://localhost:1313/categories/nmc2008/</loc>
     <lastmod>2008-06-19T00:24:31+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2008/06/19/tigers-and-teachers/</loc>
+    <loc>http://localhost:1313/2008/06/19/tigers-and-teachers/</loc>
     <lastmod>2008-06-19T00:24:31+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2008/05/21/magic-potions-and-healing-plants/</loc>
+    <loc>http://localhost:1313/2008/05/21/magic-potions-and-healing-plants/</loc>
     <lastmod>2008-05-21T00:19:51+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2008/05/15/no-more-pencils/</loc>
+    <loc>http://localhost:1313/2008/05/15/no-more-pencils/</loc>
     <lastmod>2008-05-15T00:06:33+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2008/04/28/mirror-mirror-on-the-screen/</loc>
+    <loc>http://localhost:1313/2008/04/28/mirror-mirror-on-the-screen/</loc>
     <lastmod>2008-04-28T00:15:30+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2008/04/06/jingles-mantras-and-catch-phrases/</loc>
+    <loc>http://localhost:1313/2008/04/06/jingles-mantras-and-catch-phrases/</loc>
     <lastmod>2008-04-06T14:07:59+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2008/04/03/the-zen-of-life2/</loc>
+    <loc>http://localhost:1313/2008/04/03/the-zen-of-life2/</loc>
     <lastmod>2008-04-03T01:02:17+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2008/03/27/feeling-the-sqeeze/</loc>
+    <loc>http://localhost:1313/2008/03/27/feeling-the-sqeeze/</loc>
     <lastmod>2008-03-27T00:15:22+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2008/03/18/supervillains-systemic-corruption-and-the-children/</loc>
+    <loc>http://localhost:1313/2008/03/18/supervillains-systemic-corruption-and-the-children/</loc>
     <lastmod>2008-03-18T23:42:45+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2008/02/17/fabricating-freedom/</loc>
+    <loc>http://localhost:1313/2008/02/17/fabricating-freedom/</loc>
     <lastmod>2008-02-17T22:16:52+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/categories/plone/</loc>
+    <loc>http://localhost:1313/categories/plone/</loc>
     <lastmod>2008-02-17T22:16:52+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2008/02/06/a-panel-of-prophets/</loc>
+    <loc>http://localhost:1313/2008/02/06/a-panel-of-prophets/</loc>
     <lastmod>2008-02-06T00:53:16+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2008/01/18/a-round-trip-ticket-out-of-this-world/</loc>
+    <loc>http://localhost:1313/2008/01/18/a-round-trip-ticket-out-of-this-world/</loc>
     <lastmod>2008-01-18T06:52:40+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/drafts/a-panel-of-prophets/</loc>
-    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1337/2007/12/31/nostalgia-train/</loc>
+    <loc>http://localhost:1313/2007/12/31/nostalgia-train/</loc>
     <lastmod>2007-12-31T19:58:12+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2007/12/21/solstice-special/</loc>
+    <loc>http://localhost:1313/2007/12/21/solstice-special/</loc>
     <lastmod>2007-12-21T01:11:53+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2007/11/13/crowded-wisdom/</loc>
+    <loc>http://localhost:1313/2007/11/13/crowded-wisdom/</loc>
     <lastmod>2007-11-13T18:19:05+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2007/11/08/pedagogical-sofware/</loc>
+    <loc>http://localhost:1313/2007/11/08/pedagogical-sofware/</loc>
     <lastmod>2007-11-08T01:09:32+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2007/11/07/plone-university/</loc>
+    <loc>http://localhost:1313/2007/11/07/plone-university/</loc>
     <lastmod>2007-11-07T21:21:06+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2007/10/01/the-cult-of-truth/</loc>
-    <lastmod>2007-10-01T23:20:58+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1337/2007/10/01/creep-ola/</loc>
+    <loc>http://localhost:1313/2007/10/01/creep-ola/</loc>
     <lastmod>2007-10-01T23:13:04+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2007/10/01/getting-noticed/</loc>
-    <lastmod>2007-10-01T22:43:40+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1337/2007/09/06/promiscuous-laptops/</loc>
+    <loc>http://localhost:1313/2007/09/06/promiscuous-laptops/</loc>
     <lastmod>2007-09-06T21:56:17+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2007/09/05/parasitic-conditions/</loc>
+    <loc>http://localhost:1313/2007/09/05/parasitic-conditions/</loc>
     <lastmod>2007-09-05T23:44:31+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2007/08/27/the-long-tail-wagging-the-drugged-out-pooch/</loc>
+    <loc>http://localhost:1313/2007/08/27/the-long-tail-wagging-the-drugged-out-pooch/</loc>
     <lastmod>2007-08-27T22:41:01+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2007/07/18/emergent-intentionality/</loc>
+    <loc>http://localhost:1313/2007/07/18/emergent-intentionality/</loc>
     <lastmod>2007-07-18T00:55:49+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2007/06/16/treating-customers-like-cavepeople/</loc>
+    <loc>http://localhost:1313/2007/06/16/treating-customers-like-cavepeople/</loc>
     <lastmod>2007-06-16T20:31:34+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2007/06/13/we-are-all-dying-sick-and-crazy/</loc>
+    <loc>http://localhost:1313/2007/06/13/we-are-all-dying-sick-and-crazy/</loc>
     <lastmod>2007-06-13T00:18:05+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2007/05/19/can-you-keep-a-dark-secret/</loc>
+    <loc>http://localhost:1313/2007/05/19/can-you-keep-a-dark-secret/</loc>
     <lastmod>2007-05-19T18:44:46+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/categories/olpc/</loc>
+    <loc>http://localhost:1313/categories/olpc/</loc>
     <lastmod>2007-04-20T12:41:02+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2007/04/20/olpc-field-repair/</loc>
+    <loc>http://localhost:1313/2007/04/20/olpc-field-repair/</loc>
     <lastmod>2007-04-20T12:41:02+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2007/03/25/teaching-thinking-and-playing-day-one/</loc>
+    <loc>http://localhost:1313/2007/03/25/teaching-thinking-and-playing-day-one/</loc>
     <lastmod>2007-03-25T02:09:05+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2007/02/26/the-organizational-digital-divide/</loc>
+    <loc>http://localhost:1313/2007/02/26/the-organizational-digital-divide/</loc>
     <lastmod>2007-02-26T01:51:11+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2007/02/08/asymmetric-competition-and-the-cms/</loc>
+    <loc>http://localhost:1313/2007/02/08/asymmetric-competition-and-the-cms/</loc>
     <lastmod>2007-02-08T22:06:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2007/02/04/second-life-political-rallies/</loc>
+    <loc>http://localhost:1313/2007/02/04/second-life-political-rallies/</loc>
     <lastmod>2007-02-04T20:17:53+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2007/02/04/first-they-ignore-you/</loc>
+    <loc>http://localhost:1313/2007/02/04/first-they-ignore-you/</loc>
     <lastmod>2007-02-04T20:02:03+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2007/02/02/the-sound-of-fingernails-on-a-blackboard/</loc>
-    <lastmod>2007-02-02T11:05:04+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1337/2007/02/01/programming-for-the-masses/</loc>
-    <lastmod>2007-02-01T11:06:01+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1337/drafts/emotional-taxonomies/</loc>
-    <lastmod>2007-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1337/2006/12/26/wait-until-pictures-start-getting-indexed/</loc>
+    <loc>http://localhost:1313/2006/12/26/wait-until-pictures-start-getting-indexed/</loc>
     <lastmod>2006-12-26T01:35:42+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2006/12/24/zyprexa-memos-released-using-tor/</loc>
+    <loc>http://localhost:1313/2006/12/24/zyprexa-memos-released-using-tor/</loc>
     <lastmod>2006-12-24T11:16:01+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2006/12/20/wonderful-things/</loc>
+    <loc>http://localhost:1313/2006/12/20/wonderful-things/</loc>
     <lastmod>2006-12-20T17:45:26+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2006/12/19/free-laptops/</loc>
+    <loc>http://localhost:1313/2006/12/19/free-laptops/</loc>
     <lastmod>2006-12-19T01:39:10+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2006/11/16/free-energy/</loc>
+    <loc>http://localhost:1313/2006/11/16/free-energy/</loc>
     <lastmod>2006-11-16T12:04:17+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2006/11/06/honest-software/</loc>
+    <loc>http://localhost:1313/2006/11/06/honest-software/</loc>
     <lastmod>2006-11-06T22:13:23+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2006/11/03/plato-and-the-laptop/</loc>
+    <loc>http://localhost:1313/2006/11/03/plato-and-the-laptop/</loc>
     <lastmod>2006-11-03T00:43:52+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2006/09/30/he-is-the-law/</loc>
+    <loc>http://localhost:1313/2006/09/30/he-is-the-law/</loc>
     <lastmod>2006-09-30T01:52:54+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2006/09/05/one-python-per-child/</loc>
+    <loc>http://localhost:1313/2006/09/05/one-python-per-child/</loc>
     <lastmod>2006-09-05T22:04:18+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2006/08/27/peer-to-peer-pressure/</loc>
+    <loc>http://localhost:1313/2006/08/27/peer-to-peer-pressure/</loc>
     <lastmod>2006-08-27T03:42:25+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2006/08/10/one-lost-identity-per-child/</loc>
+    <loc>http://localhost:1313/2006/08/10/one-lost-identity-per-child/</loc>
     <lastmod>2006-08-10T00:28:56+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2006/07/23/meet-the-robots/</loc>
+    <loc>http://localhost:1313/2006/07/23/meet-the-robots/</loc>
     <lastmod>2006-07-23T00:13:06+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2006/07/23/personal-media/</loc>
+    <loc>http://localhost:1313/2006/07/23/personal-media/</loc>
     <lastmod>2006-07-23T00:12:43+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2006/07/22/held-together-with-glureed/</loc>
+    <loc>http://localhost:1313/2006/07/22/held-together-with-glureed/</loc>
     <lastmod>2006-07-22T23:22:39+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2006/07/13/new-york-state-of-plone/</loc>
+    <loc>http://localhost:1313/2006/07/13/new-york-state-of-plone/</loc>
     <lastmod>2006-07-13T22:01:45+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2006/05/31/death-and-taxonomies/</loc>
+    <loc>http://localhost:1313/2006/05/31/death-and-taxonomies/</loc>
     <lastmod>2006-05-31T21:41:42+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2006/04/16/turtle-totems/</loc>
+    <loc>http://localhost:1313/2006/04/16/turtle-totems/</loc>
     <lastmod>2006-04-16T23:35:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2006/04/16/soft-metamedia/</loc>
+    <loc>http://localhost:1313/2006/04/16/soft-metamedia/</loc>
     <lastmod>2006-04-16T23:34:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2006/04/03/another-new-kind-of-science/</loc>
+    <loc>http://localhost:1313/2006/04/03/another-new-kind-of-science/</loc>
     <lastmod>2006-04-03T23:25:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2006/04/01/permanent-records/</loc>
+    <loc>http://localhost:1313/2006/04/01/permanent-records/</loc>
     <lastmod>2006-04-01T01:13:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2006/03/18/there-is-no-folder/</loc>
+    <loc>http://localhost:1313/2006/03/18/there-is-no-folder/</loc>
     <lastmod>2006-03-18T21:34:55+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2006/03/12/saints-in-the-church-of-writely/</loc>
+    <loc>http://localhost:1313/2006/03/12/saints-in-the-church-of-writely/</loc>
     <lastmod>2006-03-12T23:24:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2006/03/04/the-me-generation/</loc>
+    <loc>http://localhost:1313/2006/03/04/the-me-generation/</loc>
     <lastmod>2006-03-04T21:38:27+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2006/03/02/faster-better-cheaper/</loc>
+    <loc>http://localhost:1313/2006/03/02/faster-better-cheaper/</loc>
     <lastmod>2006-03-02T21:29:17+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2006/03/02/out-of-context/</loc>
+    <loc>http://localhost:1313/2006/03/02/out-of-context/</loc>
     <lastmod>2006-03-02T01:19:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2006/02/03/all-work-all-play/</loc>
+    <loc>http://localhost:1313/2006/02/03/all-work-all-play/</loc>
     <lastmod>2006-02-03T01:54:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2006/01/16/a-red-guitar-3-chords-and-the-truth/</loc>
+    <loc>http://localhost:1313/2006/01/16/a-red-guitar-3-chords-and-the-truth/</loc>
     <lastmod>2006-01-16T01:41:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2006/01/13/his-masters-voice/</loc>
+    <loc>http://localhost:1313/2006/01/13/his-masters-voice/</loc>
     <lastmod>2006-01-13T00:52:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2005/12/18/closing-thoughts-on-mstu-5510/</loc>
+    <loc>http://localhost:1313/2005/12/18/closing-thoughts-on-mstu-5510/</loc>
     <lastmod>2005-12-18T23:54:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2005/12/16/happy-holidays/</loc>
+    <loc>http://localhost:1313/2005/12/16/happy-holidays/</loc>
     <lastmod>2005-12-16T01:50:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2005/12/06/pimp-my-dilapidated-third-world-ambulance/</loc>
+    <loc>http://localhost:1313/2005/12/06/pimp-my-dilapidated-third-world-ambulance/</loc>
     <lastmod>2005-12-06T00:39:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2005/11/30/plone-in-an-elevator/</loc>
+    <loc>http://localhost:1313/2005/11/30/plone-in-an-elevator/</loc>
     <lastmod>2005-11-30T21:26:34+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2005/11/22/plones-value-proposition/</loc>
+    <loc>http://localhost:1313/2005/11/22/plones-value-proposition/</loc>
     <lastmod>2005-11-22T22:19:03+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2005/11/21/michael-are-you-sure-you-want-to-do-that/</loc>
+    <loc>http://localhost:1313/2005/11/21/michael-are-you-sure-you-want-to-do-that/</loc>
     <lastmod>2005-11-21T01:04:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2005/11/15/new-yorks-darker-history/</loc>
+    <loc>http://localhost:1313/2005/11/15/new-yorks-darker-history/</loc>
     <lastmod>2005-11-15T00:21:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2005/11/09/wikibases-and-the-collaboration-index/</loc>
+    <loc>http://localhost:1313/2005/11/09/wikibases-and-the-collaboration-index/</loc>
     <lastmod>2005-11-09T00:19:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2005/10/23/fraternal-nearness/</loc>
+    <loc>http://localhost:1313/2005/10/23/fraternal-nearness/</loc>
     <lastmod>2005-10-23T20:19:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2005/10/14/slipery-handles/</loc>
+    <loc>http://localhost:1313/2005/10/14/slipery-handles/</loc>
     <lastmod>2005-10-14T01:08:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2005/10/14/because-its-your-music-and-you-paid-for-it/</loc>
+    <loc>http://localhost:1313/2005/10/14/because-its-your-music-and-you-paid-for-it/</loc>
     <lastmod>2005-10-14T00:28:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2005/10/07/serenity-lost/</loc>
+    <loc>http://localhost:1313/2005/10/07/serenity-lost/</loc>
     <lastmod>2005-10-07T01:06:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2005/09/25/is-anyone-watching-grandma/</loc>
+    <loc>http://localhost:1313/2005/09/25/is-anyone-watching-grandma/</loc>
     <lastmod>2005-09-25T19:43:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2005/09/22/adventures-in-wien/</loc>
+    <loc>http://localhost:1313/2005/09/22/adventures-in-wien/</loc>
     <lastmod>2005-09-22T22:03:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/2005/09/22/112744720580909964/</loc>
+    <loc>http://localhost:1313/2005/09/22/112744720580909964/</loc>
     <lastmod>2005-09-22T18:53:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1337/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>http://localhost:1337/alchemy-20/</loc>
+    <loc>http://localhost:1313/alchemy-20/</loc>
   </url><url>
-    <loc>http://localhost:1337/dangerous-gifts/</loc>
+    <loc>http://localhost:1313/contact/</loc>
   </url><url>
-    <loc>http://localhost:1337/digital-communications-in-theory-and-practice/</loc>
+    <loc>http://localhost:1313/dangerous-gifts/</loc>
   </url><url>
-    <loc>http://localhost:1337/essays/</loc>
+    <loc>http://localhost:1313/digital-communications-in-theory-and-practice/</loc>
   </url><url>
-    <loc>http://localhost:1337/presentations/</loc>
+    <loc>http://localhost:1313/essays/</loc>
   </url><url>
-    <loc>http://localhost:1337/publications/</loc>
+    <loc>http://localhost:1313/presentations/</loc>
   </url><url>
-    <loc>http://localhost:1337/the-end-of-forgetting/</loc>
+    <loc>http://localhost:1313/publications/</loc>
   </url><url>
-    <loc>http://localhost:1337/timeline/</loc>
+    <loc>http://localhost:1313/search/</loc>
   </url><url>
-    <loc>http://localhost:1337/topics/</loc>
-  </url><url>
-    <loc>http://localhost:1337/tweets/</loc>
+    <loc>http://localhost:1313/the-end-of-forgetting/</loc>
   </url>
 </urlset>

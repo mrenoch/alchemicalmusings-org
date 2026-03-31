@@ -1,7 +1,7 @@
 ---
 title: "The End of Forgetting"
 slug: "the-end-of-forgetting"
-menu: main
+
 ---
 
 A compilation of some of my work on the politics of memory:

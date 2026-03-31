@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mediacon13 on Alchemical Musings</title>
-    <link>http://localhost:1337/tags/mediacon13/</link>
+    <link>http://localhost:1313/tags/mediacon13/</link>
     <description>Recent content in Mediacon13 on Alchemical Musings</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 22 Apr 2013 22:40:14 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1337/tags/mediacon13/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/mediacon13/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Joker&#39;s Detonators</title>
-      <link>http://localhost:1337/2013/04/22/the-jokers-detonators/</link>
+      <link>http://localhost:1313/2013/04/22/the-jokers-detonators/</link>
       <pubDate>Mon, 22 Apr 2013 22:40:14 +0000</pubDate>
-      <guid>http://localhost:1337/2013/04/22/the-jokers-detonators/</guid>
+      <guid>http://localhost:1313/2013/04/22/the-jokers-detonators/</guid>
       <description>&lt;p&gt;This weekend I participated in a wonderful academic experiment - a conference hosted by the Rutgers Media/Comm program called &lt;em&gt;&lt;a href=&#34;http://mediacon.rutgers.edu/&#34;&gt;Extending Play&lt;/a&gt;&lt;/em&gt;. Thanks to everyone who was involved in making it happen!&#xA;The conference invited participants to play with traditional academic conferences, in form and content, and to a large extent, they succeeded. I had a stupid busy weekend, and couldn&amp;rsquo;t attend as much of this event as I wanted to, but I was there all day on Saturday, and the keynote conversations were refreshingly engaging,  and many of the panelists &lt;a href=&#34;https://twitter.com/ninabeth/status/325696854471888896&#34;&gt;pushed the boundaries&lt;/a&gt; of conventional conference formats.&#xA;I&amp;rsquo;m hoping to circle back and write more reflections about the parts of the conference I attended, but in this post, I want to share my presentation. (It was a difficult presentation for me to make, given the tragedy in Boston last week&amp;hellip; but, I think it was appropriate).&#xA;&lt;em&gt;What impacts might Free and Open Source technologies have on networked insurgency tactics? How might 3D-printing, open source drones, open source rocket guidance software, and arduinos transform urban guerrilla warfare and pose a serious threat to (inter)national security? While these technologies are typically used for hobbies and play in the western world, their weaponization is an discussion whose ethical urgency needs to be taken up by communities of practice.&lt;/em&gt;&#xA;&lt;em&gt;The tactics of networked insurgents are evolving at the speed of the internet, and FLOSS communities need to start thinking about strategies to anticipate, and prevent the weaponization of their software. Is the weaponization of FLOSS software intended in Stallman&amp;rsquo;s software freedoms?  While a minority of free software licenses attempt to prevent violent applications of their software, how should the average software developer think about their responsibilities towards the potential uses of their creations?&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>
