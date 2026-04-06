@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html class="no-js" lang="en">
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1337&amp;path=livereload" data-no-instant defer></script>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Tweets - Alchemical Musings</title>
 	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
 	<meta name="description" content="">
-		<meta property="og:url" content="http://localhost:1313/tweets/">
+		<meta property="og:url" content="http://localhost:1337/tweets/">
   <meta property="og:site_name" content="Alchemical Musings">
   <meta property="og:title" content="Tweets">
   <meta property="og:description" content="[aktt_tweets account=“mrenoch”]">
@@ -16,10 +16,10 @@
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link rel="dns-prefetch" href="//fonts.googleapis.com">
 	<link rel="dns-prefetch" href="//fonts.gstatic.com">
-	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400;1,500&display=swap">
 
 	<link rel="stylesheet" href="/css/style.css">
-	
+	<link rel="stylesheet" href="/css/custom.css">
 
 	<link rel="shortcut icon" href="/favicon.ico">
 		
@@ -32,7 +32,7 @@
 	<div class="logo logo--mixed">
 		<a class="logo__link" href="/" title="Alchemical Musings" rel="home">
 			<div class="logo__item logo__imagebox">
-					<img class="logo__img" src="/images/jonahsStaff.jpg">
+					<img class="logo__img" src="/images/jonahs_staff.png">
 				</div><div class="logo__item logo__text">
 					<div class="logo__title">Alchemical Musings</div>
 					<div class="logo__tagline">Aurum nostrum non est aurum vulgi</div>
@@ -46,84 +46,51 @@
 	</button>
 	<ul class="menu__list">
 		<li class="menu__item">
+			<a class="menu__link" href="/">
+				<span class="menu__text">Home</span>
+			</a>
+		</li>
+		<li class="menu__item">
 			<a class="menu__link" href="/about/">
-				
 				<span class="menu__text">About</span>
-				
 			</a>
 		</li>
 		<li class="menu__item">
-			<a class="menu__link" href="/alchemy-20/">
-				
-				<span class="menu__text">Alchemy 2.0</span>
-				
+			<a class="menu__link" href="/contact/">
+				<span class="menu__text">Contact</span>
 			</a>
 		</li>
-		<li class="menu__item">
-			<a class="menu__link" href="/dangerous-gifts/">
-				
-				<span class="menu__text">Dangerous Gifts</span>
-				
+		<li class="menu__item menu__item--has-children">
+			<a class="menu__link" href="#">
+				<span class="menu__text">Pages</span><span class="menu__arrow">&#9660;</span>
 			</a>
-		</li>
-		<li class="menu__item">
-			<a class="menu__link" href="/digital-communications-in-theory-and-practice/">
-				
-				<span class="menu__text">Digital Communications in Theory and Practice</span>
-				
-			</a>
-		</li>
-		<li class="menu__item">
-			<a class="menu__link" href="/essays/">
-				
-				<span class="menu__text">Essays</span>
-				
-			</a>
-		</li>
-		<li class="menu__item">
-			<a class="menu__link" href="/presentations/">
-				
-				<span class="menu__text">Presentations</span>
-				
-			</a>
-		</li>
-		<li class="menu__item">
-			<a class="menu__link" href="/publications/">
-				
-				<span class="menu__text">Publications</span>
-				
-			</a>
-		</li>
-		<li class="menu__item">
-			<a class="menu__link" href="/the-end-of-forgetting/">
-				
-				<span class="menu__text">The End of Forgetting</span>
-				
-			</a>
-		</li>
-		<li class="menu__item">
-			<a class="menu__link" href="/timeline/">
-				
-				<span class="menu__text">Timeline</span>
-				
-			</a>
-		</li>
-		<li class="menu__item">
-			<a class="menu__link" href="/topics/">
-				
-				<span class="menu__text">Topics</span>
-				
-			</a>
-		</li>
-		<li class="menu__item menu__item--active">
-			<a class="menu__link" href="/tweets/">
-				
-				<span class="menu__text">Tweets</span>
-				
-			</a>
+			<ul class="menu__dropdown">
+				<li class="menu__dropdown-item">
+					<a class="menu__dropdown-link" href="/alchemy-20/">Alchemy 2.0</a>
+				</li>
+				<li class="menu__dropdown-item">
+					<a class="menu__dropdown-link" href="/dangerous-gifts/">Dangerous Gifts</a>
+				</li>
+				<li class="menu__dropdown-item">
+					<a class="menu__dropdown-link" href="/digital-communications-in-theory-and-practice/">Digital Communications</a>
+				</li>
+				<li class="menu__dropdown-item">
+					<a class="menu__dropdown-link" href="/essays/">Essays</a>
+				</li>
+				<li class="menu__dropdown-item">
+					<a class="menu__dropdown-link" href="/presentations/">Presentations</a>
+				</li>
+				<li class="menu__dropdown-item">
+					<a class="menu__dropdown-link" href="/publications/">Publications</a>
+				</li>
+				<li class="menu__dropdown-item">
+					<a class="menu__dropdown-link" href="/the-end-of-forgetting/">The End of Forgetting</a>
+				</li>
+			</ul>
 		</li>
 	</ul>
 </nav>
+
 
 	</div>
 </header>
@@ -156,21 +123,26 @@
 
 			</div>
 			<aside class="sidebar"><div class="widget-search widget">
-	<form class="widget-search__form" role="search" method="get" action="https://google.com/search">
-		<input class="widget-search__field" type="search" placeholder="Search…" value="" name="q" aria-label="Search…">
-		<input class="widget-search__submit" type="submit" value="Search">
-		<input type="hidden" name="sitesearch" value="http://localhost:1313/">
-	</form>
+  <form class="widget-search__form" role="search" method="get" action="/search/">
+    <input
+      class="widget-search__field"
+      type="search"
+      placeholder="Search…"
+      name="q"
+      aria-label="Search…">
+    <input class="widget-search__submit" type="submit" value="Search">
+  </form>
 </div>
+
 <div class="widget-recent widget">
 	<h4 class="widget__title">Recent Posts</h4>
 	<div class="widget__content">
 		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/2021/08/18/picture-yourself-on-a-boat-on-a-river/">Picture yourself on a boat on a river...</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/08/18/neither-rain-nor-time/">Neither Rain Nor Time</a></li>
 			<li class="widget__item"><a class="widget__link" href="/2019/07/09/finally-weve-been-too-patient/">Finally! We&#39;ve Been Too Patient</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2019/07/07/inactive-rescues-the-active-risks-of-risk-detection/">Inactive rescues: The active risks of risk detection</a></li>
 			<li class="widget__item"><a class="widget__link" href="/2019/03/03/coding-mental/">Coding Mental</a></li>
-			<li class="widget__item"><a class="widget__link" href="/2018/12/31/silencing-internal-combustion/">Silencing the infernal internal combustion engine</a></li>
-			<li class="widget__item"><a class="widget__link" href="/2017/12/03/the-rise-of-surveillance-psychiatry-and-the-mad-underground/">The Rise of Surveillance Psychiatry and the Mad Underground</a></li>
-			<li class="widget__item"><a class="widget__link" href="/2017/08/31/interviews-with-the-speakerbots/">Interviews with the Speakerbots</a></li>
 		</ul>
 	</div>
 </div>
@@ -179,55 +151,86 @@
 	<div class="widget__content">
 		<ul class="widget__list">
 			<li class="widget__item">
-				<a class="widget__link" href="/categories/aesthetics/">Aesthetics</a></li>
+				<a class="widget__link" href="/categories/aesthetics/">Aesthetics</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">25</span>
+				</li>
 			<li class="widget__item">
-				<a class="widget__link" href="/categories/air/">Air</a></li>
+				<a class="widget__link" href="/categories/air/">Air</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">30</span>
+				</li>
 			<li class="widget__item">
-				<a class="widget__link" href="/categories/cchaiti/">Cchaiti</a></li>
+				<a class="widget__link" href="/categories/cchaiti/">Cchaiti</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">1</span>
+				</li>
 			<li class="widget__item">
-				<a class="widget__link" href="/categories/dangerousgifts/">Dangerousgifts</a></li>
+				<a class="widget__link" href="/categories/dangerousgifts/">Dangerousgifts</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">21</span>
+				</li>
 			<li class="widget__item">
-				<a class="widget__link" href="/categories/earth/">Earth</a></li>
+				<a class="widget__link" href="/categories/earth/">Earth</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">57</span>
+				</li>
 			<li class="widget__item">
-				<a class="widget__link" href="/categories/education/">Education</a></li>
+				<a class="widget__link" href="/categories/education/">Education</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">5</span>
+				</li>
 			<li class="widget__item">
-				<a class="widget__link" href="/categories/endofforgetting/">Endofforgetting</a></li>
+				<a class="widget__link" href="/categories/endofforgetting/">Endofforgetting</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">3</span>
+				</li>
 			<li class="widget__item">
-				<a class="widget__link" href="/categories/epistemology/">Epistemology</a></li>
+				<a class="widget__link" href="/categories/epistemology/">Epistemology</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">49</span>
+				</li>
 			<li class="widget__item">
-				<a class="widget__link" href="/categories/ethics/">Ethics</a></li>
+				<a class="widget__link" href="/categories/ethics/">Ethics</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">73</span>
+				</li>
 			<li class="widget__item">
-				<a class="widget__link" href="/categories/fire/">Fire</a></li>
+				<a class="widget__link" href="/categories/fire/">Fire</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">57</span>
+				</li>
 			<li class="widget__item">
-				<a class="widget__link" href="/categories/fourthestate/">Fourthestate</a></li>
+				<a class="widget__link" href="/categories/fourthestate/">Fourthestate</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">7</span>
+				</li>
 			<li class="widget__item">
-				<a class="widget__link" href="/categories/freeculture/">Freeculture</a></li>
+				<a class="widget__link" href="/categories/freeculture/">Freeculture</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">28</span>
+				</li>
 			<li class="widget__item">
-				<a class="widget__link" href="/categories/metaphysics/">Metaphysics</a></li>
+				<a class="widget__link" href="/categories/metaphysics/">Metaphysics</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">30</span>
+				</li>
 			<li class="widget__item">
-				<a class="widget__link" href="/categories/nmc2008/">Nmc2008</a></li>
+				<a class="widget__link" href="/categories/nmc2008/">Nmc2008</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">1</span>
+				</li>
 			<li class="widget__item">
-				<a class="widget__link" href="/categories/nptech/">Nptech</a></li>
+				<a class="widget__link" href="/categories/nptech/">Nptech</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">9</span>
+				</li>
 			<li class="widget__item">
-				<a class="widget__link" href="/categories/olpc/">Olpc</a></li>
+				<a class="widget__link" href="/categories/olpc/">Olpc</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">1</span>
+				</li>
 			<li class="widget__item">
-				<a class="widget__link" href="/categories/playasbeing/">Playasbeing</a></li>
+				<a class="widget__link" href="/categories/playasbeing/">Playasbeing</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">7</span>
+				</li>
 			<li class="widget__item">
-				<a class="widget__link" href="/categories/plone/">Plone</a></li>
+				<a class="widget__link" href="/categories/plone/">Plone</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">12</span>
+				</li>
 			<li class="widget__item">
-				<a class="widget__link" href="/categories/uncategorized/">Uncategorized</a></li>
+				<a class="widget__link" href="/categories/uncategorized/">Uncategorized</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">24</span>
+				</li>
 			<li class="widget__item">
-				<a class="widget__link" href="/categories/water/">Water</a></li>
+				<a class="widget__link" href="/categories/water/">Water</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">28</span>
+				</li>
 		</ul>
-	</div>
-</div>
-<div class="widget-taglist widget">
-	<h4 class="widget__title">Tags</h4>
-	<div class="widget__content">
-		<a class="widget-taglist__link widget__link btn" href="/tags/chris-anderson/" title="Chris Anderson">Chris Anderson</a>
-		<a class="widget-taglist__link widget__link btn" href="/tags/kevin-kelly/" title="Kevin Kelly">Kevin Kelly</a>
-		<a class="widget-taglist__link widget__link btn" href="/tags/mediacon13/" title="Mediacon13">Mediacon13</a>
-		<a class="widget-taglist__link widget__link btn" href="/tags/wired/" title="Wired">Wired</a>
 	</div>
 </div>
 </aside>
@@ -236,11 +239,17 @@
 	<div class="container footer__container flex">
 		
 		<div class="footer__copyright">
-			&copy; 2026 Alchemical Musings.
+			<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">
+				<img alt="Creative Commons License" style="border-width:0;vertical-align:middle;margin-right:6px;"
+					src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" />
+			</a>
+			2026 Alchemical Musings.
+			Licensed under <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.
 			<span class="footer__copyright-credits">Generated with <a href="https://gohugo.io/" rel="nofollow noopener" target="_blank">Hugo</a> and <a href="https://github.com/Vimux/Mainroad/" rel="nofollow noopener" target="_blank">Mainroad</a> theme.</span>
 		</div>
 	</div>
 </footer>
+
 	</div>
 <script async defer src="/js/menu.js"></script>
 </body>

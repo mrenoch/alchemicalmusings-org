@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Alchemical Musings</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://localhost:1337/tags/</link>
     <description>Recent content in Tags on Alchemical Musings</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 22 Apr 2013 22:40:14 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1337/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mediacon13</title>
-      <link>http://localhost:1313/tags/mediacon13/</link>
+      <link>http://localhost:1337/tags/mediacon13/</link>
       <pubDate>Mon, 22 Apr 2013 22:40:14 +0000</pubDate>
-      <guid>http://localhost:1313/tags/mediacon13/</guid>
+      <guid>http://localhost:1337/tags/mediacon13/</guid>
       <description></description>
     </item>
     <item>
       <title>Chris Anderson</title>
-      <link>http://localhost:1313/tags/chris-anderson/</link>
+      <link>http://localhost:1337/tags/chris-anderson/</link>
       <pubDate>Mon, 30 Jun 2008 00:50:46 +0000</pubDate>
-      <guid>http://localhost:1313/tags/chris-anderson/</guid>
+      <guid>http://localhost:1337/tags/chris-anderson/</guid>
       <description></description>
     </item>
     <item>
       <title>Kevin Kelly</title>
-      <link>http://localhost:1313/tags/kevin-kelly/</link>
+      <link>http://localhost:1337/tags/kevin-kelly/</link>
       <pubDate>Mon, 30 Jun 2008 00:50:46 +0000</pubDate>
-      <guid>http://localhost:1313/tags/kevin-kelly/</guid>
+      <guid>http://localhost:1337/tags/kevin-kelly/</guid>
       <description></description>
     </item>
     <item>
       <title>Wired</title>
-      <link>http://localhost:1313/tags/wired/</link>
+      <link>http://localhost:1337/tags/wired/</link>
       <pubDate>Mon, 30 Jun 2008 00:50:46 +0000</pubDate>
-      <guid>http://localhost:1313/tags/wired/</guid>
+      <guid>http://localhost:1337/tags/wired/</guid>
       <description></description>
     </item>
   </channel>
