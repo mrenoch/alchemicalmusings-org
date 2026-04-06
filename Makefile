@@ -1,6 +1,7 @@
 HUGO ?= hugo
 PUBLIC = public
 BRANCH_DEPLOY = gh-pages
+PORT = 1337
 
 # ── Default ───────────────────────────────────────────────────────────────────
 
@@ -8,7 +9,7 @@ BRANCH_DEPLOY = gh-pages
 
 help:
 	@echo ""
-	@echo "  make serve    — start local dev server (localhost:1313, live reload)"
+	@echo "  make serve    — start local dev server (localhost:1337, live reload)"
 	@echo "  make build    — production build into $(PUBLIC)/"
 	@echo "  make clean    — remove $(PUBLIC)/"
 	@echo "  make deploy   — push $(PUBLIC)/ to $(BRANCH_DEPLOY) branch (GitHub Pages)"
@@ -17,7 +18,10 @@ help:
 # ── Development ───────────────────────────────────────────────────────────────
 
 serve:
-	$(HUGO) server --buildDrafts --buildFuture
+	$(HUGO) server  -p $(PORT)
+
+serve-drafts:
+	$(HUGO) server --buildDrafts --buildFuture -p $(PORT)	
 
 # ── Build ─────────────────────────────────────────────────────────────────────
 
