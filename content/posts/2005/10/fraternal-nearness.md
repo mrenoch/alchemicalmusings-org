@@ -7,7 +7,11 @@ url: "/2005/10/23/fraternal-nearness/"
 categories:
   - "epistemology"
   - "fire"
-tags: []
+tags:
+  - "art"
+  - "free-culture"
+  - "philosophy"
+  - "technology"
 ---
 
 In his post [Social agency and the intersection of communities and networks](http://ideant.typepad.com/ideant/2005/10/social_agency_a.html), Ulises Mejias expounds on the differences between communities and networks, and relates these concepts to the possibility of ontological nearness. The placement of communities within this continuum can be understood more clearly by the immediacy, intensity and intimacy of the interactions.

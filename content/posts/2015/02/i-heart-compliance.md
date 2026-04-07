@@ -8,7 +8,11 @@ categories:
   - "aesthetics"
   - "earth"
   - "freeculture"
-tags: []
+tags:
+  - "activism"
+  - "art"
+  - "free-culture"
+  - "music"
 ---
 
 [![Onkyo Complies](/images/2015/02/IMAG1851-169x300.jpg)](/images/2015/02/IMAG1851.jpg)Last month I bought an amazing gadget that is easily my most favorite of the decade. Before last month, I was barely aware this product category existed until I browsed the "Home Audio" section at PC Richards while looking for a replacement vacuum cleaner. I noticed that many of the receivers had ethernet jacks and also supported wi-fi, bluetooth, hdmi and USB. They boasted compatibility with internet audio streaming services, home media libraries, as well as any bluetooth-enabled media collection. Brought to all of us thanks to Free and Open Source Software.

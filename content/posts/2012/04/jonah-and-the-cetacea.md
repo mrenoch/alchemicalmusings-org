@@ -6,7 +6,10 @@ slug: "jonah-and-the-cetacea"
 url: "/2012/04/29/jonah-and-the-cetacea/"
 categories:
   - "Uncategorized"
-tags: []
+tags:
+  - "edtech"
+  - "education"
+  - "palestine"
 ---
 
 [![](/images/2012/04/yellow_submarine-300x199.jpg "Yellow Submarine & Friends")](http://www.flickr.com/photos/egansnow/410728929/)I recently returned from an [amazing trip](http://alchemicalmusings.org/2012/04/02/dispatches-from-cairo-the-raw-data/) to Cairo, with a 36-hour stopover in Istanbul on the way home. While there, I learned something wonderful about the meaning of my name that continues to make me smile.

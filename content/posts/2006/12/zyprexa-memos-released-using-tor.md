@@ -7,7 +7,11 @@ url: "/2006/12/24/zyprexa-memos-released-using-tor/"
 categories:
   - "ethics"
   - "fire"
-tags: []
+tags:
+  - "health"
+  - "memory"
+  - "mental-health"
+  - "surveillance"
 ---
 
 Freeculturenyu.org is covering [an unfolding story](http://www.freeculturenyu.org/2006/12/23/zyprexa-kills-campain/) laced with greed and deciept in the pharmaceutical industry. The freeculture angle here is that Lilly will predictably try to control this information by abusing copyright laws.

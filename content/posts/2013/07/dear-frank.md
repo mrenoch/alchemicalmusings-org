@@ -16,7 +16,11 @@ categories:
   - "metaphysics"
   - "playasbeing"
   - "water"
-tags: []
+tags:
+  - "art"
+  - "education"
+  - "journalism"
+  - "philosophy"
 ---
 
 I remember the first time we met. It was my third and final interview for my current job at CCNMTL back in Spring '04. I was initially anxious, but you immediately made be feel welcome and comfortable. [Over the years I came to appreciate your gift for authentically connecting with just about anyone, often within 30 seconds of meeting them. You dispatched with superficial niceties and blazed trails directly to people's souls. You bridged intellect and emotion, without a hint of pomp or circumstance, projecting sensitivity and respect to everyone you encountered. Age, class, race, gender - not so much that these dimensions were irrelevant, but you always managed to connect with the individual. You actually listened. And learned.] During that interview I remember walking into your office, encircled floor to ceiling with books. You asked me about my undergraduate senior thesis, a topic I hadn't revisited in almost a decade, and then proceeded to pull [Julian Jaynes](http://en.wikipedia.org/wiki/Julian_Jaynes) off the shelf. You showed me your photo with Allen Ginsberg, and then asked me if I recognized the person in another grainy b/w photo. When I correctly identified Wittgenstein I was pretty confident I had landed the job. But, more importantly, I had found a new mentor.

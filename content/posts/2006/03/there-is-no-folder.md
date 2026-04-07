@@ -6,7 +6,10 @@ slug: "there-is-no-folder"
 url: "/2006/03/18/there-is-no-folder/"
 categories:
   - "plone"
-tags: []
+tags:
+  - "cms"
+  - "philosophy"
+  - "social-media"
 ---
 
 *Originally published on theploneblog.org*

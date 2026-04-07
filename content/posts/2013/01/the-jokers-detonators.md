@@ -6,7 +6,11 @@ slug: "the-jokers-detonators"
 url: "/2013/01/06/the-jokers-detonators/"
 categories:
   - "Uncategorized"
-tags: []
+tags:
+  - "art"
+  - "free-culture"
+  - "palestine"
+  - "social-media"
 ---
 
 I've been thinking about the impact of open source technologies on insurgency tactics, probably triggered by the war in the middle east.  In particular, I am wondering about the impact if tools such as 3D printing (http://bits.blogs.nytimes.com/2012/10/07/with-a-3-d-printer-building-a-gun-at-home/), open source drones, open source rocket/missile guidance systems (http://www.altusmetrum.org/), and arduinos (http://www.arduino.cc/).

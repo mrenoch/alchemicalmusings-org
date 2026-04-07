@@ -7,7 +7,10 @@ url: "/2006/07/22/held-together-with-glureed/"
 categories:
   - "earth"
   - "ethics"
-tags: []
+tags:
+  - "art"
+  - "journalism"
+  - "politics"
 ---
 
 I am bummed at the failure of politicians and the media to connect the issue of [Net Neutrality](http://www.youtube.com/watch?v=l9jHOn0EW8U) to the issue of [China's internet censorship](http://www.amnestyusa.org/business/censorship.html). The issue of internet censorship in China led to congressional hearings where:

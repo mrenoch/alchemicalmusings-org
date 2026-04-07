@@ -8,7 +8,10 @@ categories:
   - "earth"
   - "ethics"
   - "freeculture"
-tags: []
+tags:
+  - "art"
+  - "free-culture"
+  - "palestine"
 ---
 
 [![](/images/2009/01/world_flags-300x179.jpg "world_flags")](http://www.theworldflag.org/)The current tragedy unfolding in the Middle East right now deserves a more powerful and direct response than I am prepared to deliver. The media coverage is very difficult to sift through and judge, as the reporting has been marinated in [propaganda campaigns](http://www.redherring.com/Home/25693) more sophisticated than anything I have personally experienced. Many people I talk to seem to be unwittingly "on message", faithfully echoing the sound bites they have been fed on a steady basis.

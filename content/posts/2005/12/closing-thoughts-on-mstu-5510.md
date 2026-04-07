@@ -6,7 +6,10 @@ slug: "closing-thoughts-on-mstu-5510"
 url: "/2005/12/18/closing-thoughts-on-mstu-5510/"
 categories:
   - "Uncategorized"
-tags: []
+tags:
+  - "art"
+  - "social-media"
+  - "technology"
 ---
 
 Ulises recently [asked us to summarize](http://ssa05.blogspot.com/2005/12/in-preparation-for-landing.html) our thoughts for the semester in our blogs. Considering that this blog was started for this class, I was surprised by my own initial resentment at being asked to post something so specific here. During the course of the semester, this forum has become a place for me to speak, not to answer. Even when I was posting assignments for class, they were items and issues which I selected and chose. This initial emotional reaction indicates how engaging these tools can become, and helped me answer some of the questions on Uilses' list.

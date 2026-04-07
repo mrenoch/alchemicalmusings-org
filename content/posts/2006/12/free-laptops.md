@@ -9,7 +9,11 @@ categories:
   - "epistemology"
   - "ethics"
   - "fire"
-tags: []
+tags:
+  - "edtech"
+  - "journalism"
+  - "philosophy"
+  - "social-media"
 ---
 
 ![apple tree](/images/2006/12/apple_tree_1.jpg)In keeping with the Alchemist's recent "[free](http://alchemicalmusings.org/2006/11/16/free-energy/)" disambuguation theme, here is my latest installment on the OLPC project:

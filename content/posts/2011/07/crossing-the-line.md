@@ -7,7 +7,11 @@ url: "/2011/07/09/crossing-the-line/"
 categories:
   - "earth"
   - "ethics"
-tags: []
+tags:
+  - "edtech"
+  - "education"
+  - "palestine"
+  - "philosophy"
 ---
 
 [![](/images/2011/07/DSC01281_large-e1310231626127-287x300.jpg "Next Year In Jerusalem")](http://shop.wewillnotbesilent.net/products/next-year-in-jerusalem)This week I am heading to the West Bank for work (!?!): Enhancing Technology Education in Palestinian Universities ([etep](http://etep.pbworks.com/)).

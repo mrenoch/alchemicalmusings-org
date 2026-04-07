@@ -10,7 +10,11 @@ categories:
   - "epistemology"
   - "ethics"
   - "fire"
-tags: []
+tags:
+  - "activism"
+  - "mental-health"
+  - "palestine"
+  - "philosophy"
 ---
 
 ![](/images/2012/01/BW-Occupy-RVA-peer-support-300x200.jpg "BW Occupy RVA peer support")In a [previous post](http://alchemicalmusings.org/2011/12/08/mindful-occupation-part-i/), I described my initial involvement with #occupymentalhealth and birth of our forthcoming zine [Mindful Occupation](http://mindfuloccupation.org/): Rising Up Without Burning Out.

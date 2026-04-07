@@ -9,7 +9,11 @@ categories:
   - "ethics"
   - "fire"
   - "freeculture"
-tags: []
+tags:
+  - "activism"
+  - "free-culture"
+  - "music"
+  - "technology"
 ---
 
 ![abandon_despair](/images/2010/06/abandon_despair-225x300.jpg "abandon_despair")Last week I attended the second half of the [US Social Forum](http://www.ussf2010.org/) - not exactly a conference, but more of a convergence or a process, where 20,000 people gathered in Detroit to build coalitions, alliances, and movements. The [World Social Forum](http://www.forumsocialmundial.org.br/main.php?id_menu=4_2&cd_language=2) began as a response to the [World Economic Forum](http://www.weforum.org/) - Why should the power elite be the only ones planning humanity's future?!?

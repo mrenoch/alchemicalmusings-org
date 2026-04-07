@@ -7,7 +7,11 @@ url: "/2007/11/08/pedagogical-sofware/"
 categories:
   - "epistemology"
   - "water"
-tags: []
+tags:
+  - "cms"
+  - "education"
+  - "philosophy"
+  - "social-media"
 ---
 
 Literally. See my post on The Plone Blog:

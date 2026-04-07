@@ -8,7 +8,11 @@ categories:
   - "air"
   - "endofforgetting"
   - "metaphysics"
-tags: []
+tags:
+  - "memory"
+  - "philosophy"
+  - "surveillance"
+  - "time-travel"
 ---
 
 [![](/images/2013/06/NSA-Data-Cent2-300x202.jpg "NSA-Data-Cent2")](http://www.wired.com/threatlevel/2012/03/ff_nsadatacenter/)If you haven't yet heard about the  details of the NSA's spying program, catch yourself up with the [timeline](https://www.eff.org/nsa-spying/timeline) so this post doesn't sound entirely bonkers.

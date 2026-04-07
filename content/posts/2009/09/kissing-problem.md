@@ -8,7 +8,11 @@ categories:
   - "epistemology"
   - "fire"
   - "freeculture"
-tags: []
+tags:
+  - "edtech"
+  - "education"
+  - "free-culture"
+  - "philosophy"
 ---
 
 [![webs](/images/2009/09/97936640_a111c6ffbe-300x207.jpg "webs")](http://www.flickr.com/photos/automania/97936640/)Last week I participated in the architecture school's visualization seminar and  was treated to a mind-blowing presentation by [Tony Jebara](http://www1.cs.columbia.edu/~jebara/index.html), a Columbia Computer Scientist. Jebara is a young associate professor who researches machine learning, graphs, and visualizations, and is also the chief scientist at [CitySense.com](http://www.citysense.com/). His lab *“develops novel algorithms that use data to model complex real-world phenomena and to make accurate predictions about them.”* They also work on improving the readability of massive volumes of multi-dimensional data, and are currently focusing on making sense of networks of people and places (take a wild guess [who else](http://www1.cs.columbia.edu/~jebara/funding.html) is interested in their work).

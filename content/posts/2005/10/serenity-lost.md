@@ -7,7 +7,10 @@ url: "/2005/10/07/serenity-lost/"
 categories:
   - "aesthetics"
   - "air"
-tags: []
+tags:
+  - "art"
+  - "media-theory"
+  - "technology"
 ---
 
 Nothing like a little pulp sci-fi to resonate with a class on emerging tech. I saw [Serenity](http://imdb.com/title/tt0379786/) tonight (skip this post until you have seen it, unless you aren't planning to at all) and was amused at how a central plot line revolved around some information that has been covered up by the authorities, and the struggle to disseminate that message.

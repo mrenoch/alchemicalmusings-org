@@ -7,7 +7,11 @@ url: "/2007/05/19/can-you-keep-a-dark-secret/"
 categories:
   - "air"
   - "metaphysics"
-tags: []
+tags:
+  - "alchemy"
+  - "ancient-technology"
+  - "media"
+  - "philosophy"
 ---
 
 ![caduceus.jpg](/images/2007/05/caduceus.jpg)The Alchemist in me feels compelled to respond to the excellent documentary that aired on PBS the other week entitled [Newton's Dark Secret](http://www.pbs.org/wgbh/nova/newton/). The film profiled Sir Issac Newton's fascination with the ancient art/science/craft of Alchemy.

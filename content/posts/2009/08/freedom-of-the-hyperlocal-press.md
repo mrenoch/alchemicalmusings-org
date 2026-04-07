@@ -8,7 +8,11 @@ categories:
   - "earth"
   - "ethics"
   - "freeculture"
-tags: []
+tags:
+  - "art"
+  - "free-culture"
+  - "journalism"
+  - "technology"
 ---
 
 [![Viral Police](/images/2009/08/3474744375_fca198e5ff.jpg "Viral Police")](http://www.flickr.com/photos/sarihuella/3474744375/in/set-72157617345447162/)Heh.  I enjoy a [nice](http://www.flickr.com/photos/mccloud/tags/fireisland/) long weekend off, and a few of my worlds collided while I was away...

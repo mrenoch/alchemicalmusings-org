@@ -6,7 +6,11 @@ slug: "a-red-guitar-3-chords-and-the-truth"
 url: "/2006/01/16/a-red-guitar-3-chords-and-the-truth/"
 categories:
   - "Uncategorized"
-tags: []
+tags:
+  - "activism"
+  - "ancient-technology"
+  - "free-culture"
+  - "social-media"
 ---
 
 [![](http://static.flickr.com/40/86970533_f90c3eec20.jpg?v=1137359000)](http://www.flickr.com/photos/fcb/86970533/in/set-72057594048528507/)This weekend I participated in the NYC [free culture summit](http://freeculture.org/nyc) and learned a few refreshing radical activism tricks from the class of '06.

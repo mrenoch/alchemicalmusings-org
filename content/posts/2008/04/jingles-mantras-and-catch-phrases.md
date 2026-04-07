@@ -10,7 +10,11 @@ categories:
   - "metaphysics"
   - "playasbeing"
   - "water"
-tags: []
+tags:
+  - "art"
+  - "education"
+  - "palestine"
+  - "philosophy"
 ---
 
 [![play as being](/images/2008/04/273113480_4c996d9fae.jpg)](http://flickr.com/photos/suzieq/273113480/ "I've been playing")Well, I'm on day four of [our experiment](http://playasbeing.wordpress.com/) with *Play as Being*, and have noticed subtle changes in my mood, disposition, and preoccupations. I really like the rhythm of this discipline - in [Piet/Parma](http://www.ids.ias.edu/~piet/)'s words, this practice is an experiment in trading off duration for frequency.

@@ -7,7 +7,9 @@ url: "/2005/10/14/slipery-handles/"
 categories:
   - "fire"
   - "metaphysics"
-tags: []
+tags:
+  - "art"
+  - "philosophy"
 ---
 
 Today I leared that a friend of mine changes her IM handle every time she switches jobs. That's nothing, she changes emails every time a relationship ends.

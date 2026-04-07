@@ -8,7 +8,10 @@ categories:
   - "dangerousgifts"
   - "fire"
   - "metaphysics"
-tags: []
+tags:
+  - "activism"
+  - "ancient-technology"
+  - "philosophy"
 ---
 
 [![Javier Tellez](/images/2009/07/2312913600_5510c0278a-300x225.jpg "Javier Tellez")](http://www.flickr.com/photos/libbyrosof/2312913600/in/photostream/)On last weekend's visit to the [Shivananda ashram](http://www.sivananda.org/ranch/) I chanted away life's worries while imagining an elephant effortlessly clearing obstacles from its path.

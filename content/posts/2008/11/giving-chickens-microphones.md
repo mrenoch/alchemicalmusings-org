@@ -9,7 +9,11 @@ categories:
   - "ethics"
   - "fire"
   - "water"
-tags: []
+tags:
+  - "journalism"
+  - "philosophy"
+  - "politics"
+  - "social-media"
 ---
 
 [![](/images/2008/11/chicken_voting_machine-200x300.jpg "Blue Screen of Electoral Death")](http://www.facebook.com/photo.php?pid=42758555&id=802327)By now you may have heard of the innovative citizen-driven election monitoring system, [Twitter Voter Report](http://twittervotereport.com/) (they are getting great [press cycles](http://delicious.com/mccloud/twittervotereport), with purportedly more to come).  I actually wrote up and submitted the post that appears on [infosthetics.com](http://infosthetics.com/archives/2008/11/citizen-driven_us_election_monitoring_system.html), a wonderful blog that tracks innovations in data visualization.

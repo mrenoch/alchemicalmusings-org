@@ -9,7 +9,11 @@ categories:
   - "epistemology"
   - "ethics"
   - "water"
-tags: []
+tags:
+  - "activism"
+  - "art"
+  - "mental-health"
+  - "philosophy"
 ---
 
 [![](/images/2019/07/Opened_up_a_Pandoras_box-178x300.jpg)](https://commons.wikimedia.org/wiki/File:Opened_up_a_Pandora%27s_box.jpg)This past month has seen a rash of stories celebrating the application of artificial intelligence to mental health. The coverage suggest that there is something in the zeitgeist, or, perhaps some aggressive public relations work happening behind the scenes. When discussing the publication of my dissertation as a trade book, one piece of advice my editor offered was that I may need to wait until my writing was more descriptive instead of predictive. We have now arrived.

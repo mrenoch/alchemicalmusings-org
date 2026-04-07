@@ -8,7 +8,11 @@ categories:
   - "ethics"
   - "fire"
   - "fourthestate"
-tags: []
+tags:
+  - "art"
+  - "journalism"
+  - "social-media"
+  - "technology"
 ---
 
 [![](/images/2012/01/2250281469_62bb20e766_z-300x225.jpg "2250281469_62bb20e766_z")](http://www.flickr.com/photos/pegote/2250281469/)[Adrianne Jeffries](http://www.betabeat.com/author/ajeffries/ "View All Posts by Adrianne Jeffries") is a journalist on the tech beat who just published a pretty [hot story](http://www.observer.com/2011/12/as-banks-start-nosing-around-facebook-and-twitter-the-wrong-friends-might-just-sink-your-credit/) in The Observer detailing how banks are mining social networking data to calculate credit scores. The article, *As Banks Start Nosing Around Facebook and Twitter, the Wrong Friends Might Just Sink Your Credit*, describes how startups like [Credit Karma](http://creditkarma.com/) and [Lenddo](http://lenddo.com/) are convinced that deadbeats flock together, and are harvesting our [data-exhaust](http://en.wikipedia.org/wiki/Digital_exhaust) and feeding it into FICO scores. Having friends who default on their loans may soon negatively impact *your* credit worthiness.

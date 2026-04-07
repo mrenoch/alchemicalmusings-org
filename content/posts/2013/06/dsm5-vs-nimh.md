@@ -8,7 +8,11 @@ categories:
   - "dangerousgifts"
   - "epistemology"
   - "fire"
-tags: []
+tags:
+  - "activism"
+  - "health"
+  - "mental-health"
+  - "philosophy"
 ---
 
 [![](/images/2013/06/DSM5-224x300.jpg "DSM5")](/images/2013/06/DSM5.jpg)Last month the DSM-5 finally launched at the American Psychiatric Association conference. After 13 years and multiple delays, you can now [pre-order](http://www.amazon.com/Diagnostic-Statistical-Manual-Disorders-Edition/dp/0890425558) your copy at Amazon (list price: $150), or just leave a helpful comment.

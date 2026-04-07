@@ -8,7 +8,10 @@ categories:
   - "aesthetics"
   - "epistemology"
   - "fire"
-tags: []
+tags:
+  - "art"
+  - "environment"
+  - "philosophy"
 ---
 
 [![](http://static.flickr.com/32/59473603_ff67faa673.jpg?v=0)](http://static.flickr.com/32/59473603_ff67faa673.jpg?v=0)April 7th I heard [Lev Manovich](http://manovich.com/) [talk at Pra](http://rhizome.org/thread.rhiz?thread=20930&page=1#40236)[tt](http://rhizome.org/thread.rhiz?thread=20930&page=1#40236). I am a big fan of Manovich's written work, and the [Language of New Media](http://www.manovich.net/LNM_SITE_NEW/lnm_main.html) was instrumental in my [analysis of tagging](http://pocketknowledge.tc.columbia.edu/home.php/viewfile/18365).

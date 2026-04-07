@@ -6,7 +6,11 @@ slug: "debugging-the-middle-east"
 url: "/2013/01/06/debugging-the-middle-east/"
 categories:
   - "Uncategorized"
-tags: []
+tags:
+  - "alchemy"
+  - "free-culture"
+  - "palestine"
+  - "social-media"
 ---
 
 http://alchemicalmusings.org/2009/01/19/the-tweets-of-war/

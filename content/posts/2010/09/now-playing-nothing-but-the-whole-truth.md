@@ -9,7 +9,11 @@ categories:
   - "epistemology"
   - "freeculture"
   - "nptech"
-tags: []
+tags:
+  - "art"
+  - "free-culture"
+  - "nonprofit-tech"
+  - "philosophy"
 ---
 
 ![sword-justice-not-blind](/images/2010/09/sword-justice-not-blind-273x300.jpg "sword-justice-not-blind")I recently learned about a fascinating  trend in litigation that is quietly transforming courtroom testimony, and is spreading fast and far - video depositions.

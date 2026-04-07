@@ -7,7 +7,9 @@ url: "/2006/08/10/one-lost-identity-per-child/"
 categories:
   - "ethics"
   - "fire"
-tags: []
+tags:
+  - "edtech"
+  - "technology"
 ---
 
 ![](http://www.laptop.org/OLPC_files/orange-rotate.jpg)I attended [wikimania](http://wikimania2006.wikimedia.org/wiki/Proceedings:JB2) this past weekend, and was encouraged by the [philosophers](http://ccnmtl.columbia.edu/web/content_ssi_drop/staff/000117.html) present take a critical stance towards the euphoria surrounding the 21st century agendas - Will Science, Technology, and Rationality necessarily make the world a better place? Didn't we make the same mistake last century?

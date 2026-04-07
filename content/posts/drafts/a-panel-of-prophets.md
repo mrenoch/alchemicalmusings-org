@@ -5,7 +5,9 @@ draft: true
 slug: "a-panel-of-prophets"
 url: "/drafts/a-panel-of-prophets/"
 categories: []
-tags: []
+tags:
+  - "art"
+  - "technology"
 ---
 
 [![psychic](/images/2007/02/psychic1.jpg)](http://flickr.com/photos/spike55151/16981039/)

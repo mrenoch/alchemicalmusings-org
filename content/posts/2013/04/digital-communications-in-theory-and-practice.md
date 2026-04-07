@@ -8,7 +8,11 @@ categories:
   - "earth"
   - "education"
   - "epistemology"
-tags: []
+tags:
+  - "alchemy"
+  - "education"
+  - "philosophy"
+  - "surveillance"
 ---
 
 My doctoral program has an innovative alternative to traditional comprehensive exams.  Instead of reading 80+ books and spending a few days filling blue-books with essays, we can choose to 1. Publish a paper to a peer-reviewed academic journal, 2. Present a paper at an academic conference, and 3. Develop a syllabus.

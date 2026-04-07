@@ -10,7 +10,11 @@ categories:
   - "freeculture"
   - "nptech"
   - "water"
-tags: []
+tags:
+  - "edtech"
+  - "free-culture"
+  - "nonprofit-tech"
+  - "palestine"
 ---
 
 ![](/images/2011/08/CIMG0780-e1312942247603-225x300.jpg "All you need is love")I just returned from the eduventure of a lifetime in Palestine and Israel.  I travelled to the Palestine Technical University of [Kadoorie](http://ptuk.edu.ps/)  to consult on a World Bank funded project to help enhance technology education. The details of this project are inspiring and provocative, but before discussing educational technology, media literacy, and capacity building I *need* to talk about my direct experience of The Occupation.

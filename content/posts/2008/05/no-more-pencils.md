@@ -7,7 +7,10 @@ url: "/2008/05/15/no-more-pencils/"
 categories:
   - "earth"
   - "epistemology"
-tags: []
+tags:
+  - "art"
+  - "philosophy"
+  - "technology"
 ---
 
 Well, summer vacation is finally upon me - now I *only* need to work fulltime.

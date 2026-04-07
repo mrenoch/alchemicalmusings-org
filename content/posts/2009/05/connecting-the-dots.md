@@ -7,7 +7,10 @@ url: "/2009/05/09/connecting-the-dots/"
 categories:
   - "earth"
   - "ethics"
-tags: []
+tags:
+  - "art"
+  - "health"
+  - "journalism"
 ---
 
 ![whenpigsfly1](/images/2009/05/whenpigsfly1-300x245.jpg "whenpigsfly1")

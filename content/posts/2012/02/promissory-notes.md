@@ -8,7 +8,11 @@ categories:
   - "dangerousgifts"
   - "earth"
   - "epistemology"
-tags: []
+tags:
+  - "activism"
+  - "art"
+  - "mental-health"
+  - "philosophy"
 ---
 
 [![](/images/2012/02/abandoned_typewriter-300x278.png "abandoned_typewriter")](http://www.flickr.com/photos/petesimon/3365916944/)My friend [Dr. Rasmus Nielson](http://rasmuskleisnielsen.net/) sends me the best leads. Or, the worst ones, considering they are irresistible calls to action.  He sent me this one days before it was due, and I scrambled to pull-off this abstract over the weekend. Below is the call for papers, and my response. Now all I need to do is deliver on the promissory note I just wrote sometime in the next 3 months. Thanks Rasmus. ;-)

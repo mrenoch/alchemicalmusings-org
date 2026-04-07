@@ -7,7 +7,11 @@ url: "/2006/07/23/personal-media/"
 categories:
   - "aesthetics"
   - "earth"
-tags: []
+tags:
+  - "art"
+  - "environment"
+  - "media"
+  - "music"
 ---
 
 ![](http://static.flickr.com/69/196182485_d212579b60.jpg?v=0)A recent visit to the new [5th avenue Apple store](http://www.apple.com/retail/fifthavenue/) made me realize that the [war for the living room console](http://news.com.com/2009-1043-5113192.html) is effectivlely moot. For years manufacturers have been vying to create the hybrid computer/tv, destined for the position formely occupied by the VCR.

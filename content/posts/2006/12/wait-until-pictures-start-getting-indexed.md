@@ -7,7 +7,10 @@ url: "/2006/12/26/wait-until-pictures-start-getting-indexed/"
 categories:
   - "air"
   - "metaphysics"
-tags: []
+tags:
+  - "art"
+  - "philosophy"
+  - "surveillance"
 ---
 
 ![police_sketch.jpg](/images/2006/12/police_sketch.thumbnail.jpg)Well, I called it:

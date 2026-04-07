@@ -10,7 +10,11 @@ categories:
   - "ethics"
   - "fire"
   - "metaphysics"
-tags: []
+tags:
+  - "art"
+  - "edtech"
+  - "education"
+  - "philosophy"
 ---
 
 Today I attended day 1 of this year's amazing Cultural Studies conference at Teachers College - [Popular Culture in the Classroom: Teach, Think, Play](http://continuingeducation.tc.columbia.edu/default.aspx?pageid=652).

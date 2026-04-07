@@ -8,7 +8,11 @@ categories:
   - "ethics"
   - "fire"
   - "metaphysics"
-tags: []
+tags:
+  - "art"
+  - "education"
+  - "music"
+  - "philosophy"
 ---
 
 This afternoon I attended a talk given by Bill Gates at Columbia University. The talk was a part of his [university tour](http://slashdot.org/article.pl?sid=05/10/12/2319237&tid=109&tid=99), probably prompted by the [well](http://www.recruiting.com/recruiting/2005/week17/) [documented](http://blogs.msdn.com/jobsblog/) braindrain happening at MS right now (Certain well known competitors seem to be following the strategy outlined in [Good to Great](http://www.amazon.com/gp/product/0066620996/104-0159336-5579174?v=glance&n=283155&n=507846&s=books&v=glance) - get the smartest people you can find "on the bus", and then let them drive...).

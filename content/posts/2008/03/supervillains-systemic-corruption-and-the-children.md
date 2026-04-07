@@ -9,7 +9,11 @@ categories:
   - "ethics"
   - "fire"
   - "metaphysics"
-tags: []
+tags:
+  - "activism"
+  - "ancient-technology"
+  - "journalism"
+  - "philosophy"
 ---
 
 ![were_not_candy.jpg](/images/2008/03/were_not_candy.jpg)I've been drafting this post on Frontline's provocative investigative piece [The Medicated Child](http://www.pbs.org/wgbh/pages/frontline/medicatedchild/) since it aired, and the longer I put off finishing this the more connections pile up.
