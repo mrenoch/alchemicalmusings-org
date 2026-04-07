@@ -8,7 +8,11 @@ categories:
   - "air"
   - "dangerousgifts"
   - "epistemology"
-tags: []
+tags:
+  - "activism"
+  - "education"
+  - "philosophy"
+  - "surveillance"
 ---
 
 ![looney_tunes.jpg](/images/2007/06/looney_tunes.jpg "looney_tunes.jpg")My visits to the [Informedia lab](http://www.informedia.cs.cmu.edu/) have consistently generated futuristic ideas (and corresponding posts), and my trip this spring was no exception.

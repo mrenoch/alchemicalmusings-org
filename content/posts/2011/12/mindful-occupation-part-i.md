@@ -8,7 +8,11 @@ categories:
   - "dangerousgifts"
   - "ethics"
   - "fire"
-tags: []
+tags:
+  - "activism"
+  - "ancient-technology"
+  - "art"
+  - "palestine"
 ---
 
 ![](/images/2011/12/mindfuloccupation_cover-193x300.png "mindfuloccupation_cover")On September 17th 2011, sleeping giants stirred as the perception of social and and economic injustice in the US finally crossed a critical threshold. And the people spoke.

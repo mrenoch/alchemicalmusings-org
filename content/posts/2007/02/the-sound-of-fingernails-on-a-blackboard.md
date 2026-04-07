@@ -6,7 +6,10 @@ slug: "the-sound-of-fingernails-on-a-blackboard"
 url: "/2007/02/02/the-sound-of-fingernails-on-a-blackboard/"
 categories:
   - "Uncategorized"
-tags: []
+tags:
+  - "art"
+  - "edtech"
+  - "technology"
 ---
 
 http://bugs.sakaiproject.org/confluence/display/CONF06/Lunchtime+Discussion+with+Eben+Moglen+and+Matthew+Small

@@ -9,7 +9,11 @@ categories:
   - "earth"
   - "endofforgetting"
   - "epistemology"
-tags: []
+tags:
+  - "art"
+  - "journalism"
+  - "philosophy"
+  - "surveillance"
 ---
 
 ![spitzer-dupre](/images/2014/09/spitzer-dupre1-300x232.png)I just read a provocative essay in the Atlantic that draws a connecting thread between many of today's top news stories.  What do the ISIS beheadings, the NFL domestic abuse scandals, the Fergeson riots and nude celebrities all have in common?  *[Pics or didn't happen](http://www.theatlantic.com/technology/archive/2014/09/pics-or-it-didnt-happen-the-new-crisis-of-connected-cameras/380052/?single_page=true): The new crisis of the connected camera* describes the emergence of the "networked lens" and the ethical questions this new(ish) medium raises.

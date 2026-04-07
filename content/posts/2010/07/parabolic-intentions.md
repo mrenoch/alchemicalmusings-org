@@ -8,7 +8,10 @@ categories:
   - "air"
   - "metaphysics"
   - "playasbeing"
-tags: []
+tags:
+  - "education"
+  - "philosophy"
+  - "spirituality"
 ---
 
 [![4585915584_8cb079376d](/images/2010/07/4585915584_8cb079376d-300x212.jpg "4585915584_8cb079376d")](http://www.flickr.com/photos/julia_manzerova/4585915584/in/photostream/)Mystical traditions depict a singularity in consciousness occurring when all of humanity is united in the same state of mind. Our choices will determine if we will arrive at this state by achieving global peace, or take a detour through the another World War. In the limit, our shared reflective awareness is a possible consequence of globalization and has been linked to the [promise of world peace](http://info.bahai.org/article-1-7-2-1.html).

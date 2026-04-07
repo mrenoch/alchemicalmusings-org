@@ -6,7 +6,11 @@ slug: "fabricating-freedom"
 url: "/2008/02/17/fabricating-freedom/"
 categories:
   - "plone"
-tags: []
+tags:
+  - "cms"
+  - "education"
+  - "free-culture"
+  - "journalism"
 ---
 
 [![](http://farm1.static.flickr.com/135/378721784_4947840082_m.jpg)](http://flickr.com/photos/uncene/378721784/)

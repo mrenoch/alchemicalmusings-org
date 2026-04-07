@@ -9,7 +9,10 @@ categories:
   - "air"
   - "earth"
   - "metaphysics"
-tags: []
+tags:
+  - "ancient-technology"
+  - "art"
+  - "philosophy"
 ---
 
 [![Zap](/images/2009/07/raiders_of_the_lost_ark_priest-300x202.gif "Zap")](http://www.youtube.com/watch?v=HC3cWTo9ADk)Is it possible that our ancestors harnessed the power of electricity?

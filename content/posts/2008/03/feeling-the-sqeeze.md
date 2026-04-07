@@ -7,7 +7,9 @@ url: "/2008/03/27/feeling-the-sqeeze/"
 categories:
   - "earth"
   - "water"
-tags: []
+tags:
+  - "art"
+  - "technology"
 ---
 
 [![](/images/2008/03/vision_serpent.jpg)](http://en.wikipedia.org/wiki/Vision_Serpent)

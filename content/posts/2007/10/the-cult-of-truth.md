@@ -6,7 +6,11 @@ slug: "the-cult-of-truth"
 url: "/2007/10/01/the-cult-of-truth/"
 categories:
   - "Uncategorized"
-tags: []
+tags:
+  - "alchemy"
+  - "ancient-technology"
+  - "education"
+  - "journalism"
 ---
 
 Last week I heard Ron Suskind speak at the J-School. He is a pulitzer prize winning investigative journalist who broken stories on the inner workings of the current administration.

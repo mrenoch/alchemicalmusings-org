@@ -6,7 +6,11 @@ slug: "promiscuous-laptops"
 url: "/2007/09/06/promiscuous-laptops/"
 categories:
   - "earth"
-tags: []
+tags:
+  - "alchemy"
+  - "art"
+  - "edtech"
+  - "journalism"
 ---
 
 [![escher_hands.jpg](/images/2007/09/escher_hands.jpg)](http://alchemicalmusings.org/2007/09/06/promiscuous-laptops/escher_handsjpg/ "escher_hands.jpg")So, I published another post on OLPCNews today:

@@ -7,7 +7,10 @@ url: "/2014/11/09/audio-experiments-and-the-rise-of-scuttlebutt/"
 categories:
   - "aesthetics"
   - "air"
-tags: []
+tags:
+  - "art"
+  - "music"
+  - "technology"
 ---
 
 #### *by Jonah Bossewitch and Rob Garfield*

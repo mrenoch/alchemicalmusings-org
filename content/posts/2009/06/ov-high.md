@@ -9,7 +9,11 @@ categories:
   - "ethics"
   - "freeculture"
   - "water"
-tags: []
+tags:
+  - "art"
+  - "education"
+  - "free-culture"
+  - "media"
 ---
 
 [![Man w/ a Movie Camera Tattoo](/images/2009/06/2745866884_8f7f7e6312-225x300.jpg "Man w/ a Movie Camera Tattoo")](http://www.flickr.com/photos/tiagotherrien/2745866884/) I have to thank my friend and colleague Clayfox for [comparing](  http://www.clayfox.com/2009/06/22/reflections-on-the-ovc/) (positively) the vibe at this weekend's fabulous Open Video [Conference](http://openvideoconference.org/) to High School. The optimism, diversity, and composition of the crowd was really inspiring.

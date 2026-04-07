@@ -11,7 +11,11 @@ categories:
   - "fourthestate"
   - "freeculture"
   - "nptech"
-tags: []
+tags:
+  - "activism"
+  - "ancient-technology"
+  - "free-culture"
+  - "journalism"
 ---
 
 [![12-01-10wikiFD](/images/2010/12/12-01-10wikiFD-300x207.jpg "12-01-10wikiFD")](http://furiousdiaper.com/?p=2766)

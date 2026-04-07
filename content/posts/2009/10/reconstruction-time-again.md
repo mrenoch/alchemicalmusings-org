@@ -9,7 +9,11 @@ categories:
   - "epistemology"
   - "freeculture"
   - "water"
-tags: []
+tags:
+  - "education"
+  - "free-culture"
+  - "journalism"
+  - "philosophy"
 ---
 
 [![At a loss for words](/images/2009/10/3211098461_df94ed8040-225x300.jpg "At a loss for words")](http://www.flickr.com/photos/seanmctex/3211098461/)This week the j-school was abuzz with the conversation successfully  provoked by the publication of a detailed [comprehensive report](http://www.cjr.org/reconstruction/), complete with recommendations, on how to save the endangered species of professional journalists.

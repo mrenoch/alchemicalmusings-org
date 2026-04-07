@@ -6,7 +6,11 @@ slug: "faster-better-cheaper"
 url: "/2006/03/02/faster-better-cheaper/"
 categories:
   - "plone"
-tags: []
+tags:
+  - "art"
+  - "cms"
+  - "environment"
+  - "social-media"
 ---
 
 *Originally published on theploneblog.org*

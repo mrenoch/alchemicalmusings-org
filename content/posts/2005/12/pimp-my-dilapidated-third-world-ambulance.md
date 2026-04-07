@@ -6,7 +6,8 @@ slug: "pimp-my-dilapidated-third-world-ambulance"
 url: "/2005/12/06/pimp-my-dilapidated-third-world-ambulance/"
 categories:
   - "Uncategorized"
-tags: []
+tags:
+  - "media"
 ---
 
 On Tuesday November 29th I attended a presentation of [The Diary of Angelina Jolie and Dr. Jeffery Sachs in Africa](http://www.earth.columbia.edu/news/2005/story11-11-05c.html) ([watch it here](http://www.mtv.com/thinkmtv/features/global/diary/angelina_jolie/)). Angelina couldn't make it, but Sachs (author of [The End of Poverty](http://www.earthinstitute.columbia.edu/endofpoverty/)) is a rock star in his own right, and it was the first time I have ever seen him talk.

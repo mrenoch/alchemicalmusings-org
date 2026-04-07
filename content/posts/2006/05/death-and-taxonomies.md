@@ -6,7 +6,10 @@ slug: "death-and-taxonomies"
 url: "/2006/05/31/death-and-taxonomies/"
 categories:
   - "plone"
-tags: []
+tags:
+  - "cms"
+  - "education"
+  - "social-media"
 ---
 
 *Originally published on theploneblog.org*

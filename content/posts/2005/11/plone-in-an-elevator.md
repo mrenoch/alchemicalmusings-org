@@ -8,7 +8,11 @@ categories:
   - "earth"
   - "ethics"
   - "plone"
-tags: []
+tags:
+  - "art"
+  - "cms"
+  - "environment"
+  - "social-media"
 ---
 
 ![](http://static.flickr.com/121/289037975_bfd97d0adc.jpg?v=0)

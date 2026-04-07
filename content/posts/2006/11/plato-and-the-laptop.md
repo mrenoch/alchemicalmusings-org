@@ -7,7 +7,10 @@ url: "/2006/11/03/plato-and-the-laptop/"
 categories:
   - "earth"
   - "ethics"
-tags: []
+tags:
+  - "art"
+  - "cms"
+  - "journalism"
 ---
 
 ![Socrates](/images/2006/11/250px-Socrates_Louvre.jpg "Socrates")Well, midterms have come and gone, and somehow I managed to complete my two papers on time, somewhere between San Francisco and [PloneCon](http://plone.org/events/conferences/seattle-2006/agenda) in Seattle.

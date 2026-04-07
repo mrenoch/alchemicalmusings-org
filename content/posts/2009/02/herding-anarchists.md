@@ -9,7 +9,11 @@ categories:
   - "freeculture"
   - "metaphysics"
   - "water"
-tags: []
+tags:
+  - "art"
+  - "free-culture"
+  - "journalism"
+  - "philosophy"
 ---
 
 [![Anarchy in the UK](/images/2009/02/130218384_994475a11e-300x171.jpg "Anarchy in the UK")](http://flickr.com/photos/nic/130218384/)There is a fascinating culture emerging around distributed version control systems ([DVCS](http://en.wikipedia.org/wiki/Distributed_revision_control)), facilitated by software, but responding to (and suggesting) shifts in collaboration styles. It is very easy to imagine these practices percolating through other areas of information production.

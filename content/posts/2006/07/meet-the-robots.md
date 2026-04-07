@@ -7,7 +7,9 @@ url: "/2006/07/23/meet-the-robots/"
 categories:
   - "earth"
   - "epistemology"
-tags: []
+tags:
+  - "art"
+  - "philosophy"
 ---
 
 ![](http://static.flickr.com/44/157173566_265ffb7663.jpg?v=0)Over Memorial Day weekend I attended Fleet week, and made a few new friends. They happen to be robots, of the autonomous flying variety.

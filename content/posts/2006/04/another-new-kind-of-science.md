@@ -7,7 +7,8 @@ url: "/2006/04/03/another-new-kind-of-science/"
 categories:
   - "air"
   - "epistemology"
-tags: []
+tags:
+  - "philosophy"
 ---
 
 [![](http://www.edwardtufte.com/tufte/graphics/vdqi_bookcover.gif)](http://www.edwardtufte.com/tufte/graphics/vdqi_bookcover.gif)Last weekend's Cultural Studies conference reminded me of a viscous cycle that many humanities-oriented researchers are being subjected to. Disciplines such as educational research, ethnography, anthropology, cultural studies, sociology etc have effectively been colonized by the methodology of the social sciences and they are being forced to play a numbers game which they may not be suited for.

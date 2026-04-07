@@ -6,7 +6,11 @@ slug: "the-rise-of-surveillance-psychiatry-and-the-mad-underground"
 url: "/2017/12/03/the-rise-of-surveillance-psychiatry-and-the-mad-underground/"
 categories:
   - "Uncategorized"
-tags: []
+tags:
+  - "activism"
+  - "art"
+  - "mental-health"
+  - "surveillance"
 ---
 
 This past year I have been working on turning my dissertation into a trade book. I am making steady but slow progress; print remains an important but slooooow media.

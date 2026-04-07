@@ -6,7 +6,11 @@ slug: "all-work-all-play"
 url: "/2006/02/03/all-work-all-play/"
 categories:
   - "Uncategorized"
-tags: []
+tags:
+  - "edtech"
+  - "environment"
+  - "media"
+  - "social-media"
 ---
 
 Last Friday [CCNMTL](http://ccnmtl.columbia.edu) hosted a [mini-conference on New Media and Education](http://ccnmtl.columbia.edu/draft/jonah/nme2006/CCNMTL_nme2006.htm) ([pics](http://www.flickr.com/photos/10335161@N00/)). Me and my colleague Dan Beeby co-presented a marathon series of workshops on Sakai and Web Services. We repeated each of our two 35 minute talks 3 times over the day (2x3 talks == a very long day), and I can't wait for the video's to be published so I can see the rest of the conference ;-)

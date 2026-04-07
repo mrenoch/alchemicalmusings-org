@@ -8,7 +8,11 @@ categories:
   - "epistemology"
   - "ethics"
   - "water"
-tags: []
+tags:
+  - "activism"
+  - "education"
+  - "philosophy"
+  - "surveillance"
 ---
 
 ![kino eye](/images/2006/08/eye_med_real.jpg)On Friday I had a chance to meet with a group of Artificial Intelligence researchers at Carnegie-Melon university. They demonstrated a working technology, [Informedia](http://www.informedia.cs.cmu.edu/), which I would have guessed was at least 3-5 years off.

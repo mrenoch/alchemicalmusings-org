@@ -9,7 +9,11 @@ categories:
   - "epistemology"
   - "ethics"
   - "freeculture"
-tags: []
+tags:
+  - "free-culture"
+  - "journalism"
+  - "philosophy"
+  - "social-media"
 ---
 
 [![Neon vintage mic](/images/2009/08/232025953_9aca03d66f-199x300.jpg "Neon vintage mic")](http://www.flickr.com/photos/fensterbme/232025953/)Last week I [reflected](http://alchemicalmusings.org/2009/08/19/freedom-of-the-hyperlocal-press/) on the Everyblock.com acquisition. Since then, Knight's journalism program director has blogged about [their perspective](http://www.knightblog.org/everyblock-com-sale-highlights-open-source-projects-potential-for-market-success/) on the sale, and some [great](http://gabriellacoleman.org/blog/?p=1735) [conversations](http://journalismschool.wordpress.com/2009/08/18/the-nuances-of-the-everyblock-sale-to-msnbc/) have [continued](http://hackervisions.org/?p=500).  I have also had a wonderful opportunity to discuss the purchase with [Christopher Mackie](http://www.mellon.org/about_foundation/staff/program-area-staff/christophermackie), a program officer at the Mellon Foundation. Chris is the Associate Program Officer in the [Research in Information Technology](http://www.mellon.org/grant_programs/programs/rit) program and is closely involved in Mellon-funded software initiatives.

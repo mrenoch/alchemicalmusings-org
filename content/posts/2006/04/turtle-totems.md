@@ -7,7 +7,11 @@ url: "/2006/04/16/turtle-totems/"
 categories:
   - "epistemology"
   - "water"
-tags: []
+tags:
+  - "ancient-technology"
+  - "education"
+  - "memory"
+  - "philosophy"
 ---
 
 [![Seymor Papert](https://farm1.staticflickr.com/52/145800121_678363254e_z.jpg?zz=1)](https://www.flickr.com/photos/mccloud/145800121/in/datetaken/ "Seymor Papert")[Seymour Papert](http://www.papert.org/) , the inventor of Logo, spoke at Teachers College on Monday April 10th. I was lucky enough to hear him talk in a standing-room-only event. My former employer, [Idit Caperton](http://en.wikipedia.org/wiki/Idit_Harel_Caperton)

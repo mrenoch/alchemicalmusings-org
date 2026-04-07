@@ -6,7 +6,9 @@ slug: "happy-holidays"
 url: "/2005/12/16/happy-holidays/"
 categories:
   - "Uncategorized"
-tags: []
+tags:
+  - "philosophy"
+  - "social-media"
 ---
 
 ![Collecting Knowledge](/images/2006/08/collecting-knowledge.1.jpg)The semester is almost over, and that means its time for me to compose some thoughts. As usual, this opens more questions than it answers, but I'm pretty happy about how it turned out.

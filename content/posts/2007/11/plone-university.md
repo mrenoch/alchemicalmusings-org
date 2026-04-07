@@ -8,7 +8,11 @@ categories:
   - "earth"
   - "epistemology"
   - "plone"
-tags: []
+tags:
+  - "cms"
+  - "education"
+  - "free-culture"
+  - "social-media"
 ---
 
 ![](http://farm2.static.flickr.com/1103/881564485_226ec27532_m.jpg)

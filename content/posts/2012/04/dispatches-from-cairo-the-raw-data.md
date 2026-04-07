@@ -10,7 +10,11 @@ categories:
   - "fire"
   - "freeculture"
   - "nptech"
-tags: []
+tags:
+  - "alchemy"
+  - "free-culture"
+  - "nonprofit-tech"
+  - "palestine"
 ---
 
 [![](/images/2012/04/IMG_20120313_130319-300x225.jpg "Tahrir montage")](/images/2012/04/IMG_20120313_130319.jpg)I just returned from a whirlwind eduventure at the American University of Cairo (AUC). My trip included a detour through Ancient Egypt and a 36-hour decompression-stop in the capital of the Ottoman Empire, but our main purpose was to participate in a week-long professional development conference for Palestinian Educators:

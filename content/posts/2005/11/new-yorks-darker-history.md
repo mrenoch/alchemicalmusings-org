@@ -7,7 +7,11 @@ url: "/2005/11/15/new-yorks-darker-history/"
 categories:
   - "aesthetics"
   - "earth"
-tags: []
+tags:
+  - "ancient-technology"
+  - "art"
+  - "edtech"
+  - "memory"
 ---
 
 [![](http://static.flickr.com/38/91684669_5078ceeb81.jpg?v=0)](http://static.flickr.com/38/91684669_5078ceeb81.jpg?v=0)This weekend I attended the masterfully produced [Slavery in New York](http://www.slaveryinnewyork.org/about_exhibit.htm) exhibit at the [New York Historical Society](http://www.nyhistory.org/). The exhibit was deeply moving, and vividly and viscerally captured a portrait of African American history I was not fully aware of previously. I left the exhibit with a new understanding of how the 400 year long institution of slavery was a tragedy fully on par with the Nazi Holacaust.

@@ -8,7 +8,11 @@ categories:
   - "epistemology"
   - "ethics"
   - "fire"
-tags: []
+tags:
+  - "ancient-technology"
+  - "health"
+  - "journalism"
+  - "philosophy"
 ---
 
 ![caveman.gif](/images/2007/06/caveman.gif "caveman.gif")The state of health coverage in the U.S. is absolutely appalling. Consider the recent incident involving [Blue Cross/Blue Sheild](http://www.horizon-bcbsnj.com) that my friend at [Interprete](http://healthhacker.org/satoroams/) has had to endure, at great expense of her time and patience - [Blue Cross, Blue Shield Chronicles](http://healthhacker.org/satoroams/?p=783). The notion that a latent condition is a preexisting one is preposterous - it's like saying you were fated to have this condition, so it was pre-existing.

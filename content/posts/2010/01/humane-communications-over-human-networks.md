@@ -12,7 +12,11 @@ categories:
   - "fourthestate"
   - "freeculture"
   - "nptech"
-tags: []
+tags:
+  - "art"
+  - "free-culture"
+  - "journalism"
+  - "nonprofit-tech"
 ---
 
 ![emergency.broadcast.](/images/2010/01/emergency.broadcast.-300x225.jpg "emergency.broadcast.")Today I attended a [barcamp](http://en.wikipedia.org/wiki/BarCamp)-style [CrisisCamp](http://crisiscommons.org/) in NYC  where volunteers from around the world  gathered physically and virtually to brainstorm, organize, coordinate, and work to help alleviate the suffering in Haiti (CNN CrisisCamp [coverage](http://www.cnn.com/2010/TECH/01/15/haiti.tech.camp/index.html?hpt=T2)). When people talk about crowdsourcing relief to this disaster, CrisisCamps around the country helped assemble the the sources (and faces) in these mysterious crowds.

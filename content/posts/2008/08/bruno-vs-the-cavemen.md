@@ -8,7 +8,10 @@ categories:
   - "air"
   - "epistemology"
   - "metaphysics"
-tags: []
+tags:
+  - "art"
+  - "philosophy"
+  - "politics"
 ---
 
 [![](/images/2008/08/444034139_3198d9604c-183x300.jpg "Shadows of Chains")](http://flickr.com/photos/zombizi_rip/444034139/)This summer I was part of an amazing [reading group](http://www.studyplace.org/wiki/Summer_%2708_Reading_Group_Notes) where we slowed to a crawl and closely read Bruno Latour's [Politics of Nature](http://en.wikipedia.org/wiki/Politics_of_nature). When I say we read the book, I mean we literally went around the table and read the book out loud, stopping to discuss difficult passages until we were confident we understood them.

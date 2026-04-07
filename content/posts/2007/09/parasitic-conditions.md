@@ -8,7 +8,10 @@ categories:
   - "epistemology"
   - "ethics"
   - "fire"
-tags: []
+tags:
+  - "environment"
+  - "mental-health"
+  - "philosophy"
 ---
 
 ![petscan](/images/2007/09/pet20yearold_high.JPG)

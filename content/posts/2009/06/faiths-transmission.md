@@ -9,7 +9,11 @@ categories:
   - "ethics"
   - "fire"
   - "metaphysics"
-tags: []
+tags:
+  - "art"
+  - "media-theory"
+  - "philosophy"
+  - "temporal-transmission"
 ---
 
 [![Message in a Bottle](/images/2009/06/2083465434_5d0802e92d-300x225.jpg "Message in a Bottle")](http://www.flickr.com/photos/fotoalexander/2083465434/)Well, its been 2 months since I participated in MIT's Media in Transition (MiT6), but the event is still vividly fresh in my mind.

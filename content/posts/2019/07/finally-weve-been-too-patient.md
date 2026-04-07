@@ -6,7 +6,10 @@ slug: "finally-weve-been-too-patient"
 url: "/2019/07/09/finally-weve-been-too-patient/"
 categories:
   - "Uncategorized"
-tags: []
+tags:
+  - "health"
+  - "mental-health"
+  - "palestine"
 ---
 
 The long-anticipated anthology of mad poems, stories and research is finally out. The book is split between personal mental health narratives and research, a powerfully balanced approach for contending with these issues.

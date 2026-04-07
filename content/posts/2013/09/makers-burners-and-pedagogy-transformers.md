@@ -13,7 +13,11 @@ categories:
   - "fire"
   - "freeculture"
   - "water"
-tags: []
+tags:
+  - "education"
+  - "free-culture"
+  - "philosophy"
+  - "surveillance"
 ---
 
 Last Thursday, I managed to further integrate my personal/professional/hobbiest identitites, and me and two of my esteemed colleagues ([Therese](http://ccnmtl.columbia.edu/staff/condit/) and [Jon](http://ccnmtl.columbia.edu/staff/hanford/)) presented Burning Man and Hacker/Maker Spaces at the weekly CCNMTL staff meeting.

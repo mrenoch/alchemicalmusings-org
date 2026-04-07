@@ -9,7 +9,11 @@ categories:
   - "epistemology"
   - "fourthestate"
   - "freeculture"
-tags: []
+tags:
+  - "free-culture"
+  - "journalism"
+  - "philosophy"
+  - "temporal-transmission"
 ---
 
 [![](/images/2011/03/2173129864_fde044c2be_b-300x225.jpg "Calipers")](http://www.flickr.com/photos/lizzys_life/2173129864/)A few weeks ago I participated in a brainstorming session exploring the kinds of academic research projects the WikiLeaks archives might generate. Beyond the substantive specifics of the leaked cables, the media coverage of Cablegate, and their  impact on geopoltics, a central concern we recognised is the challenge of transforming torrents of qualitative data into narratives, arguments, and evidence .

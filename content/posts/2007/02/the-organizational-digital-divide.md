@@ -8,7 +8,11 @@ categories:
   - "epistemology"
   - "nptech"
   - "water"
-tags: []
+tags:
+  - "activism"
+  - "free-culture"
+  - "journalism"
+  - "nonprofit-tech"
 ---
 
 ![Chasm](/images/2007/02/chasm.jpg)An emerging breed of collaboration tools, born and incubated in the free software world, is radically improving the ways that people work together. These aren’t just toys for techies anymore. Just as the word processor became an essential tool for every writer to master, the network is the new medium that advocates and activists need to embrace in order to be effective.

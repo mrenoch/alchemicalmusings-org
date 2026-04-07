@@ -11,7 +11,10 @@ categories:
   - "fire"
   - "metaphysics"
   - "Uncategorized"
-tags: []
+tags:
+  - "art"
+  - "philosophy"
+  - "surveillance"
 ---
 
 ![](/images/2017/08/realgenius_lecture-300x169.png)

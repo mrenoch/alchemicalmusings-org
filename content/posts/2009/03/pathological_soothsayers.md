@@ -8,7 +8,11 @@ categories:
   - "dangerousgifts"
   - "ethics"
   - "fire"
-tags: []
+tags:
+  - "activism"
+  - "art"
+  - "health"
+  - "mental-health"
 ---
 
 ![halloween-straight-jacket](/images/2009/03/halloween-straight-jacket-225x300.jpg "halloween-straight-jacket")A [recent post](http://www.furiousseasons.com/archives/2009/02/the_future_of_psychiatry_sounds_spooky.html) at Furious Seasons on the spooky future of psychiatry prompted me to dig a little deeper into the origins of prodromal diagnoses.

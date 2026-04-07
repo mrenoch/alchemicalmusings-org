@@ -8,7 +8,10 @@ categories:
   - "dangerousgifts"
   - "ethics"
   - "fire"
-tags: []
+tags:
+  - "activism"
+  - "art"
+  - "mental-health"
 ---
 
 [![](/images/2008/05/hofman_one_hundred1.jpg "hofman_one_hundred1")](/images/2008/05/hofman_one_hundred1.jpg)Last week I paid tribute to Albert Hoffman at [an event hosted by Reality Sandwich](http://www.realitysandwich.com/goodbye_albert). I have been following the site for a while, and really enjoyed the screenings and the conversation (led by [John Perry Barlow](http://homes.eff.org/~barlow/) and [Daniel Pinchbeck](http://www.realitysandwich.com/blog/daniel_pinchbeck)).

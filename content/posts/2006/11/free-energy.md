@@ -7,7 +7,11 @@ url: "/2006/11/16/free-energy/"
 categories:
   - "earth"
   - "ethics"
-tags: []
+tags:
+  - "art"
+  - "environment"
+  - "media"
+  - "technology"
 ---
 
 ![globe_big.gif](/images/2006/11/globe_big.gif)Free as in 'Free of pollutants', 'free of politics', and 'conducive to human freedom', not 'free as in fusion' or 'free as in beer'.

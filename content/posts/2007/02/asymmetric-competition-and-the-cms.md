@@ -6,7 +6,11 @@ slug: "asymmetric-competition-and-the-cms"
 url: "/2007/02/08/asymmetric-competition-and-the-cms/"
 categories:
   - "plone"
-tags: []
+tags:
+  - "cms"
+  - "journalism"
+  - "social-media"
+  - "spirituality"
 ---
 
 *Originally published on theploneblog.org*

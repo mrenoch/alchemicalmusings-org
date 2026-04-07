@@ -6,7 +6,10 @@ slug: "towards-the-educational-liberation-of-palestine"
 url: "/2012/04/29/towards-the-educational-liberation-of-palestine/"
 categories:
   - "Uncategorized"
-tags: []
+tags:
+  - "art"
+  - "education"
+  - "palestine"
 ---
 
 **“Education is the unfinished business of the revolution.”

@@ -8,7 +8,11 @@ categories:
   - "dangerousgifts"
   - "ethics"
   - "water"
-tags: []
+tags:
+  - "activism"
+  - "art"
+  - "memory"
+  - "technology"
 ---
 
 [![](/images/2013/01/2626298823_6842156e9b_b-300x199.jpg "2626298823_6842156e9b_b")](http://www.flickr.com/photos/phoenixation/2626298823/)The corner of the internet that I hang around in has been mourning all weekend with tributes, eulogies, and heartfelt sharing about the untimely death of [Aaron Swartz](http://en.wikipedia.org/wiki/Aaron_Swartz).

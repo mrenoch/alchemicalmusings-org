@@ -9,7 +9,11 @@ categories:
   - "ethics"
   - "freeculture"
   - "metaphysics"
-tags: []
+tags:
+  - "art"
+  - "free-culture"
+  - "media"
+  - "philosophy"
 ---
 
 [![4377960192_6172b31a88](/images/2010/11/4377960192_6172b31a88-225x300.jpg "4377960192_6172b31a88")](http://www.flickr.com/photos/paloetic/4377960192/)I recently saw [Plug and Pray](http://www.amnh.org/calendar/event/Opening-Night:-Plug-&-Pray/) at the opening night of the Margaret Mead film fest. The documentary spotlights the late Joseph Weizenbaum, a brilliant computer scientist who went rogue after realizing that his discipline was being weaponized.

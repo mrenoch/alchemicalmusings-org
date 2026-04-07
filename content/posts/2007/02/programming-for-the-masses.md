@@ -6,7 +6,10 @@ slug: "programming-for-the-masses"
 url: "/2007/02/01/programming-for-the-masses/"
 categories:
   - "Uncategorized"
-tags: []
+tags:
+  - "art"
+  - "journalism"
+  - "technology"
 ---
 
 Trippi - content producers become programmers and vice versa

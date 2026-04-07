@@ -6,7 +6,9 @@ slug: "the-me-generation"
 url: "/2006/03/04/the-me-generation/"
 categories:
   - "plone"
-tags: []
+tags:
+  - "cms"
+  - "social-media"
 ---
 
 **isomorphic surprises: stickies, tasty, and the importance of user contributed content**

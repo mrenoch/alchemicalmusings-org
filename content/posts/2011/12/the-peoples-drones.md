@@ -9,7 +9,11 @@ categories:
   - "ethics"
   - "fourthestate"
   - "nptech"
-tags: []
+tags:
+  - "environment"
+  - "journalism"
+  - "nonprofit-tech"
+  - "technology"
 ---
 
 [![](/images/2011/12/99848415_b98009c11c-246x300.jpg "How To Survive a Robot Uprising")](http://www.flickr.com/photos/bunchofpants/99848415/)In May '06 I visited New York's annual Fleet Week and [personally met](http://www.flickr.com/photos/mccloud/157173566) [a few](http://www.flickr.com/photos/mccloud/157170373/) drones who were sleeping below the flight deck of a U.S. warship. In the 5 years since, "unmanned aerial vehicles" have reproduced explosively, and are rapidly changing the parameters of war and American foreign policy.

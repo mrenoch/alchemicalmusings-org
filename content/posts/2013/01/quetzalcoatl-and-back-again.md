@@ -9,7 +9,11 @@ categories:
   - "ethics"
   - "fire"
   - "nptech"
-tags: []
+tags:
+  - "art"
+  - "mental-health"
+  - "nonprofit-tech"
+  - "palestine"
 ---
 
 [![](/images/2013/01/2962632611_1f4b6548f8_z-300x225.jpg "Imagine")](/images/2013/01/2962632611_1f4b6548f8_z.jpg)It's nice to be on the spring side of the winter solstice. Farewell, Apocalypse. Nice try.

@@ -6,7 +6,11 @@ slug: "one-python-per-child"
 url: "/2006/09/05/one-python-per-child/"
 categories:
   - "plone"
-tags: []
+tags:
+  - "cms"
+  - "edtech"
+  - "education"
+  - "social-media"
 ---
 
 [![](http://static.flickr.com/72/156904576_06c15a7404.jpg?v=0)](http://flickr.com/photos/ethanz/156904576/)*Originally published on theploneblog.org*

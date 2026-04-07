@@ -8,7 +8,11 @@ categories:
   - "earth"
   - "epistemology"
   - "freeculture"
-tags: []
+tags:
+  - "ancient-technology"
+  - "edtech"
+  - "education"
+  - "free-culture"
 ---
 
 [![](/images/2008/12/wiki_writing_cover.jpg "wiki_writing_cover")](http://www.press.umich.edu/titleDetailDesc.do?id=234436)At long last! *Wiki Writing: Collaborative Learning in the College Classroom* has finally been published. An anthology of peer-reviewed essays on teaching and learning with wikis, the first two chapters in the book are written by myself, my coworkers, and my friends.  [Mark Phillipson](http://www.clayfox.com/) contributed "Wikis in the Classroom: A Taxonomy," and Myself, [John Frankfurt](http://www.facebook.com/people/Larry-Pigeon/534850115#/profile.php?id=534850115), and [Alex Gail Shermansong]( http://www.ccachicago.org/about/consulting-team.html#sherman) teamed up with [Professor Robin Kelley](http://college.usc.edu/faculty/faculty1012633.html), our faculty partner on the [Social Justice Wiki](http://ccnmtl.columbia.edu/portfolio/culture_and_society/social_justice_movem.html), to write "Wiki Justice, Social Ergonomics, and Ethical Collaborations.”

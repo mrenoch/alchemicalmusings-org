@@ -9,7 +9,11 @@ categories:
   - "air"
   - "earth"
   - "epistemology"
-tags: []
+tags:
+  - "art"
+  - "education"
+  - "media-theory"
+  - "philosophy"
 ---
 
 [![testtaker_main.jpg](/images/2006/12/testtaker_main.thumbnail.jpg)](http://itp.nyu.edu/show/detail.php?project_id=1124)Monday night I went to the [ITP's end-of-semester show](http://itp.nyu.edu/show/). A [friend of mine](http://www.fredbenenson.com) is in the program and I went to check out the scene. ITP, the Interactive Telecommunications Program, is part of the Tisch School of the Arts at NYU. ITP has been around since '79, and lies somewhere concetually between the MIT Media Lab and [Mary Flanagan](http://maryflanagan.com/default.htm). When I visited the MIT Media Lab this summer I began to understand how it was really operating as a pooled R & D lab for corporate interests (with plenty of military funding). I got the vibe that ITP is coming from a different place with different priorities, but I don't really know the full back story.
