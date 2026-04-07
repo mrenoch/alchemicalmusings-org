@@ -8,7 +8,11 @@ categories:
   - "air"
   - "earth"
   - "metaphysics"
-tags: []
+tags:
+  - "ancient-technology"
+  - "art"
+  - "palestine"
+  - "philosophy"
 ---
 
 [![](/images/2012/08/alignment-264x300.gif "alignment")](/images/2012/08/alignment.gif)A few months back I [visited Cairo](http://alchemicalmusings.org/2012/04/29/towards-the-educational-liberation-of-palestine/) and cracked the mysteries of the Pyramids. Or, more accurately, cracked open some exciting new lines of inquiry. I was visiting Egypt for work, but had some time for sight-seeing along the way. I had visited Egypt about 20 years ago (!) but had largely skipped Cairo, and we've both changed a bit since then.

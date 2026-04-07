@@ -6,7 +6,11 @@ slug: "plones-value-proposition"
 url: "/2005/11/22/plones-value-proposition/"
 categories:
   - "plone"
-tags: []
+tags:
+  - "ancient-technology"
+  - "cms"
+  - "journalism"
+  - "social-media"
 ---
 
 *Originally posted at theploneblog.org*

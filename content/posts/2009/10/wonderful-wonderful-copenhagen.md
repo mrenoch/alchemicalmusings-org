@@ -7,7 +7,11 @@ url: "/2009/10/15/wonderful-wonderful-copenhagen/"
 categories:
   - "ethics"
   - "fire"
-tags: []
+tags:
+  - "art"
+  - "edtech"
+  - "education"
+  - "social-media"
 ---
 
 [![copenhagen_logo](/images/2009/10/copenhagen_logo.png "copenhagen_logo")](http://en.wikipedia.org/wiki/Copenhagen)In honor of [Blog Action Day](http://www.blogactionday.org/en/blogs/24850) I'm posting a round of my favorite posts relating to climate change and sustainable development.

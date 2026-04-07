@@ -9,7 +9,10 @@ categories:
   - "epistemology"
   - "ethics"
   - "fire"
-tags: []
+tags:
+  - "activism"
+  - "mental-health"
+  - "philosophy"
 ---
 
 [![](/images/2011/01/15594343-201x300.jpg "Ethical Human Psychology and Psychiatry")](/images/2011/01/15594343.jpg)**Bossewitch, J. (2010). Pediatric Bipolar and the Media of Madness. *Ethical Human Psychology and Psychiatry*, *12*(3), 254-268. doi: 10.1891/1559-4343.12.3.254**

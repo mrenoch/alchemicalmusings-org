@@ -7,7 +7,11 @@ url: "/2008/08/04/location-location-location-and-timing/"
 categories:
   - "earth"
   - "ethics"
-tags: []
+tags:
+  - "activism"
+  - "art"
+  - "education"
+  - "surveillance"
 ---
 
 [![](/images/2008/08/boat_compass-239x300.jpg "compass")](http://flickr.com/photos/psd/1806225034/)

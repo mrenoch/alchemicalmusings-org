@@ -7,7 +7,9 @@ url: "/2008/07/21/speaking-in-tongues/"
 categories:
   - "aesthetics"
   - "earth"
-tags: []
+tags:
+  - "art"
+  - "media"
 ---
 
 ![](/images/2008/07/babelfish.jpg)Have I ever mentioned how cool these newfangled [series of tubes](http://www.flickr.com/photos/ioerror/196450968/in/photostream) are sometimes?

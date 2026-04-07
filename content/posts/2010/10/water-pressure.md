@@ -7,7 +7,11 @@ url: "/2010/10/15/water-pressure/"
 categories:
   - "aesthetics"
   - "water"
-tags: []
+tags:
+  - "art"
+  - "journalism"
+  - "media"
+  - "social-media"
 ---
 
 [![WaterImage_1](/images/2010/10/WaterImage_1-210x300.jpg "WaterImage_1")](http://www.evolver.net/nyc_water_spore)Happy [blog action day](http://blogactionday.change.org/)!  Last year I [highlighted](http://alchemicalmusings.org/2009/10/15/wonderful-wonderful-copenhagen/) some of my previous posts on climate change, and its frightening how far we've regressed since last October.

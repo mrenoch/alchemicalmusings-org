@@ -122,8 +122,7 @@
 
   /* ── Full results list ─────────────────────────────────────── */
   function renderResults(query) {
-    acList.style.display = 'none';
-    if (!query || query.length < 2) { container.innerHTML = ''; return; }
+    if (!query || query.length < 2) { acList.style.display = 'none'; container.innerHTML = ''; return; }
     var results = runSearch(query);
     if (!results.length) {
       container.innerHTML = '<p style="color:#899c81;">No results for <em>' + escHtml(query) + '</em>.</p>';

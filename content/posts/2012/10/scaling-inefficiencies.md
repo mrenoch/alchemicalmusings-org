@@ -8,7 +8,11 @@ categories:
   - "education"
   - "epistemology"
   - "water"
-tags: []
+tags:
+  - "education"
+  - "mental-health"
+  - "palestine"
+  - "philosophy"
 ---
 
 [![By Stichting Onderzoek Multinationale Ondernemingen](/images/2012/10/4833837888_a6dc50687e_o-224x300.jpg "Assembly line")](http://www.flickr.com/photos/somoamsterdam/4833837888/)Last week I attended an amazing reading and film series group that felt more like a graduate seminar than a meetup. [Cáfe de Cleyre](http://cafedecleyre.wordpress.com/) has been gathering for 3+ hours weekly, for the past 3 months, and exploring the theme of Direct Action in theory and practice. I attended their [ninth gathering](http://cafedecleyre.wordpress.com/2012/09/21/information-about-ninth-gathering/) where the the group explored mental health as direct action. They screened [Crooked Beauty](http://crookedbeauty.com/) and read excerpts of [Mindful Occupation](http://mindfuloccupation.org/) and other [Icarus Project](http://theicarusproject.net/) publications. The topic was organized independently of anyone directly involved with the Mindful Occupation project, and this was a refreshing reminder of the power of media. I learned that the CdC is run by two primary facilitators, who keep the operation running, and each week's topic is facilitated by two more people who volunteer to run that week's conversation. The night I joined, over 25 people attended, and I was very impressed with participant's commitment and the level of discourse.

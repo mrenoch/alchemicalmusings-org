@@ -7,7 +7,9 @@ url: "/2010/05/11/the-case-of-the-missing-see-saws/"
 categories:
   - "earth"
   - "ethics"
-tags: []
+tags:
+  - "art"
+  - "media"
 ---
 
 [![1729937274_e675e78a7e](/images/2010/05/1729937274_e675e78a7e-225x300.jpg "1729937274_e675e78a7e")](http://www.flickr.com/photos/navonod/1729937274/)[ed: They past few months I was commissioned to explore a series of rabbit/fox/worm holes, collecting inter-dimensional tales along the way.  Now that I have returned home, some typing is long overdue].

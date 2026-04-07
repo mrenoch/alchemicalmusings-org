@@ -7,7 +7,11 @@ url: "/2007/11/13/crowded-wisdom/"
 categories:
   - "air"
   - "epistemology"
-tags: []
+tags:
+  - "education"
+  - "memory"
+  - "music"
+  - "philosophy"
 ---
 
 [![](http://farm1.static.flickr.com/186/464561175_dc6d716498_m.jpg)](http://flickr.com/photos/suzyhomemaker/464561175/)This week I saw a [presentation](http://www.ee.columbia.edu/advent-seminar/showSeminar.php?id=21) given by a member of the Yahoo!/Berkeley research team.

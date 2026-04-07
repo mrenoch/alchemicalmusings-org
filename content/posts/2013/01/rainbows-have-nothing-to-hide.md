@@ -7,7 +7,11 @@ url: "/2013/01/07/rainbows-have-nothing-to-hide/"
 categories:
   - "ethics"
   - "water"
-tags: []
+tags:
+  - "activism"
+  - "ancient-technology"
+  - "palestine"
+  - "spirituality"
 ---
 
 [![](/images/2013/01/2012-10-26-06.20.09-169x300.jpg "Rainbows @ Dawn on Schluchot")](/images/2013/01/2012-10-26-06.20.09.jpg)On my recent journey to the West Bank I learned about a wonderful Muslim holiday called *[Eid al-Adha](http://en.wikipedia.org/wiki/Eid_al-Adha)*.  Eid is a 4 day, family-focused holiday, celebrated with gift-giving and great feasting. The holiday commemorates the binding and non-sacrafice of Ishmael (since, in the Koran, it was Ishmael not Issac who was bound), and the Covenant between Abraham and the Lord.

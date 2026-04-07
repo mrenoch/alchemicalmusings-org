@@ -7,7 +7,9 @@ url: "/2014/01/29/too-sexy-for-my-phone/"
 categories:
   - "aesthetics"
   - "earth"
-tags: []
+tags:
+  - "art"
+  - "music"
 ---
 
 [![bling_bejeweled_cell_phone_kandee_fashion_week](/images/2014/01/bling_bejeweled_cell_phone_kandee_fashion_week.jpg)](/images/2014/01/bling_bejeweled_cell_phone_kandee_fashion_week.jpg)The other week I thought I lost my phone and I visited a local Best Buy to find out what a temporary substitute would cost me.  I asked the salesperson for the dumbest phone they had, and was struck by its feature/price ratio. Thankfully, my phone turned up, but I was reminded of the power of Moore and [his law](http://www.systemcomic.com/2012/05/14/the-system-580-other-moores-laws/).

@@ -6,7 +6,8 @@ slug: "out-of-context"
 url: "/2006/03/02/out-of-context/"
 categories:
   - "Uncategorized"
-tags: []
+tags:
+  - "technology"
 ---
 
 Today I saw [Ted Selker](http://web.media.mit.edu/%7Eselker/index.htm) present a talk on "[Context-Aware Computing: Understanding and Responding to Human Intention](http://www.cs.columbia.edu/mice/calendars//eventDesc.php?eventID=134)" His perspective on inventions resonated strongly with my recent thinking on [social interfaces](http://ccnmtl.columbia.edu/draft/jonah/ssaw/ssaw_card.jpg) and software as architecture, and in turn, ideology.

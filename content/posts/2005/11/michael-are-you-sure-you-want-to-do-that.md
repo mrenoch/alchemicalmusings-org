@@ -7,7 +7,8 @@ url: "/2005/11/21/michael-are-you-sure-you-want-to-do-that/"
 categories:
   - "air"
   - "epistemology"
-tags: []
+tags:
+  - "philosophy"
 ---
 
 Pull over [Kitt](http://www.knightrideronline.com/) - you've just been lapped.

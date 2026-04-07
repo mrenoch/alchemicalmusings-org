@@ -7,7 +7,11 @@ url: "/2005/09/22/adventures-in-wien/"
 categories:
   - "earth"
   - "ethics"
-tags: []
+tags:
+  - "art"
+  - "cms"
+  - "education"
+  - "social-media"
 ---
 
 I apologize for this study blog's late start - I just returned from the [Plone conference in Vienna](http://ploneconf2005.bluedynamics.net/), and the internet availability was spottier than it should have been.

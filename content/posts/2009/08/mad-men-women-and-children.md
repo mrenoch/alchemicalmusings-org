@@ -8,7 +8,11 @@ categories:
   - "dangerousgifts"
   - "ethics"
   - "fire"
-tags: []
+tags:
+  - "activism"
+  - "health"
+  - "media"
+  - "mental-health"
 ---
 
 This season Fox premiered a new television series called [Mental](http://www.fox.com/mental/) (this post has nothing to do w/ AMC's fabulous *Mad Men*):

@@ -7,7 +7,9 @@ url: "/2013/02/16/ultra-paradox/"
 categories:
   - "ethics"
   - "fire"
-tags: []
+tags:
+  - "palestine"
+  - "politics"
 ---
 
 [![](/images/2013/02/Leo_spring2-300x213.jpg "Leo_spring2")](/images/2013/02/Leo_spring2.jpg)The Israeli elections are over, and it looks like Netanyahu's "reelection campaign" wasn't as successful as the last one he staged [4 years ago](http://alchemicalmusings.org/2009/01/19/the-tweets-of-war/). A few months ago, in November '12, I had just returned from visiting Palestine/Israel when the IDF launched an attack against Gaza. Although Palestinian rockets raining down on Israel are nothing new, the new extended range of the Qassam rockets allowed the Gazans to attack new targets. I listened in disbelief as I learned that a few of the missiles hit Jerusalem suburbs. As far as I am aware, the last time Jerusalem was bombed from the air was in 1967, by the Jordanians. And, I'm pretty certain the Old City was off limits. I mean, can you imagine the reactions if one of those Qassams *scratched* the holy dome of the rock?  Or, Jesus' tomb, which is down the block?

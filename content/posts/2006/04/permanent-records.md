@@ -8,7 +8,11 @@ categories:
   - "air"
   - "fire"
   - "metaphysics"
-tags: []
+tags:
+  - "art"
+  - "education"
+  - "philosophy"
+  - "surveillance"
 ---
 
 ![Sonnabend Diagram](/images/2006/08/sonnabend-diagram.0.jpg)Today I presented last year's [bioport Part II paper](http://pocketknowledge.tc.columbia.edu/home.php/viewfile/18367) to the 2nd annual Cultural Studies conference at Teachers College.

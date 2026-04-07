@@ -7,7 +7,11 @@ url: "/2007/08/27/the-long-tail-wagging-the-drugged-out-pooch/"
 categories:
   - "metaphysics"
   - "water"
-tags: []
+tags:
+  - "ancient-technology"
+  - "health"
+  - "mental-health"
+  - "philosophy"
 ---
 
 ![Drugged out dog](/images/2007/08/drunk-dog.PNG)A few months ago the giant pharmaceutical company Pfiezer [laid off 10,000 people,](http://www.economist.com/business/displaystory.cfm?story_id=8585891) or about a tenth of its global workforce. There are many factors that are draining the industry of profits including the fact that patents *eventually* expire allowing generics to compete, it is extremely costly to develop new drugs, and the industry is caught in a vicious advertising/marketing [arms race](http://www.furiousseasons.com/archives/2007/03/behold_abilify_phone_booth_ad.html) that is diverting [significant percentages of development costs](http://www.furiousseasons.com/archives/2007/06/corrupt_new_world.html) (in similar proportions to the marketing of a big budget Hollywood movie).

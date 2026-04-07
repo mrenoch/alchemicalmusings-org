@@ -10,7 +10,11 @@ categories:
   - "ethics"
   - "fire"
   - "freeculture"
-tags: []
+tags:
+  - "art"
+  - "environment"
+  - "free-culture"
+  - "media"
 ---
 
 [![](/images/2008/11/chimera_arrezo-300x200.jpg "chimera_arrezo")](http://flickr.com/photos/simone_tagliaferri/1292733380/)Economies, not cars.

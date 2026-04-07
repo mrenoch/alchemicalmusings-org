@@ -6,7 +6,9 @@ slug: "getting-noticed"
 url: "/2007/10/01/getting-noticed/"
 categories:
   - "Uncategorized"
-tags: []
+tags:
+  - "music"
+  - "social-media"
 ---
 
 http://www.newyorker.com/talk/2007/09/17/070917ta\_talk\_schulman

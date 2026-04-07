@@ -6,7 +6,8 @@ slug: "picture-yourself-on-a-boat-on-a-river"
 url: "/2021/08/18/picture-yourself-on-a-boat-on-a-river/"
 categories:
   - "Uncategorized"
-tags: []
+tags:
+  - "music"
 ---
 
 everyone thinks that song is about LSD... i think, post india, the beatles were writing about PaRDes - the gaden of edenproof is in that lyric. if we're all supposedly descended from the archetypical adam/eve... and we all have different color eyes... they must have had kaleidoscope eysif you believe in mandelian genomics, at least

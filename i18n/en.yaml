@@ -1,0 +1,3 @@
+# Site-level i18n overrides (takes precedence over theme defaults)
+- id: sidemenu_title
+  translation: "Writing"

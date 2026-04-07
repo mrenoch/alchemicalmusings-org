@@ -6,7 +6,9 @@ slug: "keeping-calm"
 url: "/2015/08/08/keeping-calm/"
 categories:
   - "Uncategorized"
-tags: []
+tags:
+  - "environment"
+  - "social-media"
 ---
 
 [![keep-calm-and-finish-your-dissertation-133](/images/2015/08/keep-calm-and-finish-your-dissertation-133-257x300.png)](/images/2015/08/keep-calm-and-finish-your-dissertation-133.png)This blog has been a ghost-town for a while, but it's not for my lack of textual output. All of my writing energy has been been devoted to the single minded purpose of my trying to complete my dissertation. I'm currently trying to complete a full draft by Labor day, in preparation for a Fall defense and and a 4pm, Oct 16th deposit. Revisions are brutal and it's a race to the finish.

@@ -10,7 +10,11 @@ categories:
   - "ethics"
   - "freeculture"
   - "nptech"
-tags: []
+tags:
+  - "art"
+  - "free-culture"
+  - "memory"
+  - "nonprofit-tech"
 ---
 
 ![CF_cover](/images/2010/09/CF_cover-223x300.png "CF_cover")The [Collaborative Futures](http://collaborative-futures.org/) book is back for another edition and is smarter, sharper, and more insightful than ever.

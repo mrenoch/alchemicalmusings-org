@@ -7,7 +7,11 @@ url: "/2008/12/23/two-more-flakes/"
 categories:
   - "earth"
   - "metaphysics"
-tags: []
+tags:
+  - "art"
+  - "education"
+  - "memory"
+  - "philosophy"
 ---
 
 [![](/images/2008/12/99089480_204d4d0e70-300x225.jpg "206 W. Blizzard")](http://flickr.com/photos/mccloud/99089480/)6 credits and another season later, I have two more essays to show for the time indentured to my phd [program](http://collectivecommunicationscampus.net/). One of these years I might even save up enough flakes for a snow bank.

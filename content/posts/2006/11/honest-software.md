@@ -6,7 +6,11 @@ slug: "honest-software"
 url: "/2006/11/06/honest-software/"
 categories:
   - "plone"
-tags: []
+tags:
+  - "cms"
+  - "environment"
+  - "social-media"
+  - "technology"
 ---
 
 ![](http://static.flickr.com/121/289037975_bfd97d0adc.jpg?v=0)

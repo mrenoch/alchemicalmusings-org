@@ -10,7 +10,10 @@ categories:
   - "ethics"
   - "playasbeing"
   - "water"
-tags: []
+tags:
+  - "art"
+  - "education"
+  - "philosophy"
 ---
 
 ![](/images/2008/04/mirror_picass_girlbefore_lg-237x300.jpg "Mirror, Mirror on the wall")It's been a few weeks since I first [started](http://alchemicalmusings.org/2008/04/03/the-zen-of-life2/) [experimenting](http://alchemicalmusings.org/2008/04/06/jingles-mantras-and-catch-phrases/) with the [Play As Being](http://playasbeing.wordpress.com/) practice, and ventured into Second Life. I continue to appreciate the performative brilliance of utilizing Second Life as a means to study the nature of consciousness, being, and reality. I am starting to imagine a metaphysical syllabus that incorporates virtual world immersion as an instrument for laying bare the everyday assumptions we make about consensual reality.

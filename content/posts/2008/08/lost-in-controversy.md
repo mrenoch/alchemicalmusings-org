@@ -7,7 +7,11 @@ url: "/2008/08/30/lost-in-controversy/"
 categories:
   - "earth"
   - "epistemology"
-tags: []
+tags:
+  - "art"
+  - "edtech"
+  - "education"
+  - "philosophy"
 ---
 
 [![](/images/2008/08/418708068_503d3d9ca7-225x300.jpg "You are here")](http://flickr.com/photos/edverillo/418708068/)This summer, Bruno Latour was [our tour guide](http://alchemicalmusings.org/2008/08/30/bruno-vs-the-cavemen/) - leading the way, not out of [The Cave](http://images.elfwood.com/fanq/c/a/cassel3/platos_cave_verysmall.jpg), but beyond the entire Cave System. Along the journey I also learned about a very interesting pedagogical technique intended to take engineering students on a similar journey.

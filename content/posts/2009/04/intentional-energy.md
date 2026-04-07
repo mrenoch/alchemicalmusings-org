@@ -9,7 +9,11 @@ categories:
   - "ethics"
   - "freeculture"
   - "metaphysics"
-tags: []
+tags:
+  - "art"
+  - "environment"
+  - "free-culture"
+  - "philosophy"
 ---
 
 [![Seed of Life Activator](/images/2009/04/40893621_efdd49c4ce-300x225.jpg "Seed of Life Activator")](http://www.growingarchitecture.org/SoLA.html)This past weekend I took part in an exciting panel on internet labor at the [Left Forum](http://leftforum.org/2009/panels#labor), but the highlight of the weekend was serendipitous. I attended a [salon](http://www.realitysandwich.com/evolver_salon_sunday) hosted by Reality Sandwich:

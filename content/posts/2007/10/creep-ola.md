@@ -8,7 +8,11 @@ categories:
   - "earth"
   - "ethics"
   - "fire"
-tags: []
+tags:
+  - "alchemy"
+  - "art"
+  - "environment"
+  - "music"
 ---
 
 [![classic_jukebox.jpg](/images/2007/10/classic_jukebox.jpg)](http://alchemicalmusings.org/2007/10/01/creep-ola/classic_jukeboxjpg/ "classic_jukebox.jpg")Last Saturday night I was at a bar downtown for [a friend's](http://thecoolseason.blogspot.com/2007/09/man-we-had-party.html) birthday. I decided to pick out a few songs (no, I didn't use the obnoxious "play now" feature).

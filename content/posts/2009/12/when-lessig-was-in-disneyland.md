@@ -8,7 +8,11 @@ categories:
   - "ethics"
   - "fire"
   - "freeculture"
-tags: []
+tags:
+  - "ancient-technology"
+  - "free-culture"
+  - "journalism"
+  - "social-media"
 ---
 
 [![ex10_03-04](/images/2009/12/ex10_03-04-300x225.jpg "ex10_03-04")](http://www.thebricktestament.com/exodus/the_eighth_plague/ex10_03-04.html)I had a fun idea for a new Free Culture campaign [last spring](http://freeculture.org/pipermail/discuss/2009-April/004063.html), but I haven't gotten around to blogging about it until now.

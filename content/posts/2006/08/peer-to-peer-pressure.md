@@ -7,7 +7,10 @@ url: "/2006/08/27/peer-to-peer-pressure/"
 categories:
   - "ethics"
   - "water"
-tags: []
+tags:
+  - "art"
+  - "journalism"
+  - "memory"
 ---
 
 ![history of peer to peer](http://static.flickr.com/73/225865155_65ad6c8dc1.jpg?v=0 "history of peer to peer")I had an interesting conversation with Brian Taptich, the VP of Business Development at [bittorrent.com](http://www.bittorrent.com/about.html) and gained an insight into the machinations of the industry.

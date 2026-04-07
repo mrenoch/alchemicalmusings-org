@@ -6,7 +6,11 @@ slug: "saints-in-the-church-of-writely"
 url: "/2006/03/12/saints-in-the-church-of-writely/"
 categories:
   - "Uncategorized"
-tags: []
+tags:
+  - "art"
+  - "free-culture"
+  - "social-media"
+  - "technology"
 ---
 
 [![](http://static.flickr.com/27/45921602_0503b9bd78.jpg?v=0)](http://static.flickr.com/27/45921602_0503b9bd78.jpg?v=0)Two months back I saw [Richard Stallman](http://gnucvs.vlsm.org/people/saintignucius.big.jpg) talk at a NYC Gnubies event and I asked him a question that I have been thinking alot about lately -- Would a Saint in the [Church of Emacs](http://www.stallman.org/saint.html) use gmail?

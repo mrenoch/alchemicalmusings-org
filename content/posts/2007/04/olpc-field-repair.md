@@ -10,7 +10,11 @@ categories:
   - "epistemology"
   - "fire"
   - "olpc"
-tags: []
+tags:
+  - "art"
+  - "edtech"
+  - "education"
+  - "philosophy"
 ---
 
 [![466296547_46b55653ce.jpg](/images/2007/04/466296547_46b55653ce.thumbnail.jpg)](http://www.flickr.com/photos/mccloud/sets/72157600098899249/)At last month's incredible [Teach Think Play Conference](http://alchemicalmusings.org/2007/03/25/teaching-thinking-and-playing-day-one/http://alchemicalmusings.org/2007/03/25/teaching-thinking-and-playing-day-one/) I was fortunate enough to borrow an OLPC laptop from a good friend. As usual, the tangible green machine was a Pop Star (though in this educator crowd, most were not familiar with the project), garnering interest and attention wherever it travels.

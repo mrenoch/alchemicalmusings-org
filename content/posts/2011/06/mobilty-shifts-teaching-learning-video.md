@@ -9,7 +9,11 @@ categories:
   - "fire"
   - "freeculture"
   - "water"
-tags: []
+tags:
+  - "education"
+  - "free-culture"
+  - "memory"
+  - "philosophy"
 ---
 
 [![](/images/2007/09/LTDM_bookcover-cropped-proto-custom_2.jpg "Learning Through Digital Media Experiments in Technology and Pedagogy")](/images/2007/09/LTDM_bookcover-cropped-proto-custom_2.jpg)Michael Preston and I have co-authored a chapter— [Teaching and Learning with Video Annotations](http://learningthroughdigitalmedia.net/teaching-and-learning-with-video-annotations) —for the recently released anthology, *Learning Through Digital Media: Experiments in Technology and Pedagogy*. This chapter recapitulates the history of multimedia annotation projects at [CCNMTL](http://ccnmtl.columbia.edu/), focusing especially on the pedagogies and learning outcomes that have motivated much of my work at CCNMTL work over the years. We discuss curricular activities which have stimulated the development of our [VITAL](http://ccnmtl.columbia.edu/our_services/vital/introduction_to_vital.html) and [MediaThread](http://ccnmtl.columbia.edu/portfolio/custom_software_applications_and_tools/mediathread.html) multimedia analysis environments.

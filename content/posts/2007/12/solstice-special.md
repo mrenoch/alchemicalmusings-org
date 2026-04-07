@@ -9,7 +9,11 @@ categories:
   - "earth"
   - "epistemology"
   - "metaphysics"
-tags: []
+tags:
+  - "activism"
+  - "education"
+  - "journalism"
+  - "philosophy"
 ---
 
 [![moonmars_071127_harms800.jpg](/images/2007/12/moonmars_071127_harms800.jpg)](http://apod.nasa.gov/apod/ap071223.html "Moon and Mars")I haven't posted much here lately, but I have been writing. I just finished my first semester as a doctoral student in the Journalism school and completed a flurry of term papers.

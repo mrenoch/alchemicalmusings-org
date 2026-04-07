@@ -8,7 +8,9 @@ categories:
   - "air"
   - "fire"
   - "metaphysics"
-tags: []
+tags:
+  - "journalism"
+  - "philosophy"
 ---
 
 ![fractal.gif](/images/2007/07/fractal.gif)Or, My Fancy Rationale for Indulging in Conspiracy Theories. 

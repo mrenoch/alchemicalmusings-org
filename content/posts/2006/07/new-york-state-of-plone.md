@@ -6,7 +6,10 @@ slug: "new-york-state-of-plone"
 url: "/2006/07/13/new-york-state-of-plone/"
 categories:
   - "plone"
-tags: []
+tags:
+  - "cms"
+  - "education"
+  - "social-media"
 ---
 
 ![](http://static.flickr.com/73/182509294_2b1387e602.jpg?v=0)

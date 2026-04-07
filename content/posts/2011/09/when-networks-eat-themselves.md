@@ -9,7 +9,9 @@ categories:
   - "freeculture"
   - "metaphysics"
   - "water"
-tags: []
+tags:
+  - "free-culture"
+  - "philosophy"
 ---
 
 [![](/images/2011/09/2527464858_34b9bd91f8.jpg "ouroboros")](http://www.flickr.com/photos/vaxzine/2527464858/)Jaron Lanier's latest provocation, the [Local-Global flip](http://edge.org/conversation/the-local-global-flip), deserves a close watch/read.  His contention that the Internet is destroying the middle-class  sounds hyperbolic, but demands a response from devout free-culture evangelists.

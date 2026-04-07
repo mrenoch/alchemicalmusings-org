@@ -8,7 +8,9 @@ categories:
   - "ethics"
   - "fire"
   - "freeculture"
-tags: []
+tags:
+  - "art"
+  - "free-culture"
 ---
 
 [![375789254_a46562dc0e.jpg](/images/2007/02/375789254_a46562dc0e.jpg)](http://flickr.com/photos/hand-nor-glove/375789254/in/set-72157594492864658/)then they laugh at you, then they fight you, then you win.

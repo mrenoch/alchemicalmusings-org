@@ -7,7 +7,9 @@ url: "/2007/12/31/nostalgia-train/"
 categories:
   - "aesthetics"
   - "water"
-tags: []
+tags:
+  - "art"
+  - "memory"
 ---
 
 ![nostalgia_train.jpg](/images/2007/12/nostalgia_train.jpg)Yesterday I took a ride on the the S train - not the shuttle, the special. The MTA conducted a [vintage run](http://www.mta.info/nyct/service/events/nostalgia.htm) of some 1930s trains this month, including many of the original [advertisements](http://www.flickr.com/photos/mccloud/2150435037/in/set-72157603586486834/) and [maps](http://www.flickr.com/photos/mccloud/2151220226/in/set-72157603586486834/).

@@ -6,7 +6,8 @@ slug: "emotional-taxonomies"
 url: "/drafts/emotional-taxonomies/"
 categories:
   - "Uncategorized"
-tags: []
+tags:
+  - "essay"
 ---
 
 autism and mit emotive computing talk

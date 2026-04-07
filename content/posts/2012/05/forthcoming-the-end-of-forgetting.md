@@ -8,7 +8,11 @@ categories:
   - "air"
   - "epistemology"
   - "metaphysics"
-tags: []
+tags:
+  - "education"
+  - "free-culture"
+  - "philosophy"
+  - "surveillance"
 ---
 
 [![](/images/2012/05/boss_sinn_NMS_2012.png "boss_sinn_NMS_2012")](http://bit.ly/H3o0ct)In Spring '05 I took a class with Eben Moglen on the privacy, anonymity, and surveillance beat. The experience changed my life and with tons of support from my teachers and cohorts, I have been [working on](http://www.alchemicalmusings.org/topics/the-end-of-forgetting/) these ideas ever since.

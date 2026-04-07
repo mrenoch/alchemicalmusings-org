@@ -9,7 +9,10 @@ categories:
   - "epistemology"
   - "ethics"
   - "fire"
-tags: []
+tags:
+  - "activism"
+  - "health"
+  - "philosophy"
 ---
 
 [![poison_pill](/images/2009/03/poison_pill-300x231.jpg "poison_pill")](http://www.flickr.com/photos/wyldkyss/2910638740/)As I've claimed previously, Big Pharma's crimes and cover-ups will soon make Big Tobacco's scandals look like jaywalking.

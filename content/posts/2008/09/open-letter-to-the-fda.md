@@ -8,7 +8,11 @@ categories:
   - "dangerousgifts"
   - "ethics"
   - "fire"
-tags: []
+tags:
+  - "activism"
+  - "ancient-technology"
+  - "education"
+  - "mental-health"
 ---
 
 To: Sandy Walsh <[sandy.walsh@fda.hhs.gov](mailto:sandy.walsh@fda.hhs.gov)>

@@ -7,7 +7,9 @@ url: "/2008/01/18/a-round-trip-ticket-out-of-this-world/"
 categories:
   - "aesthetics"
   - "air"
-tags: []
+tags:
+  - "activism"
+  - "art"
 ---
 
 [![dancpengfront.jpg](/images/2008/01/dancpengfront.jpg)](/images/2008/01/dancpengfront.jpg "dancpengfront.jpg")

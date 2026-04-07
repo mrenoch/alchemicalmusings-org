@@ -32,7 +32,7 @@ paginate = 20
   home = "right"
   list = "right"
   single = "right"
-  widgets = ["search", "recent", "categories"]
+  widgets = ["search", "recent", "sidemenu", "categories"]
 
 [Params.widgets]
   recent_num = 5
@@ -63,58 +63,50 @@ paginate = 20
 
 [[menu.main]]
   name = "About"
+  identifier = "about"
   url = "/about/"
   weight = 2
 
 [[menu.main]]
   name = "Contact"
+  parent = "about"
   url = "/contact/"
-  weight = 3
+  weight = 1
 
-[[menu.main]]
-  name = "Pages"
-  identifier = "pages"
-  url = "#"
-  weight = 4
+# ── Sidebar: Writing index ────────────────────────────────────────────────────
+# (moved from main nav "Pages" dropdown — rendered by the sidemenu widget)
 
-[[menu.main]]
+[[menu.side]]
   name = "Alchemy 2.0"
-  parent = "pages"
   url = "/alchemy-20/"
   weight = 1
 
-[[menu.main]]
+[[menu.side]]
   name = "Dangerous Gifts"
-  parent = "pages"
   url = "/dangerous-gifts/"
   weight = 2
 
-[[menu.main]]
+[[menu.side]]
   name = "Digital Communications"
-  parent = "pages"
   url = "/digital-communications-in-theory-and-practice/"
   weight = 3
 
-[[menu.main]]
+[[menu.side]]
   name = "Essays"
-  parent = "pages"
   url = "/essays/"
   weight = 4
 
-[[menu.main]]
+[[menu.side]]
   name = "Presentations"
-  parent = "pages"
   url = "/presentations/"
   weight = 5
 
-[[menu.main]]
+[[menu.side]]
   name = "Publications"
-  parent = "pages"
   url = "/publications/"
   weight = 6
 
-[[menu.main]]
+[[menu.side]]
   name = "The End of Forgetting"
-  parent = "pages"
   url = "/the-end-of-forgetting/"
   weight = 7

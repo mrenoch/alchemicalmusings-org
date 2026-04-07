@@ -10,7 +10,9 @@ categories:
   - "fire"
   - "metaphysics"
   - "playasbeing"
-tags: []
+tags:
+  - "education"
+  - "philosophy"
 ---
 
 [![](/images/2008/08/210665364_78637c805d_o-225x300.jpg "Toth Tarot")](http://flickr.com/photos/ndemi/210665364/)I've got a wonderful summer backlog of posts piling up, but I really want to try to keep these posts short(er) and sweet, so I'll try to compose staccato.

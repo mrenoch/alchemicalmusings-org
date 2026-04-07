@@ -9,7 +9,10 @@ categories:
   - "fourthestate"
   - "freeculture"
   - "water"
-tags: []
+tags:
+  - "art"
+  - "free-culture"
+  - "journalism"
 ---
 
 [![Mad Scientist's Union](/images/2009/10/233877821_410650a421_m.jpg "Mad Scientist's Union")](http://www.flickr.com/photos/tentaclemonkey/233877821/)I had a fun idea tonight (patent pending) that occurred to me after reading about the Newspaper's [accelerating collapse](http://www.niemanlab.org/2009/10/newspapers-take-a-bus-plunge-circulation-plummets-10-6-percent/), the Talking Point Memo's [membership experiment](http://www.niemanlab.org/2009/10/talking-points-memo-explores-a-membership-model-but-no-paywall/), and the recent report on [reconstructing journalism](http://alchemicalmusings.org/2009/10/25/reconstruction-time-again/).

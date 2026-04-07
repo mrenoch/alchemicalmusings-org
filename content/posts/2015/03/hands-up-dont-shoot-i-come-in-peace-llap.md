@@ -7,7 +7,10 @@ url: "/2015/03/16/hands-up-dont-shoot-i-come-in-peace-llap/"
 categories:
   - "ethics"
   - "fire"
-tags: []
+tags:
+  - "art"
+  - "judaism"
+  - "memory"
 ---
 
 This year Earth lost two of my favorite aliens - Mork, played by Robin Williams in *Mork and Mindy* and Spock, played by Leonard Nemoy in *Star Trek*. Mork and Spock were both ambassadors to humans, living among us and illuminating our socio-cultural quirks through our encounters with their radical otherness. Mork’s surreal and naive silliness and Spock’s emotionless logic helped reveal ourselves through their extra-terrestrial eyes.

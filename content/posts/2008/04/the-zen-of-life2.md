@@ -8,7 +8,11 @@ categories:
   - "air"
   - "metaphysics"
   - "playasbeing"
-tags: []
+tags:
+  - "art"
+  - "environment"
+  - "free-culture"
+  - "philosophy"
 ---
 
 ![cgon370l.jpg](/images/2008/04/cgon370l.jpg)I suppose it was only a matter of time before I experienced *something* within Second Life that caught my interest. Though I work on and study social software, I haven't been particularly giddy about metaverses (multiplayer, persistent, 3D immersive environments) for a variety of reasons - perhaps tracing back to the fact that I haven't really enjoyed playing too many computer games.

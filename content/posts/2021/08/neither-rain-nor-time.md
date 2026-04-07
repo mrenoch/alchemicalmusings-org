@@ -6,7 +6,10 @@ slug: "neither-rain-nor-time"
 url: "/2021/08/18/neither-rain-nor-time/"
 categories:
   - "Uncategorized"
-tags: []
+tags:
+  - "journalism"
+  - "politics"
+  - "technology"
 ---
 
 Although we have survived Trump's frontal assault on the US Post Office, it's still in a very fragile state. It remains the only federal agency required to keep it's entire retirement budget readily available in liquid form on reserve.

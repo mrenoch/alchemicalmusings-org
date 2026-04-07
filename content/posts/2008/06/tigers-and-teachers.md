@@ -9,7 +9,11 @@ categories:
   - "nmc2008"
   - "playasbeing"
   - "water"
-tags: []
+tags:
+  - "activism"
+  - "education"
+  - "philosophy"
+  - "technology"
 ---
 
 [![](/images/2008/06/2583471419_6ae1e7ee74_m.jpg "Avatars in Alexander Hall")](http://flickr.com/photos/fleep/2583471419/)Last week I went back to 'ol Nassau and attended the annual [New Media Consortium](http://www.nmc.org/2008-summer-conference) conference, held this year at my alma mater.

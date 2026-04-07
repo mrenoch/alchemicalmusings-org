@@ -7,7 +7,9 @@ url: "/2006/09/30/he-is-the-law/"
 categories:
   - "epistemology"
   - "water"
-tags: []
+tags:
+  - "philosophy"
+  - "technology"
 ---
 
 [![killer_robot.jpg](/images/2006/09/killer_robot.thumbnail.jpg)](http://www.foster-miller.com/literature/documents/Weaponized_Talon.pdf)While we continue to [arm the robots](http://jonahboss.fastmail.fm/clippings/ns09212006/robot_infantry.htm) at an alarming rate, the real transition of power and control is far more subtle and insidious. Humanity is ceding power to the machines, but not at gunpoint. Rather, we are relinquishing our will to the machines through the kinds of bureaucratic machinery [Max Weber](http://www.faculty.rsu.edu/~felwell/Theorists/Weber/Whome.htm) and [Terry Gilliam](http://www.imdb.com/title/tt0088846/) would have a hard time imagining.

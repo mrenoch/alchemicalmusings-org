@@ -7,7 +7,11 @@ url: "/2008/09/21/free-energy-redux/"
 categories:
   - "earth"
   - "ethics"
-tags: []
+tags:
+  - "activism"
+  - "art"
+  - "environment"
+  - "free-culture"
 ---
 
 [![](/images/2008/09/1871578378_c7563cb384-225x300.jpg "Free Energy")](http://flickr.com/photos/poluz/1871578378/in/set-72157602930945005)No, this post isn't about the [LHC](http://www.youtube.com/watch?v=j50ZssEojtM) creating black holes, time machines, or perpetual motion - its an update on my ~2 year old post on [Free Energy](http://alchemicalmusings.org/2006/11/16/free-energy/) - where I reflected on what the environmental movement might learn from the free software movement...

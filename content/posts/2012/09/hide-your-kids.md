@@ -9,7 +9,11 @@ categories:
   - "epistemology"
   - "ethics"
   - "fire"
-tags: []
+tags:
+  - "activism"
+  - "education"
+  - "mental-health"
+  - "philosophy"
 ---
 
 [![](/images/2012/09/2012-08-16-08.44.55-1-169x300.jpg "2012-08-16 08.44.55-1")](/images/2012/09/2012-08-16-08.44.55-1.jpg)[![](/images/2012/09/2012-07-14-21.30.18-169x300.jpg "2012-07-14 21.30.18")](/images/2012/09/2012-07-14-21.30.18.jpg)It's back to school season, and if you've glanced up from your smartphone while walking the streets of New York City, you are sure to have noticed a new campaign that is sweeping the city's billboards and phone booths.

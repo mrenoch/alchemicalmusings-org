@@ -6,7 +6,10 @@ slug: "his-masters-voice"
 url: "/2006/01/13/his-masters-voice/"
 categories:
   - "Uncategorized"
-tags: []
+tags:
+  - "media-theory"
+  - "music"
+  - "technology"
 ---
 
 [![](http://upload.wikimedia.org/wikipedia/en/b/ba/HMVSavoyHavana.jpg)](http://upload.wikimedia.org/wikipedia/en/b/ba/HMVSavoyHavana.jpg)I recently read that Guglielmo Marconi envisioned the radio being used primarily for 2-way communications, and Alexandar Graham Bell imagined the telephone being used to broadcast concerts to large audiences. Whether or not this is true, it's interesting to wonder if the inventors of technology are really the best at predicting its eventual usage.

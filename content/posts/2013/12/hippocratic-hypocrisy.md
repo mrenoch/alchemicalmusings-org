@@ -8,7 +8,11 @@ categories:
   - "dangerousgifts"
   - "ethics"
   - "fire"
-tags: []
+tags:
+  - "activism"
+  - "art"
+  - "education"
+  - "journalism"
 ---
 
 [![caduceus-eye](/images/2013/12/caduceus-eye.jpg)](http://fineartamerica.com/featured/caduceus-semmick-photo.html)When I graduated from Teachers College in '07, I donned the goofy ceremonial robes and walked with my classmates at the university-wide commencement.  I distinctly remember my astonishment when I heard the medical graduates recite the [Hippocratic oath](http://www.pbs.org/wgbh/nova/body/hippocratic-oath-today.html), right there, for all of us to witness. I remember thinking to myself that other professionals should be required to recite oaths too, as lawyers, teachers, journalists, and others all have the power to do great harm, but I suppose that medicine still occupies a unique place, as the power to heal is synonymous with the power to kill.

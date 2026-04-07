@@ -8,7 +8,9 @@ categories:
   - "ethics"
   - "fire"
   - "freeculture"
-tags: []
+tags:
+  - "education"
+  - "free-culture"
 ---
 
 ![students-on-edge-of-low](/images/2009/04/students-on-edge-of-low-197x300.jpg "students-on-edge-of-low")At the beginning of the semester I shopped a class offered in the Columbia CS Dept on [mobile computing](http://arstechnica.com/apple/news/2009/04/stanford-iphone-developer-course-available-free-via-itunes-u.ars).  Sadly, I didn't have time to take the class this semester, but I suppose I can follow along Standford's version [free of charge](http://arstechnica.com/apple/news/2009/04/stanford-iphone-developer-course-available-free-via-itunes-u.ars).

@@ -7,7 +7,11 @@ url: "/2005/11/09/wikibases-and-the-collaboration-index/"
 categories:
   - "air"
   - "epistemology"
-tags: []
+tags:
+  - "ancient-technology"
+  - "education"
+  - "free-culture"
+  - "journalism"
 ---
 
 On October 27th I attended a [University Seminar presented by Mark Phillipson](http://ccnmtl.columbia.edu/seminar/001392.html). The seminar was lively and well attended, and Mark managed to connect the culture of wikis with their open source roots.

@@ -7,7 +7,9 @@ url: "/2008/10/23/domestically-spooked/"
 categories:
   - "ethics"
   - "fire"
-tags: []
+tags:
+  - "activism"
+  - "memory"
 ---
 
 [![](/images/2008/10/2113616656_436c4ffc19-300x225.jpg "spy vs. geek")](http://flickr.com/photos/badwsky/2113616656/)This Fall I am taking a great class on [Transparency & Democracy](http://www.journalism.columbia.edu/cs/ContentServer/jrn/1212608967690/page/1212608967632/JRNSimplePage2.htm#Transparency) ([syllabus](http://jonahboss.fastmail.fm/school/j6019/j6019_transparency_syllabus.doc)) taught by [Prof. Michael Schudson](http://en.wikipedia.org/wiki/Michael_Schudson). We are talking about the history of the Freedom of Information Act (FOIA), and trying to puzzle out what sorts of cultural forces accounted for an indisputable rise in transparency and openness in American society. We are taking a fascinating journey through the history of social movements in the 60s and 70s and reading about the Free Speech movement, [SDS](http://en.wikipedia.org/wiki/Students_for_a_Democratic_Society_(1960_organization)), the feminist movement, the gay liberation movement, and tabloid talk shows.

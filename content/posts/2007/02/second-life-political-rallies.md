@@ -7,7 +7,10 @@ url: "/2007/02/04/second-life-political-rallies/"
 categories:
   - "ethics"
   - "water"
-tags: []
+tags:
+  - "activism"
+  - "memory"
+  - "politics"
 ---
 
 [![psychic](/images/2007/02/psychic1.jpg)](http://flickr.com/photos/spike55151/16981039/)Given the Alchemist's [recent trackrecord](http://alchemicalmusings.org/2006/12/26/wait-until-pictures-start-getting-indexed/) of predictions, I am going to pass along another prediction that [we came up with](http://thraxil.com) at lunch the other day.

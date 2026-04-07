@@ -8,7 +8,10 @@ categories:
   - "dangerousgifts"
   - "ethics"
   - "fire"
-tags: []
+tags:
+  - "activism"
+  - "art"
+  - "mental-health"
 ---
 
 [![](/images/2012/05/LucyOnly-256x300.gif "LucyOnly-256x300")](/images/2012/05/LucyOnly-256x300.gif)Last weekend I went down to Philly to Occupy the American Psychiatric Association's yearly conference ([#OccupyAPA](http://www.mindfreedom.org/campaign/boycott-normal/occupy-apa)). I joined the protests on Saturday, attended the APA on Sunday, and participated in the Radical Caucus, hosted by a group of psychiatrists attending the conference on Sunday night. The weekend was overflowing with information and emotion, and I when I finishing unpacking it all I might just have a dissertation (or, at least a fat chapter).

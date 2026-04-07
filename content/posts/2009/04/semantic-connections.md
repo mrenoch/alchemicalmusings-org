@@ -7,7 +7,9 @@ url: "/2009/04/14/semantic-connections/"
 categories:
   - "earth"
   - "ethics"
-tags: []
+tags:
+  - "art"
+  - "journalism"
 ---
 
 ![paperboyhazards1](/images/2009/04/paperboyhazards1-300x225.png "paperboyhazards1")It's been almost 2 months since I participated in the intense and spectacular [conference/discussion/seminar](http://studyplace.org/wiki/CDPC) on the Changing Dynamics of Public Controversies ([CDPC](http://delicious.com/tag/cdpc09)). Since then, numerous municipal dailies have declared bankruptcy, and the question of the future of journalism has gone mainstream - with urgency. ([f](http://www.nytimes.com/2009/04/13/business/media/13carr.html?ref=media)[o](http://www.nytimes.com/2009/04/13/technology/start-ups/13hyperlocal.html?ref=media)[u](http://www.nytimes.com/2009/04/13/business/media/13globe.html?ref=media)[r](http://www.nytimes.com/2009/04/13/business/media/13circ.html?ref=media) print-media-collapse stories on the front page of yesterday's business section of the nytimes!).
