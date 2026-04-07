@@ -63,13 +63,15 @@ paginate = 20
 
 [[menu.main]]
   name = "About"
+  identifier = "about"
   url = "/about/"
   weight = 2
 
 [[menu.main]]
   name = "Contact"
+  parent = "about"
   url = "/contact/"
-  weight = 3
+  weight = 1
 
 [[menu.main]]
   name = "Pages"
