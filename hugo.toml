@@ -1,4 +1,4 @@
-baseURL = "https://mrenoch.github.io/alchemicalmusings-org/"
+baseURL = "https://alchemicalmusings.org/"
 languageCode = "en-us"
 title = "Alchemical Musings"
 theme = "mainroad"
