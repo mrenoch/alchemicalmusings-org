@@ -5,6 +5,7 @@ theme = "mainroad"
 # mainroad: MienDev fork, commit f7a975a (see themes/README.md)
 
 paginate = 20
+googleAnalytics = "G-18V66ZTSVJ"
 
 # Thumbnail visibility: list only by default.
 # Existing posts: images already live in the post body — showing thumbnail in
