@@ -30,7 +30,7 @@ googleAnalytics = "G-18V66ZTSVJ"
   post_meta = ["date", "categories"]
   mainSections = ["posts"]
   googleFontsLink = "https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400;1,500&display=swap"
-  customCSS = ["/css/custom.css"]
+  customCSS = ["css/custom.css"]
 
 [Params.logo]
   image = "images/jonahs_staff.png"
