@@ -1,6 +1,7 @@
 HUGO ?= hugo
 PUBLIC = public
 BRANCH_DEPLOY = gh-pages
+REMOTE_URL = https://github.com/mrenoch/alchemicalmusings-org.git
 PORT = 1337
 
 # ── Default ───────────────────────────────────────────────────────────────────
@@ -40,6 +41,7 @@ clean:
 deploy: build
 	cd $(PUBLIC) && \
 	git init && \
+	git remote add origin $(REMOTE_URL) && \
 	git checkout -b $(BRANCH_DEPLOY) && \
 	git add -A && \
 	git commit -m "deploy: $$(date -u '+%Y-%m-%d %H:%M:%S UTC')" && \

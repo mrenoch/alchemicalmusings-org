@@ -11,6 +11,7 @@ tags:
   - "art"
   - "music"
   - "technology"
+thumbnail: "/images/2014/11/ouroboros_Michael_Maier_Atalanta_Fugiens_Emblem_14-300x180.jpg"
 ---
 
 #### *by Jonah Bossewitch and Rob Garfield*

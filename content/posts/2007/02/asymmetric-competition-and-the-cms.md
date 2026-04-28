@@ -18,7 +18,11 @@ tags:
 **Beyond the CMS - What are Plone's greatest future competitors?**
 I recently encountered O'Reilly's [asymmetrical competition](http://radar.oreilly.com/archives/2006/04/purposedriven_media.html) meme and think its a good jumping off point to discuss the differences between Plone's perceived and actual competition.
 First, let's catch up to where we are today:
-[**Web 2.0 ... The Machine is Us/ing Us**](http://www.youtube.com/watch?v=6gmP4nk0EOE)
+
+**Web 2.0 ... The Machine is Us/ing Us**
+
+{{< youtube 6gmP4nk0EOE >}}
+
 The opensource CMS horserace has seemingly settled on a [few players](http://www.idealware.org/articles/joomla_drupal_plone.php), and without provoking any religious wars, I continue to be impressed with the richness and maturity of all of these projects.
 But here in the educational sector there are rumblings which I think will spread beyond our corner. In our world 'C' stands for Course, not 'Content', and the big players are [Blackboard](http://www.nosoftwarepatents.com/) (which swallowed WebCT), [Sakai](http://www.sakaiproject.org/) and [Moodle](http://moodle.org/). Here too, competition may come from surprising corners, as the game itself changes beneath us.
 > "Collaboration via the net does not necessarily require monolithic, expensive tool suites that aim to do everything under one umbrella. We will share and demonstrate the use of readily available, mostly free, discrete sets of "small" and "loosely joined" technologies - weblogs, wikis, instant messaging, audio/video chat. The loose joining means that how they are connected are not necessarily in the programming of the software, but the ways people can use them in a social context that is an environment of dynamic, changing relationships and connections, rather than the rigid, limited ones defined by computer code."

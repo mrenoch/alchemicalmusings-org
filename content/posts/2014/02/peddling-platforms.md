@@ -12,6 +12,7 @@ categories:
 tags:
   - "art"
   - "technology"
+thumbnail: "/images/2014/01/7175132773_dc83a2d1f2_b-300x200.jpg"
 ---
 
 [![7175132773_dc83a2d1f2_b](/images/2014/01/7175132773_dc83a2d1f2_b-300x200.jpg)](http://www.flickr.com/photos/39017545@N02/7175132773/in/photostream/)New York City's bike share program is flourishing, and I recently signed up for a membership even though I live outside the range of any Citibike stations. I find it convenient and fun to use the bikes to cross town, as well as zip from place to place when I am downtown. Since my first ride on the Parisian [Vélib'](http://en.velib.paris.fr/), I've become a huge fan of bike shares, and have enjoyed rides in Paris, DC, Denver, Miami, and Toronto.

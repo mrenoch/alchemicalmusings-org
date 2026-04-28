@@ -12,6 +12,7 @@ tags:
   - "art"
   - "health"
   - "mental-health"
+thumbnail: "/images/2019/03/13573833783_d6720896a2_b-300x200.jpg"
 ---
 
 [![](/images/2019/03/13573833783_d6720896a2_b-300x200.jpg)](https://www.flickr.com/photos/shannxn/13573833783/in/photolist-mFtrSX-9qu5kf-jkQeBE-aHKXRF-4Eq5eM-bVN6PZ-5shWjY-4EfYgJ-twPXz-4JF1ve-5Vf6x6-4EaVgX-5VgqpG-bgxDaP-aP79RT-9qr3Rc-2cJfr76-4Ns4sP-nWbdVZ-4EbrSK-4DZT6K-k7nh2J-95agJd-bgwT6r-84faSY-4B92hw-avkFTK-b6LiZM-7qMwsT-4EufHf-4JZuN5-4JKgrs-twQhw-9qu5AA-zUwxZ-sno6P-4D1q6H-cqjycy-dbLUnj-7SZY13-k7nF2G-7NtydJ-twRFD-k7oHtJ-4JKfZs-bW9U1j-fk9whB-cyeGoW-fSbpZ4-4JVi3D/)Last weekend I traveled to the lovely city of New Haven for a mental health hackathon hosted by [Hack Mental Health Care](http://hackmentalhealth.care/). I was very pleasantly surprised by the experience, which proved interesting, fun and invigorating (with a few healthy dashes of disappointment and [horror](http://alchemicalmusings.org/2017/12/03/the-rise-of-surveillance-psychiatry-and-the-mad-underground/)).

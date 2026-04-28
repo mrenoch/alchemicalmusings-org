@@ -11,6 +11,7 @@ categories:
 tags:
   - "art"
   - "environment"
+thumbnail: "/images/2018/12/44091884212_875f54f540_z-300x218.jpg"
 ---
 
 [![](/images/2018/12/44091884212_875f54f540_z-300x218.jpg)](https://www.flickr.com/photos/stephoto27/44091884212/in/photolist-2abfr3d-VQswCy-nBUKwM-7xqxsG-6L1tW5-pZcRp1-6xJVyE-5J1tAi-2abjkTC-5bgpJi-iL3Ca-5bgpGc-5SwgKg-5yxgs5-Md93g2-2UFPe-5yxfLu-9kruof-f7Wzj-hUrNxT-8Sryaz-7Ni9XX-5SNg3T-ci7UkL-7W1Ez8-3Js5Ex-5y58UG-9ZVtC4-4oR5Ux-4VVrK9-oKkNkM-dJ9fGr-27DZE6b-9aAXmc-8ohasg-sxcay-ci7JZL-7DbQhQ-5RwfWF-25sptNm-dJeCVY-c86kQQ-bW7SY-5aBwab-KXjf91-afxwdm-bczLdz-bH5YtK-ci7QdS-28qbJcy)A few years ago I visited my family in Florida for the holiday season. My sister and her family also flew in, and to their credit, her children were more interested in a family vacation to see the [marine hospital](https://www.seewinter.com/) in Clearwater than they were in Disney World (this is the home of Winter and Hope, the real life dolphins with prosthetic tails who starred in [Dolphin Tale](https://en.wikipedia.org/wiki/Dolphin_Tale)).

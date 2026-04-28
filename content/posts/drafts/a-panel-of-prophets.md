@@ -8,6 +8,7 @@ categories: []
 tags:
   - "art"
   - "technology"
+thumbnail: "/images/2007/02/psychic1.jpg"
 ---
 
 [![psychic](/images/2007/02/psychic1.jpg)](http://flickr.com/photos/spike55151/16981039/)

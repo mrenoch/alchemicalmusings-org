@@ -14,6 +14,7 @@ tags:
   - "art"
   - "education"
   - "philosophy"
+thumbnail: "/images/2017/03/bfp10s_clean-300x225.jpg"
 ---
 
 [![](/images/2017/03/bfp10s_clean-300x225.jpg)Dr. Albert Barnes](http://www.barnesfoundation.org/about/history/albert) was a chemist who made a fortune at the turn of the 20th century developing a treatment for infant blindness. He became interested in art and befriended the painter William Glackens. The two began collecting modern paintings in Paris in 1911, and Barnes eventually developed a private collection of paintings that today is valued at $50-60 Billion. Amazingly, he collected the works of the masters before they were masters, almost the equivalent of buying the Mona Lisa off Da Vinci in a dark Venice alley for twenty bucks. While he never got his hands on Mona, he amassed a world class collection of Renoirs, Picassos, Matisses, Modiglianis, Van Googhs, and more.

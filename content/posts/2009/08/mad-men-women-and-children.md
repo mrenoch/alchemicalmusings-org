@@ -26,31 +26,31 @@ What Gameson teases out of his exhaustive study are the subtle underlying ideolo
 Our critical "Mental" challenge is all about trying to tease out the underlying ideologies and unquestioned assumptions that permeate the storylines in this series. On the face of it, *Mental* offers a diverse range of voices and perspectives — from financially-motivated hospital administrator, to the confrontational interns, to the purportedly radical director - *Mental* gives watchers the impression that the mainstream is being represented, and challenged.
 Consider Dr. Galleger's establishing introduction:
 
-[Establishing Dr. Gallager](https://vimeo.com/6225129) from [Generic Prescriptions](https://vimeo.com/user2201516) on [Vimeo](https://vimeo.com).
+{{< vimeo 6225129 >}}
 
 He certainly seems like an alternative psychiatrist, who will do anything to help his patients. He even goes on to insist that patients participate in the staff meetings:
 
-[Medical Deities](https://vimeo.com/6225657) from [Generic Prescriptions](https://vimeo.com/user2201516) on [Vimeo](https://vimeo.com).
+{{< vimeo 6225657 >}}
 
 ... a device that disappears immediately after its introduction. It doesn't even come up in later meetings in this pilot, never mind later in the series. Here is the next meeting, where the shows truer colors begin to shine through - Drugs for life, no hope of a cure, and the problem lies with pharmas old drugs, like Haldol, but their new miracle treatments are a panacea:
 
-[He's gonna need drugs](https://vimeo.com/6226244) from [Generic Prescriptions](https://vimeo.com/user2201516) on [Vimeo](https://vimeo.com).
+{{< vimeo 6226244 >}}
 
 The rubber really hits the road in S01E04 (*Manic at the Disco*) — about a young boy named Conner who is eventually diagnosed with pediatric bipolar.
 
-[Elective Mutism, Conduct Disorder](https://vimeo.com/6240426) from [Generic Prescriptions](https://vimeo.com/user2201516) on [Vimeo](https://vimeo.com).
+{{< vimeo 6240426 >}}
 
 The attending staff discuss Conner's case and authoritatively toss around [dozens of diagnoses](http://vimeo.com/6239865), never questioning the legitimacy of pediatric bipolar — a diagnoses that is currently [hotly debated](http://alchemicalmusings.org/2008/09/11/open-letter-to-the-fda/), and does not (yet) even exist in the DSM!
 
-[Conner's Diagnosis](https://vimeo.com/6239865) from [Generic Prescriptions](https://vimeo.com/user2201516) on [Vimeo](https://vimeo.com).
+{{< vimeo 6239865 >}}
 
 "There is no cure, as such"
 
-[There is no cure, as such](https://vimeo.com/6239900) from [Generic Prescriptions](https://vimeo.com/user2201516) on [Vimeo](https://vimeo.com).
+{{< vimeo 6239900 >}}
 
 and of course, "you can't ignore the symptoms."
 
-[You can't ignore the symptoms](https://vimeo.com/6239954) from [Generic Prescriptions](https://vimeo.com/user2201516) on [Vimeo](https://vimeo.com).
+{{< vimeo 6239954 >}}
 
 The decisive "evidence" of a [broken brain](http://vimeo.com/6226345) was a brain scan - a technique which is highly controversial, profiled in the Frontline investigative piece *[The Medicated Child](http://www.pbs.org/wgbh/pages/frontline/medicatedchild/)*.
 So much for alternative psychiatry.

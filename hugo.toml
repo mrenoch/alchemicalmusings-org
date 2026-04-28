@@ -6,6 +6,14 @@ theme = "mainroad"
 
 paginate = 20
 
+# Thumbnail visibility: list only by default.
+# Existing posts: images already live in the post body — showing thumbnail in
+# single view would duplicate them. New page-bundle posts can opt into single-post
+# display per-post via front matter:
+#   thumbnail: { src: "cover.jpg", visibility: ["list", "post"] }
+[Params.thumbnail]
+  visibility = ["list"]
+
 [Author]
   name = "Jonah Bossewitch"
   bio = "Aurum nostrum non est aurum vulgi"
@@ -32,11 +40,11 @@ paginate = 20
   home = "right"
   list = "right"
   single = "right"
-  widgets = ["search", "recent", "sidemenu", "categories"]
+  widgets = ["search", "recent", "categories", "taglist"]
 
 [Params.widgets]
   recent_num = 5
-  tags_counter = false
+  tags_counter = true
   categories_counter = true
 
 # JSON output for lunr search index
@@ -62,51 +70,61 @@ paginate = 20
   weight = 1
 
 [[menu.main]]
+  name = "Writing"
+  identifier = "writing"
+  url = "#"
+  weight = 2
+
+[[menu.main]]
+  name = "Alchemy 2.0"
+  parent = "writing"
+  url = "/alchemy-20/"
+  weight = 1
+
+[[menu.main]]
+  name = "Dangerous Gifts"
+  parent = "writing"
+  url = "/dangerous-gifts/"
+  weight = 2
+
+[[menu.main]]
+  name = "Digital Communications"
+  parent = "writing"
+  url = "/digital-communications-in-theory-and-practice/"
+  weight = 3
+
+[[menu.main]]
+  name = "Essays"
+  parent = "writing"
+  url = "/essays/"
+  weight = 4
+
+[[menu.main]]
+  name = "Presentations"
+  parent = "writing"
+  url = "/presentations/"
+  weight = 5
+
+[[menu.main]]
+  name = "Publications"
+  parent = "writing"
+  url = "/publications/"
+  weight = 6
+
+[[menu.main]]
+  name = "The End of Forgetting"
+  parent = "writing"
+  url = "/the-end-of-forgetting/"
+  weight = 7
+
+[[menu.main]]
   name = "About"
   identifier = "about"
   url = "/about/"
-  weight = 2
+  weight = 3
 
 [[menu.main]]
   name = "Contact"
   parent = "about"
   url = "/contact/"
   weight = 1
-
-# ── Sidebar: Writing index ────────────────────────────────────────────────────
-# (moved from main nav "Pages" dropdown — rendered by the sidemenu widget)
-
-[[menu.side]]
-  name = "Alchemy 2.0"
-  url = "/alchemy-20/"
-  weight = 1
-
-[[menu.side]]
-  name = "Dangerous Gifts"
-  url = "/dangerous-gifts/"
-  weight = 2
-
-[[menu.side]]
-  name = "Digital Communications"
-  url = "/digital-communications-in-theory-and-practice/"
-  weight = 3
-
-[[menu.side]]
-  name = "Essays"
-  url = "/essays/"
-  weight = 4
-
-[[menu.side]]
-  name = "Presentations"
-  url = "/presentations/"
-  weight = 5
-
-[[menu.side]]
-  name = "Publications"
-  url = "/publications/"
-  weight = 6
-
-[[menu.side]]
-  name = "The End of Forgetting"
-  url = "/the-end-of-forgetting/"
-  weight = 7

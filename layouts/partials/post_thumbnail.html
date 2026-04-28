@@ -1,0 +1,52 @@
+{{/*
+  post_thumbnail.html — override of mainroad's default partial.
+
+  Adds Hugo image processing for page-bundle posts (images stored alongside
+  index.md as page resources). Static images (legacy posts in static/) fall
+  through unchanged.
+
+  Sizes:
+    list  → .Fill "300x450"  — fixed crop, uniform cards in the listing
+    post  → .Resize "640x"   — width-capped, full image, text wraps beside it
+
+  Per-post visibility override (new posts, opt-in):
+    thumbnail: { src: "cover.jpg", visibility: ["list", "post"] }
+
+  Global default (hugo.toml):
+    [Params.thumbnail]
+      visibility = ["list"]
+*/}}
+
+{{- if $thumbParam := .page.Params.thumbnail }}
+  {{- $class      := .class }}
+  {{- $visibility := .page.Site.Params.thumbnail.visibility | default (slice "list" "post") }}
+
+  {{/* Support map-style thumbnail: { src: "…", visibility: […] } */}}
+  {{- $thumbSrc := $thumbParam -}}
+  {{- if in (printf "%T" $thumbParam) "map" }}
+    {{- $visibility = default $visibility (default .page.Site.Params.thumbnail.visibility $thumbParam.visibility) }}
+    {{- $thumbSrc   = $thumbParam.src }}
+  {{- end }}
+
+  {{- if in $visibility $class }}
+
+    {{/* Resolve image: page-bundle resource → Hugo processing; static → passthrough */}}
+    {{- $imgSrc  := $thumbSrc | relURL }}
+    {{- $resource := .page.Resources.GetMatch $thumbSrc }}
+    {{- if $resource }}
+      {{- if eq $class "list" }}
+        {{- $resource = $resource.Fill "300x450 q85 Center" }}
+      {{- else }}
+        {{- $resource = $resource.Resize "640x q85" }}
+      {{- end }}
+      {{- $imgSrc = $resource.RelPermalink }}
+    {{- end }}
+
+    <figure class="{{ with $class }}{{ . }}__thumbnail {{ end }}thumbnail">
+      {{ if eq $class "list" }}<a class="thumbnail__link" href="{{ .page.RelPermalink }}">{{ end }}
+      <img class="thumbnail__image" src="{{ $imgSrc }}" alt="{{ .page.Title }}">
+      {{ if eq $class "list" }}</a>{{ end }}
+    </figure>
+
+  {{- end }}
+{{- end }}

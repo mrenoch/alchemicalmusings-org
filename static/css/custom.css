@@ -252,6 +252,26 @@ a:hover {
   color: #fff !important;
 }
 
+/* ── Tag cloud — lighter outlined style, amber border (vs sage for categories) ── */
+
+.widget-taglist__link.btn {
+  background-color: transparent !important;
+  border: 1px solid #c4954a !important;
+  color: #a37d48 !important;
+  font-size: 0.78rem;
+  font-weight: 400 !important;
+  text-transform: none !important;
+  padding: 2px 8px;
+  border-radius: 3px;
+  line-height: 1.6;
+}
+
+.widget-taglist__link.btn:hover {
+  background-color: #a37d48 !important;
+  border-color: #a37d48 !important;
+  color: #fff !important;
+}
+
 /* ── Post meta (date, categories inline) ────────────────────────────────────── */
 
 .meta,
@@ -266,8 +286,28 @@ a:hover {
   color: #a37d48;
 }
 
+/* ── Images in post body (single view) ─────────────────────────────────────── */
+
+/* Legacy posts (WordPress convention): image inline at paragraph start,
+   possibly wrapped in a link. Float left so text wraps beside from the top.
+   Per-paragraph clearfix prevents float bleeding into subsequent paragraphs. */
+.post__content p > a:first-child > img,
+.post__content p > img:first-child {
+  float: left;
+  margin: 0 1.5rem 1rem 0;
+  max-width: 320px;
+  height: auto;
+}
+
+.post__content p::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 /* ── Images in post listing ─────────────────────────────────────────────────── */
 
+/* Inline images in summaries (posts without thumbnails) */
 .content.list__excerpt img {
   max-height: 220px;
   max-width: 100%;
@@ -275,6 +315,38 @@ a:hover {
   height: auto;
   display: block;
   margin-bottom: 0.75rem;
+}
+
+/* When a post already has a sidebar thumbnail, hide the duplicate inline image */
+.list__item:has(.list__thumbnail) .content.list__excerpt img {
+  display: none;
+}
+
+/* ── Single-post thumbnail (new page-bundle posts that opt into post visibility) ── */
+/* Floats the featured image right at a readable size; text wraps beside it.     */
+.post > .post__thumbnail {
+  float: right;
+  clear: right;
+  margin: 0 0 1.25rem 1.75rem;
+  max-width: 320px;
+}
+
+.post > .post__thumbnail img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* ── Writing pages: images wrap text ────────────────────────────────────────── */
+/* Non-post pages (essays, publications, etc.) don't use the thumbnail system.  */
+/* Images in their content float right by default; use the {float} shortcode    */
+/* to override per-image.                                                        */
+.page .post__content figure,
+.page .post__content img {
+  max-width: 280px;
+  height: auto;
+  float: right;
+  margin: 0 0 1rem 1.5rem;
 }
 
 /* ── Footer ─────────────────────────────────────────────────────────────────── */

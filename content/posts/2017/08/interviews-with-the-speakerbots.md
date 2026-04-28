@@ -15,6 +15,7 @@ tags:
   - "art"
   - "philosophy"
   - "surveillance"
+thumbnail: "/images/2017/08/realgenius_lecture-300x169.png"
 ---
 
 ![](/images/2017/08/realgenius_lecture-300x169.png)
