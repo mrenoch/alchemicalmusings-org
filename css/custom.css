@@ -1,0 +1,384 @@
+/*
+ * custom.css — Alchemical Musings
+ * Color palette (matched to WordPress "Gentle Calm"):
+ *   Header bg:   #cccfbc  sage
+ *   Body bg:     #f4f5ed  warm cream
+ *   Body text:   #474e44  dark sage
+ *   Title/head:  #899c81  medium sage
+ *   Accent:      #a37d48  warm amber (motto, links, highlights)
+ *   Nav bg:      #3d4a35  dark sage
+ */
+
+/* ── Typography ─────────────────────────────────────────────────────────────── */
+
+body,
+.post__content,
+.content.list__excerpt {
+  font-family: 'EB Garamond', Georgia, 'Times New Roman', serif;
+  font-size: 1.1rem;
+  line-height: 1.7;
+  color: #474e44;
+}
+
+/* ── Body background ────────────────────────────────────────────────────────── */
+
+.body {
+  background-color: #f4f5ed;
+}
+
+/* White panels → cream */
+.wrapper,
+.primary,
+.sidebar,
+.post,
+.widget {
+  background-color: #f4f5ed;
+}
+
+/* ── Headings ───────────────────────────────────────────────────────────────── */
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'EB Garamond', Georgia, serif;
+  color: #899c81;
+}
+
+.list__title a,
+.post__title a {
+  color: #899c81;
+}
+
+.list__title a:hover,
+.post__title a:hover {
+  color: #a37d48;
+}
+
+/* ── Links ──────────────────────────────────────────────────────────────────── */
+
+a {
+  color: #a37d48;
+}
+
+a:hover {
+  color: #7a5c32;
+}
+
+/* post body links — slightly muted so they don't fight headings */
+.post__content a,
+.content.list__excerpt a {
+  color: #7a9070;
+}
+
+.post__content a:hover,
+.content.list__excerpt a:hover {
+  color: #a37d48;
+}
+
+/* ── Header band ────────────────────────────────────────────────────────────── */
+
+.header {
+  background-color: #cccfbc;
+  border-bottom: none;
+}
+
+.logo__link,
+.logo__link:hover {
+  color: #474e44;
+}
+
+/* Site title */
+.logo__title {
+  color: #474e44 !important;
+}
+
+/* Motto / tagline → amber */
+.logo__tagline {
+  color: #a37d48 !important;
+}
+
+/* ── Navigation bar ─────────────────────────────────────────────────────────── */
+
+.menu__list {
+  background-color: #3d4a35;
+  border-bottom: none !important;
+}
+
+/* kill any red/accent border that leaks from the theme */
+.menu,
+.menu__list,
+.header,
+.divider {
+  border-bottom-color: transparent !important;
+}
+.divider { display: none; }
+
+.menu__link {
+  color: #e8ead8 !important;
+}
+
+.menu__link:hover,
+.menu__item--active .menu__link {
+  background-color: #a37d48 !important;
+  color: #fff !important;
+}
+
+/* Dropdown */
+.menu__item--has-children {
+  position: relative;
+}
+
+.menu__arrow {
+  font-size: 0.65em;
+  margin-left: 4px;
+  vertical-align: middle;
+  opacity: 0.7;
+}
+
+.menu__dropdown {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 200;
+  min-width: 200px;
+  margin: 0;
+  padding: 4px 0;
+  list-style: none;
+  background: #3d4a35;
+  border-top: 2px solid #a37d48;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.25);
+}
+
+.menu__item--has-children:hover .menu__dropdown,
+.menu__item--has-children:focus-within .menu__dropdown {
+  display: block;
+}
+
+.menu__dropdown-item {
+  border-bottom: 1px solid rgba(255,255,255,0.08);
+}
+
+.menu__dropdown-item:last-child {
+  border-bottom: none;
+}
+
+.menu__dropdown-link {
+  display: block;
+  padding: 8px 16px;
+  color: #cccfbc;
+  text-decoration: none;
+  font-size: 0.88rem;
+  letter-spacing: 0.03em;
+  transition: background 0.15s, color 0.15s;
+}
+
+.menu__dropdown-link:hover {
+  background: rgba(163,125,72,0.2);
+  color: #fff;
+}
+
+/* ── Sidebar ────────────────────────────────────────────────────────────────── */
+
+.widget__title {
+  color: #899c81;
+  border-bottom-color: #a37d48 !important;
+}
+
+.widget__link {
+  color: #474e44;
+}
+
+.widget__link:hover {
+  color: #a37d48;
+}
+
+/* Recent posts */
+.widget__item a {
+  color: #474e44;
+}
+
+.widget__item a:hover {
+  color: #a37d48;
+}
+
+/* Categories: compact inline cloud */
+.widget-categories .widget__list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  padding: 0;
+  list-style: none;
+}
+
+.widget-categories .widget__item {
+  margin: 0;
+}
+
+.widget-categories .widget__link {
+  display: inline-block;
+  padding: 2px 8px;
+  font-size: 0.78rem;
+  border: 1px solid #b5bfaa;
+  border-radius: 3px;
+  color: #474e44;
+  text-decoration: none;
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
+}
+
+.widget-categories .widget__link:hover {
+  background: #a37d48;
+  border-color: #a37d48;
+  color: #fff;
+}
+
+.widget__counter--bubble {
+  font-size: 0.7em;
+  vertical-align: super;
+  color: #a37d48;
+}
+
+/* ── Buttons / Read More ────────────────────────────────────────────────────── */
+
+.btn,
+.list__footer-readmore {
+  background-color: #a37d48;
+  border-color: #a37d48;
+  color: #fff !important;
+}
+
+.btn:hover,
+.list__footer-readmore:hover {
+  background-color: #7a5c32;
+  border-color: #7a5c32;
+  color: #fff !important;
+}
+
+/* ── Tag cloud — lighter outlined style, amber border (vs sage for categories) ── */
+
+.widget-taglist__link.btn {
+  background-color: transparent !important;
+  border: 1px solid #c4954a !important;
+  color: #a37d48 !important;
+  font-size: 0.78rem;
+  font-weight: 400 !important;
+  text-transform: none !important;
+  padding: 2px 8px;
+  border-radius: 3px;
+  line-height: 1.6;
+}
+
+.widget-taglist__link.btn:hover {
+  background-color: #a37d48 !important;
+  border-color: #a37d48 !important;
+  color: #fff !important;
+}
+
+/* ── Post meta (date, categories inline) ────────────────────────────────────── */
+
+.meta,
+.post__meta,
+.list__meta {
+  color: #899c81;
+}
+
+.meta a,
+.post__meta a,
+.list__meta a {
+  color: #a37d48;
+}
+
+/* ── Images in post body (single view) ─────────────────────────────────────── */
+
+/* Legacy posts (WordPress convention): image inline at paragraph start,
+   possibly wrapped in a link. Float left so text wraps beside from the top.
+   Per-paragraph clearfix prevents float bleeding into subsequent paragraphs. */
+.post__content p > a:first-child > img,
+.post__content p > img:first-child {
+  float: left;
+  margin: 0 1.5rem 1rem 0;
+  max-width: 320px;
+  height: auto;
+}
+
+.post__content p::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* ── Images in post listing ─────────────────────────────────────────────────── */
+
+/* Inline images in summaries (posts without thumbnails) */
+.content.list__excerpt img {
+  max-height: 220px;
+  max-width: 100%;
+  width: auto;
+  height: auto;
+  display: block;
+  margin-bottom: 0.75rem;
+}
+
+/* When a post already has a sidebar thumbnail, hide the duplicate inline image */
+.list__item:has(.list__thumbnail) .content.list__excerpt img {
+  display: none;
+}
+
+/* ── Single-post thumbnail (new page-bundle posts that opt into post visibility) ── */
+/* Floats the featured image right at a readable size; text wraps beside it.     */
+.post > .post__thumbnail {
+  float: right;
+  clear: right;
+  margin: 0 0 1.25rem 1.75rem;
+  max-width: 320px;
+}
+
+.post > .post__thumbnail img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* ── Writing pages: images wrap text ────────────────────────────────────────── */
+/* Non-post pages (essays, publications, etc.) don't use the thumbnail system.  */
+/* Images in their content float right by default; use the {float} shortcode    */
+/* to override per-image.                                                        */
+.page .post__content figure,
+.page .post__content img {
+  max-width: 280px;
+  height: auto;
+  float: right;
+  margin: 0 0 1rem 1.5rem;
+}
+
+/* ── Footer ─────────────────────────────────────────────────────────────────── */
+
+.footer {
+  background-color: #3d4a35;
+  color: #b5bfaa;
+}
+
+.footer a {
+  color: #cccfbc;
+}
+
+.footer a:hover {
+  color: #fff;
+}
+
+.footer__copyright {
+  color: #9aaa80;
+}
+
+/* ── Pagination ─────────────────────────────────────────────────────────────── */
+
+.pagination a,
+.pager__link {
+  color: #a37d48;
+  border-color: #b5bfaa;
+}
+
+.pagination a:hover,
+.pager__link:hover {
+  background: #a37d48;
+  border-color: #a37d48;
+  color: #fff;
+}
