@@ -27,6 +27,8 @@ We tried to connect Burning Man to a central question in education -- the questi
 
 Our talk:
 
+{{< youtube P294neqioWA >}}
+
 And our slides:
 
 Now that we have presented this to CCNMTL, some of the librarians have gotten wind of our talk, and have invited us to re-present it at a tech brownbag lunch later this Fall :-D

@@ -13,6 +13,8 @@ tags:
   - "surveillance"
 ---
 
+{{< youtube l7BDuTiHC3I >}}
+
 This past year I have been working on turning my dissertation into a trade book. I am making steady but slow progress; print remains an important but slooooow media.
 My concerns around preventative psychiatric diagnosis and treatment motivated and propelled my dissertation, and they form the backdrop of my ethnographic study of the mad movement. My book will engage with these threats more directly and position them alongside the demands of the Mad Underground. The ideas of groups such as the [Institute for the Development of Human Arts](http://idha-nyc.org/) and [NYC Icarus](http://nycicarus.org/) offer us some hope of diffusing the menacing time-bomb of surveillance psychiatry before it explodes.
 In the past few weeks, a few stories broke and I feel compelled to write about them in the context of my research:

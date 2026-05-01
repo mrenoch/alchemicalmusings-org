@@ -23,6 +23,8 @@ If you want a vivid illustration of the ways in which the financial sector has b
 **No Place to Hide**
 This summer I also collected more stories of the dark sides of centralized social networking.  This is happening now as *we* become the products and tolerate corporations spying on us all the time. Even if we (think) we have nothing to hide:
 
+{{< youtube TDaFwnOiKVE >}}
+
 - [Medication adherence FICO score](http://well.blogs.nytimes.com/2011/06/20/keeping-score-on-how-you-take-your-medicine/) -- A company is collecting pharmacy data, calculating your likelyhood of compliance, and packaging this value into a number that *could* be used to compute insurance rates, APRs, and mortgage eligibility.
 - [Social media background checks](http://gizmodo.com/5818774/this-is-a-social-media-background-check) -- Your public exploits are being dug up, analyzed and sold to whoever is curious (future employers, mates, enemies).
 - [Flyzilla thwarted](http://www.huffingtonpost.com/2011/07/08/pro-palestinian-airborne-protest-blocked-israel-_n_893398.html) -- With Facebook's help, the Israeli's blacklisted over 300 activists and prevented them from entering Israel to protest the occupation. It is not clear if FB cooperated directly, or if they even needed to.

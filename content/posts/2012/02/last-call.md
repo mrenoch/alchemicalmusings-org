@@ -18,3 +18,5 @@ Our [Kickstarter campaign](http://www.kickstarter.com/projects/jonahboss/mindful
 <http://kck.st/yAmbya>
 
 A guide for participants in the occupy movement to strengthen our psychic, soulful and heartfelt contributions. #mutualaid #peersupport
+
+{{< youtube OGq93o_UxYo >}}
