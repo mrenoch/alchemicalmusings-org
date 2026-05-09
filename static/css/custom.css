@@ -299,7 +299,7 @@ a:hover {
   height: auto;
 }
 
-.post__content p::after {
+.post__content p:has(> a:first-child > img, > img:first-child)::after {
   content: "";
   display: table;
   clear: both;
@@ -322,12 +322,27 @@ a:hover {
   display: none;
 }
 
+/* ── Inline figure shortcode with class="thumbnail" ─────────────────────────── */
+/* Used for mid-post images (e.g. Farley building). Mirrors thumbnail sizing.    */
+.post__content figure.thumbnail {
+  float: left;
+  clear: left;
+  margin: 0 1.75rem 1.25rem 0;
+  max-width: 320px;
+}
+
+.post__content figure.thumbnail img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
 /* ── Single-post thumbnail (new page-bundle posts that opt into post visibility) ── */
-/* Floats the featured image right at a readable size; text wraps beside it.     */
+/* Floats the featured image left at a readable size; text wraps beside it.      */
 .post > .post__thumbnail {
-  float: right;
-  clear: right;
-  margin: 0 0 1.25rem 1.75rem;
+  float: left;
+  clear: left;
+  margin: 0 1.75rem 1.25rem 0;
   max-width: 320px;
 }
 
