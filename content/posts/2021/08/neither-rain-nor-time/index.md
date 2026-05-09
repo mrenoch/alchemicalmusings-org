@@ -6,10 +6,12 @@ slug: "neither-rain-nor-time"
 url: "/2021/08/18/neither-rain-nor-time/"
 categories:
   - "Air"
+  - "Earth"
 tags:
   - "journalism"
   - "politics"
   - "technology"
+  - "AI"
 thumbnail:
   src: revolution_stamps.jpg
   visibility: ["list", "post"]
@@ -22,6 +24,11 @@ A few weeks ago I was reminded of the oversized importance of the US Post Office
 On the afternoon of April 15th I was busy calculating my estimated taxes so I could file my yearly extension. I had considered a [protest witholding](https://www.theguardian.com/us-news/2026/mar/11/trump-income-tax-protest), but am actually owed a refund this year 😁.
 
 Partway through my research, my new bff Claude casually reminded me that the US Government has a 3-year hard deadline for issuing refunds. If you file your taxes more than 3 years after they are due, the government will eat any money they owe you. Alarm bells rang. I vaguely remembered that my wife's 2022 taxes were rejected a few years back, after a dependent-status conflict — her ex had also claimed our kid that year. My wife's returns were sent back to her, and needed to be manually re-filed. Suffice it to say that chore had been neglected, and on the afternoon of April 15, 2026 I realized we had until midnight to postmark her returns, or forfeit the refund.
+
+{{< figure src="1920px-James_Farley_Post_Office_c1912.jpg" 
+            alt="James Farley Post Office, c.1912. Photo: Bain News Service." 
+            link="https://en.wikipedia.org/wiki/James_A._Farley_Building" 
+            class="thumbnail" >}}
 
 I didn't panic.  I knew that the magnificent [James A. Farley](https://en.wikipedia.org/wiki/James_A._Farley_Building) post office in NYC was open until midnight on tax day.  Surely, the Constitution State must provide similar postal relief.  A quick search on Google Maps and reality hit. The only Post Office open late in the entire state was located at Bradley Airport, about an hour away. And, only until 10pm not midnight. 
 
