@@ -16,7 +16,7 @@ body,
 .content.list__excerpt {
   font-family: 'EB Garamond', Georgia, 'Times New Roman', serif;
   font-size: 1.1rem;
-  line-height: 1.7;
+  line-height: 1.55;
   color: #474e44;
 }
 
@@ -305,6 +305,29 @@ a:hover {
   clear: both;
 }
 
+/* ── Blockquote ─────────────────────────────────────────────────────────────── */
+
+blockquote {
+  border-left-color: #3d4a35 !important;
+}
+
+/* ── Post content headings — flush left always ──────────────────────────────── */
+
+.post__content h1,
+.post__content h2,
+.post__content h3,
+.post__content h4 {
+  text-align: left;
+}
+
+/* ── List thumbnail — consistent size (Hugo handles the crop) ───────────────── */
+
+.list__thumbnail img {
+  width: 300px;
+  height: auto;
+  display: block;
+}
+
 /* ── Images in post listing ─────────────────────────────────────────────────── */
 
 /* Inline images in summaries (posts without thumbnails) */
@@ -338,18 +361,27 @@ a:hover {
 }
 
 /* ── Single-post thumbnail (new page-bundle posts that opt into post visibility) ── */
-/* Floats the featured image left at a readable size; text wraps beside it.      */
+/* Block layout: full-width image above content, no float.                       */
 .post > .post__thumbnail {
-  float: left;
-  clear: left;
-  margin: 0 1.75rem 1.25rem 0;
-  max-width: 320px;
+  float: none;
+  clear: none;
+  margin: 0 0 1.75rem 0;
+  max-width: 100%;
 }
 
 .post > .post__thumbnail img {
   width: 100%;
   height: auto;
   display: block;
+}
+
+/* Caption below post thumbnail */
+.post > .post__thumbnail figcaption {
+  font-size: 0.95rem;
+  color: #899c81;
+  font-style: italic;
+  margin-top: 0.5rem;
+  text-align: right;
 }
 
 /* ── Writing pages: images wrap text ────────────────────────────────────────── */
@@ -381,6 +413,27 @@ a:hover {
 
 .footer__copyright {
   color: #9aaa80;
+}
+
+/* ── Mobile: stack list thumbnail above text ────────────────────────────────── */
+
+@media screen and (max-width: 620px) {
+  .list__thumbnail {
+    float: none;
+    display: block;
+    width: 100%;
+    margin: 0 0 0.75rem 0;
+  }
+
+  .list__thumbnail img {
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+  }
+
+  .list__title {
+    font-size: 1.4rem !important;
+  }
 }
 
 /* ── Pagination ─────────────────────────────────────────────────────────────── */

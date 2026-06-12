@@ -2,8 +2,8 @@
 title: "John's Best Friend"
 date: 2026-06-11T04:20:19
 draft: false
-slug: "john-searle-best-friend"
-url: "/2026/06/john-searles-best-friend/"
+slug: "johns-best-friend"
+url: "/2026/06/johns-best-friend/"
 categories:
   - "Air"
   - "Earth"
@@ -12,19 +12,13 @@ tags:
   - "semantics"
   - "consciousness"
   - "AI"
+  - "AILife"
 thumbnail:
   src: My_Singing_Chinese_Room_Monster_Gemini.jpg
   visibility: ["list", "post"]
+  alt: "A singing monster exchanges chinese symbols while trapped in John Searle's basement"
+  caption: "*A note becomes a chord, becomes a phrase, becomes a melody<br>And a note becomes a monster.*<br> — <a href='https://genius.com/My-singing-monsters-plant-island-lyrics'>Plant Island, My Singing Monsters, Vol 2.</a>"
 ---
-
-&nbsp;
-> *A note becomes a chord, becomes a phrase, becomes a melody*<br/> 
-> *And a note becomes a monster*<br/>
--- [Plant Island, My Singing Monster's, Vol 2.](https://genius.com/My-singing-monsters-plant-island-lyrics)
-<div style="text-align: right;"></div>
-
-
-## Interdisciplinary Exorcisms
 
 There is a famous thought experiment in philosophy of mind that has haunted AI research for over forty years. John Searle's [Chinese Room Argument](https://plato.stanford.edu/entries/chinese-room/), introduced in his 1980 paper "[Minds, Brains, and Programs](https://zoo.cs.yale.edu/classes/cs458/materials/minds-brains-and-programs.pdf)."  With a level of cultural sensitivity typical for his demographic and era, Searle asks us to imagine a person locked in a room, receiving slips of paper with Chinese characters written on them. The person follows an elaborate rulebook (aka an "algorithmic program") that tells them which characters to pass back through the slot in response. To an outside observer, the room appears to understand Chinese. Searle's point: it doesn't. The person inside understands nothing. Syntax is not semantics. Symbol manipulation is not understanding.
 
@@ -32,9 +26,9 @@ The argument has generated more philosophical commentary than perhaps any other 
 
 I want to challenge the premise. Specifically, I want to enlist a mentor of mine, Prof. George Miller, known in many circles as the father of Cognitive Science. After Miller retired from teaching, he started the [WordNet](https://en.wikipedia.org/wiki/WordNet) project and I met him over a summer internship helping to build the lexicon that serves as the cornerstone of Natural Language Processing and Large Language Models.
 
----
+<!--more-->
 
-## The Magical Number Seven, +/- Implications
+## Interdisciplinary Exorcisms: The Magical Number Seven, +/- Implications
 
 In 1956, George Miller published "[The Magical Number Seven, Plus or Minus Two: Some Limits on our Capacity for Information Processing.](https://archive.org/details/miller1956_202204)." The paper is still one of the most widely cited papers in Psychology, and is remembered for establishing working memory capacity at roughly seven items. But the more radical contribution was chunking.
 
@@ -43,8 +37,6 @@ Miller noticed that the *size* of a memory item was not fixed. Naive subjects co
 The world's pigeons celebrated this paper since it functioned as a Trojan horse to B.F. Skinner's behaviorism. You cannot have chunks without internal representation. The chunk *is* the representation. To chunk is to have built a model of the domain "a model" that allows you to treat a complex pattern as a single unit, to manipulate it, combine it with other chunks, deploy it in new contexts.
 
 Miller's paper was not really about memory limits. It was about the mind as an active recoding system. Behaviorism never recovered.
-
----
 
 ## Zombie Operators
 
@@ -66,13 +58,11 @@ At times, Searle deliberately blurs this distinction between cognitive understan
 
 > One gets the impression that people in AI who write this sort of thing think they can get away with it because they don't really take it seriously, and they don't think anyone else will either. I propose for a moment at least, to take it seriously. Think hard for one minute about what would be necessary to establish that that hunk of metal on the wall over there had real beliefs beliefs with direction of fit, propositional content, and conditions of satisfaction; beliefs that had the possibility of being strong beliefs or weak beliefs; nervous, anxious, or secure beliefs; dogmatic, rational, or superstitious beliefs; blind faiths or hesitant cogitations; any kind of beliefs. 
 
-Anxious beliefs? Suddenly our operator suffers from PTSD and nervous condition? If they do, it's likely the result of being trapped in Searle's prison for almost 5 decades.  Searle's Chinese Room is characterized a thought experiment about semantics, comprehension and meaning. Miller's chunking shows that semantics cannot be fully excluded from any sufficiently complex processing system, because the compression operation that chunking performs is itself a semantic act. You chunk what coheres. Coherence is meaning.
+Anxious beliefs? Suddenly our operator suffers from PTSD and nervous condition? If they do, it's likely the result of being trapped in Searle's prison for almost 5 decades.  Searle's Chinese Room is characterized as a thought experiment about semantics, comprehension and meaning. Miller's chunking shows that semantics cannot be fully excluded from any sufficiently complex processing system, because the compression operation that chunking performs is itself a semantic act. You chunk what coheres. Coherence is meaning.
 
 The chunk is not a syntactic object. A chunk is defined by its meaning; The chunk is defined by the fact that it *compresses* a pattern that has been recognized as coherent and recurring. You cannot chunk 北京 (Beijing) into a single unit meaning "the capital" without having, in some minimal but real sense, grasped that it refers to something. The compression requires a referent.
 
 Searle's room works as a thought experiment only if the operator remains forever at the level of individual stroke recognition. But no cognitive system — not even a deliberately mechanical one — can process a sufficiently rich symbol system at scale without chunking. And the moment chunking begins, the operator has acquired something that cannot be characterized as purely syntactical manipulation.
-
----
 
 ## On the spectrum
 
@@ -82,9 +72,12 @@ Searle's error is to treat understanding as binary -- either the lights are on o
 
 I wonder if John Searle ever owned a dog. Searle's best friend, apparently, displayed no comprehension that when John went to the door carrying his keys and a leash it was time for a walk. Certainly his dog was incapable of understanding that a squirrel temporarily obscured behind a passing car would reemerge moments later. Searle's dog belongs to a rare breed owned exclusively by Western Analytic Philosophers — animals who simply react to external stimuli, incapable of any form of understanding, innocent of any inner life. :dog:
 
----
-
 ## The Limits of Gedankenexperiments
+
+{{< figure src="500px-Train_wreck_at_Montparnasse_1895.jpg" 
+            alt="By Photo credited to the firm Levy & fils by Wikipedia." 
+            link="https://en.wikipedia.org/wiki/Montparnasse_derailment" 
+            class="thumbnail" >}}
 
 There is one more move worth making explicit.
 
@@ -96,14 +89,9 @@ Google Scholar shows over 115,000 citations for Miller's 1956 paper — placing 
 
 The question "can syntax become semantics?" may be less interesting than the question "can any sufficiently complex processing system remain purely syntactic?" Miller's answer, I think, is no.
 
-If he can chunk, he must understand. The room was never as empty as Searle supposed.
+George Miller's WordNet lab was busy filling the room with meaning, one word at a time. If he can chunk, he must understand. The room was never as empty as Searle supposed. 
 
 ---
 
----
-
-*Part I of a series. Next up: the stochastic parrot enters the room — and the pigeons are waiting.*
-
-
-
-
+*Episode IV in an operatic series of musings on **#AILife**. <br/>
+Next up: the stochastic parrot enters the room — and the pigeons are waiting.*
