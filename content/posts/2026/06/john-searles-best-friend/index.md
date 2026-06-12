@@ -46,7 +46,7 @@ Miller's paper was not really about memory limits. It was about the mind as an a
 
 ---
 
-## The Chunking Homunculus
+## The Chunky Monkey
 
 Now let's return to Searle's prison.
 
@@ -68,7 +68,7 @@ Searle's room works as a thought experiment only if the operator remains forever
 
 ---
 
-## The Spectrum of Understanding
+## On the spectrum
 
 This doesn't prove that the Chinese Room understands Chinese in the full sense a native speaker does. The concept of "understanding" may be best understood as a spectrum rather than a binary. Miller's framework suggests exactly this: chunking is recursive and hierarchical. A beginning reader chunks letters into words. An experienced reader chunks words into phrases, phrases into narrative structures, narrative structures into genre conventions. Understanding deepens as the chunk hierarchy grows richer.
 
@@ -78,7 +78,7 @@ I wonder if John Searle ever owned a dog, and if said pooch was ever secretly re
 
 ---
 
-## On the Limits of Gedankenexperiments
+## The Limits of Gedankenexperiments
 
 There is one more move worth making explicit.
 
@@ -94,7 +94,11 @@ If he can chunk, he must understand. The room was never as empty as Searle suppo
 
 ---
 
-The more recent stochastic parrot metaphor used to critique of large language models makes a similar error. In the paper "[On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://dl.acm.org/doi/10.1145/3442188.3445922), Bender, Gebrue, et al introduce an ethical dimension that Searle ignores, but at its core, the authors imagine a system that manipulates symbols without any internal model of their relationships -- lookup table dressed in a lab coat. I am fully on board with their emphasis on ethics and safety, but I find their premise confusing. As I understand it, a system that has developed sufficiently rich internal representations of linguistic structure, contextual dependencies, and semantic regularities has, by the Miller criterion, chunked. It has a model. Whether that model is accompanied by phenomenal consciousness is a separate and harder question the question David Chalmers' asked about his imaginary linguistically fluent zombies.  
+## Coming Soon 
+
+In the next installment of this musing we'll compare and contrast Searle's Çhinese Room to the more recent stochastic parrot metaphor used to critique of large language models ([On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://dl.acm.org/doi/10.1145/3442188.3445922). 
+
+Bender, Gebrue, et al introduce an ethical dimension that Searle ignores, but at its core, the authors imagine a system that manipulates symbols without any internal model of their relationships -- lookup table dressed in a lab coat. I am fully on board with their emphasis on ethics and safety, but I find their premise confusing. As I understand it, a system that has developed sufficiently rich internal representations of linguistic structure, contextual dependencies, and semantic regularities has, by the Miller criterion, chunked. It has a model. Whether that model is accompanied by phenomenal consciousness is a separate and harder question the question David Chalmers' asked about his imaginary linguistically fluent zombies.  
 
 At times, Searle blurs this distinction as he smuggles in weasel words:
 
