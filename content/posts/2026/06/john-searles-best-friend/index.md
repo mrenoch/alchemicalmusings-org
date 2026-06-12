@@ -24,13 +24,13 @@ thumbnail:
 <div style="text-align: right;"></div>
 
 
-## Interdisciplanry Excorcisms
+## Interdisciplinary Exorcisms
 
 There is a famous thought experiment in philosophy of mind that has haunted AI research for over forty years. John Searle's [Chinese Room Argument](https://plato.stanford.edu/entries/chinese-room/), introduced in his 1980 paper "[Minds, Brains, and Programs](https://zoo.cs.yale.edu/classes/cs458/materials/minds-brains-and-programs.pdf)."  With a level of cultural sensitivity typical for his demographic and era, Searle asks us to imagine a person locked in a room, receiving slips of paper with Chinese characters written on them. The person follows an elaborate rulebook (aka an "algorithmic program") that tells them which characters to pass back through the slot in response. To an outside observer, the room appears to understand Chinese. Searle's point: it doesn't. The person inside understands nothing. Syntax is not semantics. Symbol manipulation is not understanding.
 
-The argument has generated more philosophical commentary than perhaps any other thought experiment since Einstin rode his imaginary locamotive. Functionalists, embodied cognitionists, systems theorists, armchair philosophers, have all taken a swing. Most of the swings miss, because they accept Searle's premises and argue about the conclusions.
+The argument has generated more philosophical commentary than perhaps any other thought experiment since Einstein rode his imaginary locomotive. Functionalists, embodied cognitionists, systems theorists, armchair philosophers, have all taken a swing. Most of the swings miss, because they accept Searle's premises and argue about the conclusions.
 
-I want to challenge the premise. Specifically, I want to enlist a mentor of mine, Prof. George Miller, known in many circles as the father of Cognitive Science. After Miller retired from teaching, he started the [WordNet](https://en.wikipedia.org/wiki/WordNet) project and I met him over a summer internship helping to build the lexicon that serves as the cornerstone of Natural Language Processiing and Large Language Models.
+I want to challenge the premise. Specifically, I want to enlist a mentor of mine, Prof. George Miller, known in many circles as the father of Cognitive Science. After Miller retired from teaching, he started the [WordNet](https://en.wikipedia.org/wiki/WordNet) project and I met him over a summer internship helping to build the lexicon that serves as the cornerstone of Natural Language Processing and Large Language Models.
 
 ---
 
@@ -38,7 +38,7 @@ I want to challenge the premise. Specifically, I want to enlist a mentor of mine
 
 In 1956, George Miller published "[The Magical Number Seven, Plus or Minus Two: Some Limits on our Capacity for Information Processing.](https://archive.org/details/miller1956_202204)." The paper is still one of the most widely cited papers in Psychology, and is remembered for establishing working memory capacity at roughly seven items. But the more radical contribution was chunking.
 
-Miller noticed that the *size* of a memory item was not fixed. Naive subjects could hold seven binary digits, or seven decimal digits, or seven words of roughly the same number of *chunks* regardless of the information content of each chunk. I can still remember a handful of 10 digit phone numbers from my youth, but mostly because I chunk the area codes into OG's (212), Hipsters (718) and early pager adopters (917). The mind, Miller demonstrated, actively recodes information. It compresses. It builds higher-order units out of lower-order ones. A sequence of letters becomes a word. A sequence of words becomes a phrase. A phrase becomes a concept with a handle. And a letter becomes a philophical monster.
+Miller noticed that the *size* of a memory item was not fixed. Naive subjects could hold seven binary digits, or seven decimal digits, or seven words of roughly the same number of *chunks* regardless of the information content of each chunk. I can still remember a handful of 10 digit phone numbers from my youth, but mostly because I chunk the area codes into OG's (212), Hipsters (718) and early pager adopters (917). The mind, Miller demonstrated, actively recodes information. It compresses. It builds higher-order units out of lower-order ones. A sequence of letters becomes a word. A sequence of words becomes a phrase. A phrase becomes a concept with a handle. And a letter becomes a philosophical monster.
 
 The world's pigeons celebrated this paper since it functioned as a Trojan horse to B.F. Skinner's behaviorism. You cannot have chunks without internal representation. The chunk *is* the representation. To chunk is to have built a model of the domain "a model" that allows you to treat a complex pattern as a single unit, to manipulate it, combine it with other chunks, deploy it in new contexts.
 
@@ -46,7 +46,7 @@ Miller's paper was not really about memory limits. It was about the mind as an a
 
 ---
 
-## The Chunky Monkey
+## Zombie Operators
 
 Now let's return to Searle's prison.
 
@@ -58,15 +58,15 @@ Consider what "following a rulebook" actually involves for a sufficiently comple
 
 They will notice that certain sequences of characters co-occur reliably. They will begin to treat those sequences as single units. They will build higher-order patterns from lower-order ones. They will, in short, develop an internal model of the statistical and structural regularities of the system they are processing.
 
-And here is where Searle's argument collapses under it's own hubris: **that internal model just *is* a form of understanding.**
+And here is where Searle's argument collapses under its own hubris: **that internal model just *is* a form of understanding.**
 
-Not necessarily full semantic understanding in the richest phenomenological sense. Not qualia. Not (necessarily) consciousnes. I don't claim to solve that hard problem in this post. But I am claiming the operator understands, in the functional sense that Miller's cognitive science demands. They must have the capacity to represent, compress, and deploy structured knowledge about a domain.
+Not necessarily full semantic understanding in the richest phenomenological sense. Not qualia. Not (necessarily) consciousness. I don't claim to solve that hard problem in this post. But I am claiming the operator understands, in the functional sense that Miller's cognitive science demands. They must have the capacity to represent, compress, and deploy structured knowledge about a domain.
 
-At times, Searle blurs this distinction between cognitive understanding and phenomenal experience (e.g. feeling) as he smuggles in weasel words:
+At times, Searle deliberately blurs this distinction between cognitive understanding and phenomenal experience (e.g. feeling) as he smuggles in weasel words:
 
-> I propose for a moment at least, to take it seriously. Think hard for one minute about what would be necessary to establish that that hunk of metal on the wall over there had real beliefs beliefs with direction of fit, propositional content, and conditions of satisfaction; beliefs that had the possibility of being strong beliefs or weak beliefs; nervous, anxious, or secure beliefs; dogmatic, rational, or superstitious beliefs; blind faiths or hesitant cogitations; any kind of beliefs. 
+> One gets the impression that people in AI who write this sort of thing think they can get away with it because they don't really take it seriously, and they don't think anyone else will either. I propose for a moment at least, to take it seriously. Think hard for one minute about what would be necessary to establish that that hunk of metal on the wall over there had real beliefs beliefs with direction of fit, propositional content, and conditions of satisfaction; beliefs that had the possibility of being strong beliefs or weak beliefs; nervous, anxious, or secure beliefs; dogmatic, rational, or superstitious beliefs; blind faiths or hesitant cogitations; any kind of beliefs. 
 
-Anxios beleifs?  Suddenly our operator suffers from PTSD and nervous condition? If they do, it's likely the result of being trapped in Searle's hologram for almost 5 decades.  Searle's Chinese Room is an thought experiment about semantics, comprehension and meaning. Miller's chunking shows that semantics cannot be fully excluded from any sufficiently complex processing system, because the compression operation that chunking performs is itself a semantic act. You chunk what coheres. Coherence is meaning.
+Anxious beliefs? Suddenly our operator suffers from PTSD and nervous condition? If they do, it's likely the result of being trapped in Searle's prison for almost 5 decades.  Searle's Chinese Room is characterized a thought experiment about semantics, comprehension and meaning. Miller's chunking shows that semantics cannot be fully excluded from any sufficiently complex processing system, because the compression operation that chunking performs is itself a semantic act. You chunk what coheres. Coherence is meaning.
 
 The chunk is not a syntactic object. A chunk is defined by its meaning; The chunk is defined by the fact that it *compresses* a pattern that has been recognized as coherent and recurring. You cannot chunk 北京 (Beijing) into a single unit meaning "the capital" without having, in some minimal but real sense, grasped that it refers to something. The compression requires a referent.
 
@@ -102,7 +102,7 @@ If he can chunk, he must understand. The room was never as empty as Searle suppo
 
 ## Coming Soon 
 
-In the next installment in this series of musings we'll compare and contrast Searle's Çhinese Room to the more recent stochastic parrot metaphor used to critique of large language models ([On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://dl.acm.org/doi/10.1145/3442188.3445922). 
+In the next installment in this series of musings we'll compare and contrast Searle's Chinese Room to the more recent stochastic parrot metaphor used to critique of large language models ([On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://dl.acm.org/doi/10.1145/3442188.3445922). 
 
 
 
