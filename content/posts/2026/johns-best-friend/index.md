@@ -1,5 +1,5 @@
 ---
-title: "John Searle's Best Friend"
+title: "John's Best Friend"
 date: 2026-06-11T04:20:19
 draft: false
 slug: "john-searle-best-friend"
@@ -80,7 +80,7 @@ This doesn't prove that the Chinese Room understands Chinese in the full sense a
 
 Searle's error is to treat understanding as binary -- either the lights are on or they're off -- and then places the translator in a room with a blown fuse. However, specifying cognitive inertness for an operator of sufficient complexity and duration is not a coherent stipulation. It contradicts what we know about how minds actually process information.
 
-I wonder if John Searle ever owned a dog, or if this imaginary pooch was secretly replaced by an identical canine robot without any internal representations of the world. Searle's best friend displayed no comprehension that when John went to the door carrying his keyes and a leash it was time for a walk. His dog is also incapable of understanding that a squirrel is temporarily obscured behind a passing car and will reemerge moments later. Searle's dog belongs to a rare breed of dogs owned exclusively by Western Analytic Philosophers who simply react to external stimuli, are incapable of any form of understanding, and feel no emotions. :dog:
+I wonder if John Searle ever owned a dog. Searle's best friend, apparently, displayed no comprehension that when John went to the door carrying his keys and a leash it was time for a walk. Certainly his dog was incapable of understanding that a squirrel temporarily obscured behind a passing car would reemerge moments later. Searle's dog belongs to a rare breed owned exclusively by Western Analytic Philosophers — animals who simply react to external stimuli, incapable of any form of understanding, innocent of any inner life. :dog:
 
 ---
 
@@ -100,9 +100,9 @@ If he can chunk, he must understand. The room was never as empty as Searle suppo
 
 ---
 
-## Coming Soon 
+---
 
-In the next installment in this series of musings we'll compare and contrast Searle's Chinese Room to the more recent stochastic parrot metaphor used to critique of large language models ([On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://dl.acm.org/doi/10.1145/3442188.3445922). 
+*Part I of a series. Next up: the stochastic parrot enters the room — and the pigeons are waiting.*
 
 
 
