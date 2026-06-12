@@ -1,0 +1,23 @@
+# lychee link checker config — alchemicalmusings.org
+# Docs: https://lychee.cli.rs/usage/configuration/
+
+# Sites that block bots or require auth — exclude from checks
+exclude = [
+  "https://twitter.com",
+  "https://x.com",
+  "https://facebook.com",
+  "https://linkedin.com",
+  "https://instagram.com",
+  "https://store.usps.com",    # returns 403 to bots
+  "https://www.nytimes.com",   # paywalled, blocks bots
+  "https://pressley.house.gov",
+]
+
+# Accept these as "valid" even if they redirect
+accept = [200, 206, 429]   # 429 = rate-limited but alive
+
+# Timeout per request in seconds
+timeout = 30
+
+# Retry failed requests this many times before reporting broken
+max_retries = 3

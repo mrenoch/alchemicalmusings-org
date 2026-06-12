@@ -1,0 +1,53 @@
+name: Link Check
+
+on:
+  schedule:
+    - cron: '0 9 * * 1'   # Mondays at 9am UTC
+  workflow_dispatch:        # run manually any time from Actions tab
+
+jobs:
+  link-check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: false
+          fetch-depth: 0
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.159.1'
+          extended: true
+
+      - name: Build
+        run: make build
+
+      - name: Check links
+        # Local equivalent: make linkcheck (requires: brew install lychee)
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --verbose
+            --no-progress
+            --timeout 30
+            --max-retries 3
+            --exclude-mail
+            --exclude-path './public/tags/**'
+            --exclude-path './public/categories/**'
+            './public/**/*.html'
+          fail: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Create issue on broken links
+        if: env.lychee_exit_code != 0
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: "Broken links found"
+          content-filepath: ./lychee/out.md
+          labels: |
+            broken-links
+            maintenance
